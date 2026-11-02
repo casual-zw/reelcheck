@@ -1,0 +1,27 @@
+{
+  "video_key": "REPLACE_WITH_PLATFORM_ID",
+  "language": "en",
+  "language_reviewed": false,
+  "category": null,
+  "event_cluster_id": null,
+  "duplicate_cluster_id": null,
+  "source_role": "original_claim|reporting_claim|rebuttal|satire|authentic_reference|unclear",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "start_seconds": null,
+      "end_seconds": null,
+      "claim_text": null,
+      "modality": "speech|onscreen_text|visual|cross_modal",
+      "assertion_date": null,
+      "label": "unreviewed",
+      "allowed_labels": ["supported", "refuted", "misleading_context", "mixed", "insufficient_evidence", "not_checkable"],
+      "evidence": [{"url": null, "publisher": null, "published_at": null, "retrieved_at": null, "supports_or_refutes": null, "rationale": null}],
+      "reviewer_1": null,
+      "reviewer_2": null,
+      "adjudicated_label": null
+    }
+  ],
+  "video_label": "unreviewed",
+  "notes": null
+}
