@@ -1,5 +1,9 @@
 # Short-video fact-checking collection
 
+The [50-case evidence-backed development set](benchmark50/README.md) includes
+separate verifier inputs, provisional reference labels, provenance, source snapshots,
+and a human review template. Its AI-drafted labels have not been human-verified.
+
 For the Fireworks multi-model labeling pipeline, see [LABELING.md](LABELING.md).
 For the reduced-token 300-video run, see [BULK_LABELING.md](BULK_LABELING.md).
 

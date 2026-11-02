@@ -1,0 +1,10 @@
+{
+  "cases": 50,
+  "physical_videos_hash_verified": 29,
+  "exact_passage_occurrences_checked": 471,
+  "unique_model_request_receipts": 103,
+  "label_leakage_check": "passed",
+  "reelcheck_input_validation": "passed",
+  "human_verified": 0,
+  "scope": "Integrity and compatibility checks; not a proof of factual label correctness."
+}
