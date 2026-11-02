@@ -1,5 +1,31 @@
 # ReelCheck
 
+## Video collection integration
+
+The separate [video collection workflow](video_collection/README.md) discovers,
+downloads, prepares and provisionally labels videos. Its local `data/` directory,
+media, credentials and generated artifacts are excluded from Git. The checked-in
+bulk report and verification snapshot describe 300 videos on November 2, 2026;
+the labels are provisional and none were human-verified. The integrity check does
+not establish factual correctness. See [bulk methodology](video_collection/BULK_LABELING.md).
+
+To turn one claim-level extraction and its curated evidence packet into verifier
+inputs (not gold labels), use a fresh output path:
+
+```sh
+python3 scripts/import_video_claims.py \
+  --claims video_collection/data/labeling/claims/VIDEO_KEY.json \
+  --evidence video_collection/data/labeling/evidence/VIDEO_KEY.json \
+  --as-of 2026-11-02 --out results/imported-claims.jsonl
+```
+
+Create `results/` first. The adapter retains asserted claims and their timestamps,
+checks evidence text hashes and supplies the same full source packet to every claim.
+It does not import verdicts, select evidence, verify claims or produce gold labels.
+Review source relevance, evidence cutoff dates and extracted claims before use;
+large source packets may exceed model limits. Bulk video-level screens are not
+claim-level inputs. Keep event clusters together and reserve reviewed held-out data.
+
 Check the claim. See the evidence.
 
 This is the **first fixed-evidence verifier experiment** for Fireworks Deploy 2026.

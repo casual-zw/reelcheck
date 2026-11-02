@@ -1,0 +1,9 @@
+{
+  "at": "2026-11-02T21:47:27.874610+00:00",
+  "expected": 300,
+  "labels": 300,
+  "verified": 300,
+  "failures": [],
+  "passed": true,
+  "scope": "Coverage, source hashes, two distinct judging requests (or audited pilot provenance), schemas and aggregation. Not a factual correctness certificate."
+}

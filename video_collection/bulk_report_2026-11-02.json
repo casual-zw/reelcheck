@@ -1,0 +1,35 @@
+{
+  "at": "2026-11-02T21:46:03.945400+00:00",
+  "labeled_videos": 300,
+  "labels": {
+    "supported": 77,
+    "insufficient_evidence": 186,
+    "mixed": 13,
+    "not_checkable": 22,
+    "misleading_context": 1,
+    "refuted": 1
+  },
+  "tiers": {
+    "provisional_video_screen": 286,
+    "audited_claim_aggregate": 14
+  },
+  "disagreements": 108,
+  "categories": {
+    "technology_ai": 29,
+    "climate_environment": 30,
+    "science_space": 30,
+    "history_geography": 30,
+    "streamer_viral_commentary": 29,
+    "health_medicine": 31,
+    "world_news": 30,
+    "food_fitness": 30,
+    "politics_society": 30,
+    "finance_economy": 31
+  },
+  "human_verified": 0,
+  "bulk_api_calls": 572,
+  "bulk_prompt_tokens": 965466,
+  "bulk_completion_tokens": 129596,
+  "estimated_bulk_standard_price_usd": 3.7817,
+  "cost_note": "Bulk calls only; standard token rates, excluding cache discounts and prior pilot costs. Not an invoice."
+}
