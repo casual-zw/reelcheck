@@ -3,8 +3,11 @@
 ## Video collection integration
 
 The separate [video collection workflow](video_collection/README.md) discovers,
-downloads, prepares and provisionally labels videos. Its local `data/` directory,
-media, credentials and generated artifacts are excluded from Git. The checked-in
+downloads, prepares and provisionally labels videos. Its working `data/` directory,
+credentials and generated artifacts are excluded from Git. A snapshot of labels
+and the 300 source videos is checked in under `video_collection/label_snapshots/`;
+the MP4 files use Git LFS. See [snapshot details](video_collection/label_snapshots/README.md).
+The checked-in
 bulk report and verification snapshot describe 300 videos on November 2, 2026;
 the labels are provisional and none were human-verified. The integrity check does
 not establish factual correctness. See [bulk methodology](video_collection/BULK_LABELING.md).
