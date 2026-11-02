@@ -1,0 +1,569 @@
+{
+  "case": {
+    "case_id": "news10_spain_recycled",
+    "group_id": "twitter_2115545949653151900",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "This video shows the moments immediately before the October 28, 2026 high-speed train crash in Urda, Spain.",
+    "evidence": [
+      {
+        "id": "p_316696217ac9b4f0",
+        "source_id": "e_facd4e8092077674",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+        "retrieved_date": "2026-11-02",
+        "text": "2020 Footage Does a video of jostled passengers show the moments inside a high-speed train before a fatal crash in Urda, Spain, on Oct. 28, 2026? No, that's not true: The video was posted on Facebook on Feb. 2, 2020, more than six years before that crash. The passenger who posted the 2020 video said in the caption that the Alvia train from Huelva to Madrid swayed back and forth the whole trip, leaving the passenger feeling nauseous. The claim appeared in a post (archived here ) by the @macronews account on X on Oct. 28, 2026. Translated from Spanish by Grok, it read: 🚨 Unforgivable tragedy! The worst railway accident in Europe in the last 80 years in Spain (46 dead). Passengers captured the violent jolt before the crash. Experts had warned about it and the government did nothing. 🚆⚠️ #Espa",
+        "sha256": "4526a78233938e2da4195aeea2e7d9f62252fba85d3f8b769731d227db1de12a"
+      },
+      {
+        "id": "p_6375848278d6b80d",
+        "source_id": "e_facd4e8092077674",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+        "retrieved_date": "2026-11-02",
+        "text": "anish by Grok, it read: 🚨 Unforgivable tragedy! The worst railway accident in Europe in the last 80 years in Spain (46 dead). Passengers captured the violent jolt before the crash. Experts had warned about it and the government did nothing. 🚆⚠️ #España #Accidente #Noticias This is what a screenshot of the video in the post looked like at the time of publication: (Image source: post by @macronews on X.) The Spanish text caption on the video, translated by Google in advanced mode (archived here ), reads: THE VIDEO THAT REVEALS EVERYTHING! PASSENGER RECORDS THE SECONDS LEADING UP TO A HIGH-SPEED DERAILMENT IN SPAIN There was a fatal train crash in Urda, Spain, on Oct. 28, 2026. Associated Press (AP) reported (archived here ) at least 68 people have died as of publication. A state-owned RENFE ",
+        "sha256": "d21d724b7371b4f22b7259ab552dc8c8ae1c5bc94db20f83d96a20a6d12e29d8"
+      },
+      {
+        "id": "p_70384159e621a212",
+        "source_id": "e_facd4e8092077674",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+        "retrieved_date": "2026-11-02",
+        "text": "ER RECORDS THE SECONDS LEADING UP TO A HIGH-SPEED DERAILMENT IN SPAIN There was a fatal train crash in Urda, Spain, on Oct. 28, 2026. Associated Press (AP) reported (archived here ) at least 68 people have died as of publication. A state-owned RENFE high-speed train hit the back of a train run by a private company, IRYO, that was stopped on the tracks. This fact check does not address the post's claims about the death toll, the accident's historical ranking, prior warnings or government inaction. The video posted by @macronews does not show the moments before the Oct. 28, 2026, crash. Lead Stories ran a reverse image search and found that the footage in the post has been online for more than six years. The video appeared in a post (archived here ) made on Feb. 2, 2020, in a Facebook group ",
+        "sha256": "c9bf8fe3159927d8eaf03236708ce49bcbf9165b9c508629e0a4a749d8a7fad3"
+      },
+      {
+        "id": "p_6176e718beea5fee",
+        "source_id": "e_facd4e8092077674",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+        "retrieved_date": "2026-11-02",
+        "text": "The video appeared in a post (archived here ) made on Feb. 2, 2020, in a Facebook group (pictured below). The about section for the Facebook group Asociación Plataforma para la llegada de la L.A.V. a Huelva (archived here ) says it is an advocacy group to bring high-speed rail to the municipality of Huelva, Spain, and its province. The post included two videos showing the rocking action inside the train car. One video is 20 seconds long; the other is 12 seconds. The post was captioned in Spanish, translated by Google (archived here ): On the Alvia train from Huelva to Madrid, I spent the entire journey swaying back and forth--tossed from side",
+        "sha256": "c816e99dd907cd5a9da257ec916cf755babd9f797685da2e1b4f46f93f4e44a6"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "2115545949653151900",
+    "platform": "twitter",
+    "url": "https://x.com/macronews/status/2115545949653151900",
+    "source_name": "Macronews",
+    "source_handle": "macronews",
+    "source_kind": "social_claimant",
+    "sampling_category": "news",
+    "discovery_route": "factcheck_original_link",
+    "key": "twitter_2115545949653151900",
+    "collected_at": "2026-11-02T22:42:54.725752+00:00",
+    "status": "downloaded",
+    "path": "data/videos/twitter_2115545949653151900.mp4",
+    "sha256": "4184c33f74584ef2aa034b78069007d9aeedead8e84fa78c947a2b4639b862ad",
+    "bytes": 3548883,
+    "duration": 27.989,
+    "upload_date": "20261028",
+    "title": "Macronews - 🚨 ¡Tragedia imperdonable! El peor accidente ferroviario en Europa en ...",
+    "license": null,
+    "language": null,
+    "language_reviewed": false,
+    "returncode": 0,
+    "channel_id": "259876618"
+  },
+  "media": {
+    "video_sha256": "4184c33f74584ef2aa034b78069007d9aeedead8e84fa78c947a2b4639b862ad",
+    "frames": [
+      {
+        "seconds": 2.33,
+        "path": "data/bulk/media/twitter_2115545949653151900/01.jpg"
+      },
+      {
+        "seconds": 7.0,
+        "path": "data/bulk/media/twitter_2115545949653151900/02.jpg"
+      },
+      {
+        "seconds": 11.66,
+        "path": "data/bulk/media/twitter_2115545949653151900/03.jpg"
+      },
+      {
+        "seconds": 16.33,
+        "path": "data/bulk/media/twitter_2115545949653151900/04.jpg"
+      },
+      {
+        "seconds": 20.99,
+        "path": "data/bulk/media/twitter_2115545949653151900/05.jpg"
+      },
+      {
+        "seconds": 25.66,
+        "path": "data/bulk/media/twitter_2115545949653151900/06.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " The",
+      "language": "en",
+      "automatic": true,
+      "human_verified": false,
+      "model": "mlx-community/whisper-large-v3-turbo"
+    },
+    "at": "2026-11-02T22:44:32.984668+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+      "resolved_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+      "title": "Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020 | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.088198+00:00",
+      "text": "2020 Footage Does a video of jostled passengers show the moments inside a high-speed train before a fatal crash in Urda, Spain, on Oct. 28, 2026? No, that's not true: The video was posted on Facebook on Feb. 2, 2020, more than six years before that crash. The passenger who posted the 2020 video said in the caption that the Alvia train from Huelva to Madrid swayed back and forth the whole trip, leaving the passenger feeling nauseous. The claim appeared in a post (archived here ) by the @macronews account on X on Oct. 28, 2026. Translated from Spanish by Grok, it read: 🚨 Unforgivable tragedy! The worst railway accident in Europe in the last 80 years in Spain (46 dead). Passengers captured the violent jolt before the crash. Experts had warned about it and the government did nothing. 🚆⚠️ #España #Accidente #Noticias This is what a screenshot of the video in the post looked like at the time of publication: (Image source: post by @macronews on X.) The Spanish text caption on the video, translated by Google in advanced mode (archived here ), reads: THE VIDEO THAT REVEALS EVERYTHING! PASSENGER RECORDS THE SECONDS LEADING UP TO A HIGH-SPEED DERAILMENT IN SPAIN There was a fatal train crash in Urda, Spain, on Oct. 28, 2026. Associated Press (AP) reported (archived here ) at least 68 people have died as of publication. A state-owned RENFE high-speed train hit the back of a train run by a private company, IRYO, that was stopped on the tracks. This fact check does not address the post's claims about the death toll, the accident's historical ranking, prior warnings or government inaction. The video posted by @macronews does not show the moments before the Oct. 28, 2026, crash. Lead Stories ran a reverse image search and found that the footage in the post has been online for more than six years. The video appeared in a post (archived here ) made on Feb. 2, 2020, in a Facebook group (pictured below). The about section for the Facebook group Asociación Plataforma para la llegada de la L.A.V. a Huelva (archived here ) says it is an advocacy group to bring high-speed rail to the municipality of Huelva, Spain, and its province. The post included two videos showing the rocking action inside the train car. One video is 20 seconds long; the other is 12 seconds. The post was captioned in Spanish, translated by Google (archived here ): On the Alvia train from Huelva to Madrid, I spent the entire journey swaying back and forth--tossed from side to side the whole way, feeling completely nauseous. As always, Alvia just laughs in our faces. P.S. And the ticket cost €73--more expensive than an AVE ticket! (Image source: post by @moises.perezjimenez.96 on Facebook.)",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Prebunk",
+          "url": "https://leadstories.com/prebunk/"
+        },
+        {
+          "text": "US",
+          "url": "https://leadstories.com/united-states/"
+        },
+        {
+          "text": "UK",
+          "url": "https://leadstories.com/united-kingdom/"
+        },
+        {
+          "text": "Europe & EU",
+          "url": "https://leadstories.com/europe/"
+        },
+        {
+          "text": "Blue Feed",
+          "url": "https://leadstories.com/blue-feed/"
+        },
+        {
+          "text": "Red Feed",
+          "url": "https://leadstories.com/red-feed/"
+        },
+        {
+          "text": "Deep fakes",
+          "url": "https://leadstories.com/deepfakes/"
+        },
+        {
+          "text": "Breaking News",
+          "url": "https://leadstories.com/breaking/"
+        },
+        {
+          "text": "Tweet",
+          "url": "https://twitter.com/intent/tweet"
+        },
+        {
+          "text": "a post",
+          "url": "https://x.com/macronews/status/2115545949653151900"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261029133304/https://x.com/macronews/status/2115545949653151900"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261029144922/https://translate.google.com/?sl=es&tl=en&text=%C2%A1EL%20VIDEO%20QUE%20LO%20CUENTA%20TODO!%0APASAJERO%20GRABA%20LOS%20SEGUNDOS%20PREVIOS%20AL%20DESCARRILAMIENTO%20DE%20ALTA%20VELOCIDAD%20EN%20ESPA%C3%91A&op=translate"
+        },
+        {
+          "text": "reported",
+          "url": "https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261029143557/https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77?__cf_chl_rt_tk=RaD9KQj0KjxE75r2Th5WomunC3oYUr0AkSy5aLjQ1K4-1793284557-1.0.1.1-B6_Wvc78pDjb4.XIet6nrsBae7YkETRAjPhyMI7yMLE"
+        },
+        {
+          "text": "post",
+          "url": "https://www.facebook.com/groups/PLATAFORMA.AVE.HUELVA/posts/2401427150171855/"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261029133400/https://www.facebook.com/groups/PLATAFORMA.AVE.HUELVA/posts/2401427150171855/"
+        },
+        {
+          "text": "Facebook group",
+          "url": "https://www.facebook.com/groups/PLATAFORMA.AVE.HUELVA/about"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261029175010/https://www.facebook.com/groups/PLATAFORMA.AVE.HUELVA/about"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261029185017/https://www.google.com/search?q=google+translate&rlz=1C1UEAD_enUS1122US1122&oq=google+translate&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDIKCAIQABixAxiABDINCAMQABiDARixAxiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQBRhA0gEIMzYxOGowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8"
+        },
+        {
+          "text": "Read more about or contact \n  Sarah Thompson",
+          "url": "https://leadstories.com/author/sarah-thompson.html"
+        },
+        {
+          "text": "Previous Article Fact Check: FAKE WABI-TV 5 Video Falsely Claims Troy Jackson Threatened To Cut Staff In Half With An Axe",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-imitates-wabi-tv-5-report-troy-jackson-threatened-to-cut-staff-in-half-with-axe.html"
+        },
+        {
+          "text": "Next Article Fact Check: 8 Million Brazilians Did NOT Vote Without ID After Polls Closed -- Election Court Says Claim Is False",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-official-data-do-not-support-claim-that-8-million-voted-in-brazil-without-id-after-polls-were-scheduled-to-close.html"
+        },
+        {
+          "text": "Let us know!",
+          "url": "https://leadstories.com/contact.html"
+        },
+        {
+          "text": "Verified signatory of the IFCN Code of Principles",
+          "url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories"
+        },
+        {
+          "text": "Verified EFCSN member",
+          "url": "https://efcsn.com/verified-members/"
+        },
+        {
+          "text": "Founding sponsor of Indicator's Show & Tell Podcast",
+          "url": "https://indicator.media/show-and-tell-the-indicator-podcast"
+        },
+        {
+          "text": "Learn more about Mailchimp's privacy practices here.",
+          "url": "https://mailchimp.com/legal/terms"
+        },
+        {
+          "text": "setting up leadstories.com as one of your preferred sources",
+          "url": "https://www.google.com/preferences/source?q=leadstories.com"
+        },
+        {
+          "text": "AI Edit Fact Check: Blackout Scene ADDED To Later Copies Of Video Of Kilt-Wearing Electrician Fact Check Jun  1, 2026 by: Sarah Thompson",
+          "url": "https://leadstories.com/hoax-alert/2026/06/fact-check-blackout-scene-added-to-later-copies-of-video-of-kilt-wearing-electrician.html"
+        },
+        {
+          "text": "Photo ID’d Fact Check: Photos Show Abdul El-Sayed Played High School Football -- Actor Dean Cain Had Doubted That Fact Check Aug 10, 2026 by: Ed Payne",
+          "url": "https://leadstories.com/hoax-alert/2026/08/fact-check-photos-show-abdul-el-sayed-played-high-school-football.html"
+        },
+        {
+          "text": "Never Said Fact Check: Benjamin Netanyahu Did NOT Threaten Spain with 'Sudden Power Outages And Train Accidents' Fact Check Oct 30, 2026 by: Ed Payne",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-netanyahu-did-not-threaten-spain-with-sudden-power-outages-and-train-accidents.html"
+        },
+        {
+          "text": "Said In 2016 Fact Check: Bill Murray Did NOT Endorse Trump In 2024 -- Quote Is From 2016 Fact Check Oct  4, 2024 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2024/10/fact-check-bill-murray-did-not-endorse-trump-in-2024-quote-is-from-2016.html"
+        },
+        {
+          "text": "Overstated Fact Check: Post Is NOT Completely Correct In Its Listing Of  Duties, Requirements For Honor Guards At Tomb Of The Unknown Soldier Fact Check Jan 19, 2022 by: Kaiyah Clarke",
+          "url": "https://leadstories.com/hoax-alert/2022/01/fact-check-post-is-not-completely-correct-in-its-listing-of-duties-requirements-for-guards-at-tomb-of-the-unknown.html"
+        },
+        {
+          "text": "Made With AI Fact Check: FAKE Video Of Man Who Rescues, Raises, Releases Injured Polar Bear Cub -- It's From An AI Content Maker Fact Check Oct 23, 2026 by: Sarah Thompson",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-of-man-who-rescues-raises-releases-injured-polar-bear-cub.html"
+        },
+        {
+          "text": "Fake Flyer Fact Check: FAKE Video Shows Tesla Roadster Flying Off Building Roof In The Middle Of A City -- It Is AI-Generated Fact Check Oct 21, 2026 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-shows-tesla-roadster-flying-off-building-roof-city-ai-generated.html"
+        },
+        {
+          "text": "Never Said Fact Check: Abdul El-Sayed Did NOT Say 'Your Daughters Are Going To See Male Genitalia Anyway, So Who Cares If They See It In Their Locker Room' Fact Check Nov  2, 2026 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-abdul-el-sayed-did-not-say-your-daughters-are-going-to-see-male-genitalia-anyway-so-who-cares-if-they-see-it-in-their-locker-room.html"
+        },
+        {
+          "text": "AI-Generated Fact Check: FAKE Photo Shows Malia Obama Kissing a Girl -- It Is AI Fact Check Nov  2, 2026 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-photo-show-malia-obama-kissing-girl-ai.html"
+        },
+        {
+          "text": "Live & Posting Fact Check: DENIAL From Pilot Who Posted About Flying Lenny Kravitz -- NOT in Florida Learjet Crash Fact Check Nov  2, 2026 by: Maarten Schenk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-emily-shelton-lenny-kravitz-plane-crash-learjet-florida.html"
+        },
+        {
+          "text": "AI Enhanced Fact Check: AI-Enhanced Image NOT Actual Photo of Learjet Crash in Florida -- Wings and Engine Visible in Real Footage Fact Check Nov  2, 2026 by: Maarten Schenk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-florida-learjet-crash-sharp-photo-wing-engine-cowling-tail.html"
+        },
+        {
+          "text": "Satire Account Fact Check: Trump Did NOT Walk 'Old Woman' Home After Iowa Rally -- Image Is AI-Generated Fact Check Oct 31, 2026 by: Lead Stories Staff",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-trump-did-not-walk-elderly-woman-home-after-iowa-rally-oct-22-2026.html"
+        },
+        {
+          "text": "No Reports Fact Check: Gadi Eisenkot Was NOT Declared New Israel PM, As Of October 30, 2026 -- Country Still Deadlocked Fact Check Oct 30, 2026 by: Uliana Malashenko",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-gadi-eisenkot-was-not-declared-new-israel-pm-as-of-oct-30-2026.html"
+        },
+        {
+          "text": "No Such News Fact Check: FAKE FOCUS Online News Report About 'Eco Sanitation Act' Limiting Toilet Flushing In Germany By 2027 -- AI-Generated Audio Fact Check Oct 30, 2026 by: Sarah Thompson",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-focus-online-report-about-eco-sanitation-act-limiting-toilet-flushing-in-germany-by-2027.html"
+        },
+        {
+          "text": "Tweet",
+          "url": "https://twitter.com/intent/tweet"
+        },
+        {
+          "text": "Home",
+          "url": "https://leadstories.com/"
+        },
+        {
+          "text": "About",
+          "url": "https://leadstories.com/about.html"
+        },
+        {
+          "text": "IFCN Code of Principles",
+          "url": "https://leadstories.com/code-of-principles.html"
+        },
+        {
+          "text": "How we work",
+          "url": "https://leadstories.com/how-we-work.html"
+        },
+        {
+          "text": "Satire Policy",
+          "url": "https://leadstories.com/satire-policy.html"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://leadstories.com/privacy-policy.html"
+        },
+        {
+          "text": "Corrections Policy",
+          "url": "https://leadstories.com/corrections-policy.html"
+        },
+        {
+          "text": "Corrections",
+          "url": "https://leadstories.com/corrections/"
+        },
+        {
+          "text": "Archive",
+          "url": "https://leadstories.com/archive.html"
+        },
+        {
+          "text": "Contact",
+          "url": "https://leadstories.com/contact.html"
+        },
+        {
+          "text": "Български",
+          "url": "https://български.leadstories.com"
+        },
+        {
+          "text": "English",
+          "url": "https://leadstories.com"
+        },
+        {
+          "text": "Espanol",
+          "url": "https://espanol.leadstories.com"
+        },
+        {
+          "text": "Magyar",
+          "url": "https://magyar.leadstories.com"
+        },
+        {
+          "text": "Română",
+          "url": "https://română.leadstories.com"
+        },
+        {
+          "text": "Русский",
+          "url": "https://русский.leadstories.com"
+        },
+        {
+          "text": "Slovensky",
+          "url": "https://slovensky.leadstories.com "
+        },
+        {
+          "text": "Українська",
+          "url": "https://українська.leadstories.com"
+        },
+        {
+          "text": "Let us know!",
+          "url": "https://leadstories.com/contact.html"
+        },
+        {
+          "text": "Verified signatory of the IFCN Code of Principles",
+          "url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories"
+        },
+        {
+          "text": "Verified EFCSN member",
+          "url": "https://efcsn.com/verified-members/"
+        },
+        {
+          "text": "Founding sponsor of Indicator's Show & Tell Podcast",
+          "url": "https://indicator.media/show-and-tell-the-indicator-podcast"
+        },
+        {
+          "text": "Home",
+          "url": "https://leadstories.com/"
+        },
+        {
+          "text": "Prebunk",
+          "url": "https://leadstories.com/prebunk/"
+        },
+        {
+          "text": "Fact Check",
+          "url": "https://leadstories.com/hoax-alert/"
+        },
+        {
+          "text": "US",
+          "url": "https://leadstories.com/united-states/"
+        },
+        {
+          "text": "UK",
+          "url": "https://leadstories.com/united-kingdom/"
+        },
+        {
+          "text": "Europe & EU",
+          "url": "https://leadstories.com/europe/"
+        },
+        {
+          "text": "Ireland",
+          "url": "https://leadstories.com/ireland/"
+        },
+        {
+          "text": "Canada",
+          "url": "https://leadstories.com/canada/"
+        },
+        {
+          "text": "War 🇷🇺 & 🇺🇦",
+          "url": "https://leadstories.com/war/"
+        },
+        {
+          "text": "Corona Virus",
+          "url": "https://leadstories.com/coronavirus/"
+        },
+        {
+          "text": "Blue Feed",
+          "url": "https://leadstories.com/blue-feed/"
+        },
+        {
+          "text": "Red Feed",
+          "url": "https://leadstories.com/red-feed/"
+        },
+        {
+          "text": "Deep fakes",
+          "url": "https://leadstories.com/deepfakes/"
+        },
+        {
+          "text": "Breaking News",
+          "url": "https://leadstories.com/breaking/"
+        },
+        {
+          "text": "Elections 2024",
+          "url": "https://leadstories.com/elections/"
+        },
+        {
+          "text": "Business",
+          "url": "https://leadstories.com/business/"
+        },
+        {
+          "text": "Current Events",
+          "url": "https://leadstories.com/current-events/"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://leadstories.com/entertainment/"
+        },
+        {
+          "text": "Health",
+          "url": "https://leadstories.com/health/"
+        },
+        {
+          "text": "International",
+          "url": "https://leadstories.com/international/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://leadstories.com/politics/"
+        },
+        {
+          "text": "Science",
+          "url": "https://leadstories.com/science/"
+        },
+        {
+          "text": "Sports",
+          "url": "https://leadstories.com/sports/"
+        },
+        {
+          "text": "Society",
+          "url": "https://leadstories.com/society/"
+        },
+        {
+          "text": "Technology",
+          "url": "https://leadstories.com/technology/"
+        },
+        {
+          "text": "Corrections",
+          "url": "https://leadstories.com/corrections/"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://leadstories.com/analysis/"
+        },
+        {
+          "text": "Explainer",
+          "url": "https://leadstories.com/explainer/"
+        },
+        {
+          "text": "Satire",
+          "url": "https://leadstories.com/satire/"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "42e45239286515259b18dcfcaab67d5ba9818fb89daf90718bbc7ae32607be23",
+      "text_sha256": "3fd36ab81e13ebf15709e5f59853623833b2cdb19d8c1768977d12ff33d1c249",
+      "evidence_id": "e_facd4e8092077674"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_316696217ac9b4f0",
+      "source_id": "e_facd4e8092077674",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+      "title": "Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020 | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.088198+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "2020 Footage Does a video of jostled passengers show the moments inside a high-speed train before a fatal crash in Urda, Spain, on Oct. 28, 2026? No, that's not true: The video was posted on Facebook on Feb. 2, 2020, more than six years before that crash. The passenger who posted the 2020 video said in the caption that the Alvia train from Huelva to Madrid swayed back and forth the whole trip, leaving the passenger feeling nauseous. The claim appeared in a post (archived here ) by the @macronews account on X on Oct. 28, 2026. Translated from Spanish by Grok, it read: 🚨 Unforgivable tragedy! The worst railway accident in Europe in the last 80 years in Spain (46 dead). Passengers captured the violent jolt before the crash. Experts had warned about it and the government did nothing. 🚆⚠️ #Espa",
+      "source_text_sha256": "3fd36ab81e13ebf15709e5f59853623833b2cdb19d8c1768977d12ff33d1c249",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_6375848278d6b80d",
+      "source_id": "e_facd4e8092077674",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+      "title": "Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020 | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.088198+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "anish by Grok, it read: 🚨 Unforgivable tragedy! The worst railway accident in Europe in the last 80 years in Spain (46 dead). Passengers captured the violent jolt before the crash. Experts had warned about it and the government did nothing. 🚆⚠️ #España #Accidente #Noticias This is what a screenshot of the video in the post looked like at the time of publication: (Image source: post by @macronews on X.) The Spanish text caption on the video, translated by Google in advanced mode (archived here ), reads: THE VIDEO THAT REVEALS EVERYTHING! PASSENGER RECORDS THE SECONDS LEADING UP TO A HIGH-SPEED DERAILMENT IN SPAIN There was a fatal train crash in Urda, Spain, on Oct. 28, 2026. Associated Press (AP) reported (archived here ) at least 68 people have died as of publication. A state-owned RENFE ",
+      "source_text_sha256": "3fd36ab81e13ebf15709e5f59853623833b2cdb19d8c1768977d12ff33d1c249",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_70384159e621a212",
+      "source_id": "e_facd4e8092077674",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+      "title": "Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020 | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.088198+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": "ER RECORDS THE SECONDS LEADING UP TO A HIGH-SPEED DERAILMENT IN SPAIN There was a fatal train crash in Urda, Spain, on Oct. 28, 2026. Associated Press (AP) reported (archived here ) at least 68 people have died as of publication. A state-owned RENFE high-speed train hit the back of a train run by a private company, IRYO, that was stopped on the tracks. This fact check does not address the post's claims about the death toll, the accident's historical ranking, prior warnings or government inaction. The video posted by @macronews does not show the moments before the Oct. 28, 2026, crash. Lead Stories ran a reverse image search and found that the footage in the post has been online for more than six years. The video appeared in a post (archived here ) made on Feb. 2, 2020, in a Facebook group ",
+      "source_text_sha256": "3fd36ab81e13ebf15709e5f59853623833b2cdb19d8c1768977d12ff33d1c249",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_6176e718beea5fee",
+      "source_id": "e_facd4e8092077674",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-moments-before-2026-train-crash-in-urda-spain-was-originally-posted-in-2020.html",
+      "title": "Fact Check: Video Does NOT Show Moments Before 2026 Train Crash In Urda, Spain -- Was Originally Posted In 2020 | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.088198+00:00",
+      "start": 1812,
+      "end": 2462,
+      "text": "The video appeared in a post (archived here ) made on Feb. 2, 2020, in a Facebook group (pictured below). The about section for the Facebook group Asociación Plataforma para la llegada de la L.A.V. a Huelva (archived here ) says it is an advocacy group to bring high-speed rail to the municipality of Huelva, Spain, and its province. The post included two videos showing the rocking action inside the train car. One video is 20 seconds long; the other is 12 seconds. The post was captioned in Spanish, translated by Google (archived here ): On the Alvia train from Huelva to Madrid, I spent the entire journey swaying back and forth--tossed from side",
+      "source_text_sha256": "3fd36ab81e13ebf15709e5f59853623833b2cdb19d8c1768977d12ff33d1c249",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "disaster_misattributed_footage",
+  "claim_provenance": {
+    "original_url": "https://x.com/macronews/status/2115545949653151900",
+    "original_post_caption": "🚨 ¡Tragedia imperdonable! El peor accidente ferroviario en Europa en los últimos 80 años en España (46 muertos). Pasajeros captaron la violenta sacudida previa al choque. Expertos lo habían advertido y el gobierno no hizo nada. 🚆⚠️ #España #Accidente #Noticias https://t.co/z3ZgZL1H8b",
+    "caption_source": "yt-dlp public original post metadata",
+    "metadata_path": "/Users/zhuoweiz/Documents/ChatGPT/Firework Hackathon 2/data/videos/twitter_2115545949653151900.info.json",
+    "metadata_sha256": "14cfd20dfb59fb8664ff613a8bb9e1b81438ac659c05b4b0a5cfd2d583656636",
+    "claim_scope": "Video plus original post caption; only depicted event/date evaluated."
+  },
+  "retrieved_at": "2026-11-02T22:45:25.488889+00:00",
+  "label": null,
+  "human_verified": false
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "news10_spain_recycled",
+  "claim_text": "This video shows the moments immediately before the October 28, 2026 high-speed train crash in Urda, Spain.",
+  "verdict": "contradicted",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_316696217ac9b4f0"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_316696217ac9b4f0",
+      "quote": "The video was posted on Facebook on Feb. 2, 2020"
+    }
+  ],
+  "reason": "The exact original X post and on-video caption claim this is pre-crash footage from October 2026. The retrieved investigation traces the same footage to a February 2020 Alvia journey, which predates the claimed crash.",
+  "explanation": "The exact original X post and on-video caption claim this is pre-crash footage from October 2026. The retrieved investigation traces the same footage to a February 2020 Alvia journey, which predates the claimed crash.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Inspected Spanish on-video caption explicitly stating passenger filmed seconds before a high-speed derailment in Spain. Original X caption and October28 timestamp establish event context; unreliable minimal ASR ignored.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "Lead Stories identifies the exact claimant and links its earlier Facebook source and archive. Both original and archive returned insufficient readable text on direct retrieval; earlier provenance is therefore verified through the fact-check rather than an independently retrieved 2020 page. No other claims in the post are adjudicated.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.694755+00:00",
+  "reviewed_packet_sha256": "c7c69a6ee692c8b41201d7b4dc896fa0ffdf8c15cb50580570eef6b82d7cf060",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

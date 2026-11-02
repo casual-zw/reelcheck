@@ -1,0 +1,1120 @@
+{
+  "case": {
+    "case_id": "news10_netanyahu_recycled",
+    "group_id": "twitter_2115495798628909387",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "This video shows an attack on Benjamin Netanyahu in Tel Aviv on October 28, 2026.",
+    "evidence": [
+      {
+        "id": "p_cf7921c5a3005646",
+        "source_id": "e_3faca129ab1fcc20",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+        "retrieved_date": "2026-11-02",
+        "text": "No Reports Does a viral video show a life-threatening attack on Israeli Prime Minister Benjamin Netanyahu one day after the Oct. 27, 2026, election? No, that's not true: The low quality of the video obscured that it showed a different politician giving a speech in a different country in 2013. It was Ahmed Dogan attacked in Bulgaria. The claim appeared in a post (archived here ) by @AsifAli_Haider on Oct. 28, 2026. It opened: Breaking 🚨 A very dangerous attack on Netanyahu in Tel Aviv it appears he has sustained severe injuries, and an aircraft is being dispatched to transport him to the United States. This is clearly evident from the footage. Don't remove my video X Twitter This is what a screenshot of the video looked like on X at the time of writing: (Image source: post by @AsifAli_Haide",
+        "sha256": "2823219fcedb02601af19b1c18b08951ce454076e03261e075c41f551f2fa66c"
+      },
+      {
+        "id": "p_98ec7764c8c3e973",
+        "source_id": "e_3faca129ab1fcc20",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+        "retrieved_date": "2026-11-02",
+        "text": "is being dispatched to transport him to the United States. This is clearly evident from the footage. Don't remove my video X Twitter This is what a screenshot of the video looked like on X at the time of writing: (Image source: post by @AsifAli_Haider on X.) The claim emerged on social media when Israel was still counting votes (archived here ) cast in its Oct. 27, 2026, election (archived here ). The blurry 18-second clip included a fairly clear thumbnail depicting Netanyahu speaking in front of the wall with a Hebrew inscription. The opening frame, however, showed an acronym written in a Cyrillic alphabet: (Image source: post by @AsifAli_Haider on X.) (Image source: post by @AsifAli_Haider on X.) A reverse image search found a Jan. 20, 2013, BBC report about the incident (archived here )",
+        "sha256": "d4acfa955feceff7e9e8976da7665a01f833592be1b93a05c9f3d6dade50475c"
+      },
+      {
+        "id": "p_8dd5900214c1f478",
+        "source_id": "e_3faca129ab1fcc20",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+        "retrieved_date": "2026-11-02",
+        "text": "(archived here ), the party's website confirms. Screenshots of the video the BBC used in its report as well as those of other media outlets (archived here ) demonstrate that the person at the podium bore no resemblance to Netanyahu: (Image source: BBC.) A broad search across sites indexed by Google News (archived here ) showed no media reports confirming any reports of a similar attack on Netanyahu on Oct. 28, 2026.",
+        "sha256": "fc719695b3f6679f4c1c89bf1f79845ec2edb2de21a341d338ca90661e520b8c"
+      },
+      {
+        "id": "p_4afabcb0144545fb",
+        "source_id": "e_ce69874d808711bc",
+        "url": "https://www.bbc.com/news/world-21103987",
+        "retrieved_date": "2026-11-02",
+        "text": "Figure caption, The gunman did not succeed in making a shot A man put a gas pistol to the head of the leader of Bulgaria's ethnic Turkish party during a televised conference. Ahmed Dogan, leader of the Movement for Rights and Freedoms (MRF) was unharmed and the unidentified man was wrestled to the ground by security guards. The incident happened on Saturday at a party congress in the capital Sofia. Interior Minister Tsvetan Tsvetanov said the attacker, himself an ethnic Turk, tried to fire two shots but \"most likely the gun misfired\". Early reports suggested the weapon was a gun, but it was later confirmed to be a gas pistol - a non-lethal weapon used largely for self-defence which does not fire bullets but which can cause serious injuries if fired from close range. Mr Tsetanov also said t",
+        "sha256": "0d9205c991b952f295257606c0b0dac5e777619cf7d9231375693b4035e2822b"
+      },
+      {
+        "id": "p_d7ceb074f05a00fb",
+        "source_id": "e_ce69874d808711bc",
+        "url": "https://www.bbc.com/news/world-21103987",
+        "retrieved_date": "2026-11-02",
+        "text": "orts suggested the weapon was a gun, but it was later confirmed to be a gas pistol - a non-lethal weapon used largely for self-defence which does not fire bullets but which can cause serious injuries if fired from close range. Mr Tsetanov also said the assailant had a criminal record for drugs possession, robberies and hooliganism. Police arrested the attacker, a 25-year-old from the Black Sea town of Burgas, who was also carrying two knives. The liberal MRF party represents ethnic Turks and other Muslims, who make up about 12% of Bulgaria's population of about seven million. Mr Dogan, 58, has led the party for almost 25 years. He returned to the party conference a few hours after the attack and was given a standing ovation. President Rosen Plevneliev said in a statement: \"Bulgarian societ",
+        "sha256": "6725597c6710fb46de14d72af6275e0282ad0d829010e91a39c4f0e76bedb5b6"
+      },
+      {
+        "id": "p_b66e504f48595f1a",
+        "source_id": "e_ce69874d808711bc",
+        "url": "https://www.bbc.com/news/world-21103987",
+        "retrieved_date": "2026-11-02",
+        "text": "pulation of about seven million. Mr Dogan, 58, has led the party for almost 25 years. He returned to the party conference a few hours after the attack and was given a standing ovation. President Rosen Plevneliev said in a statement: \"Bulgarian society is traditionally known for its tolerance, mutual acceptance and respect between different ethnic groups and religions. \"Such an act is unacceptable in a democratic state.\" Attacks on politicians are rare in Bulgaria, but in 1996, former Prime Minister Andrei Lukanov was found shot dead near his home in Sofia. More on this story Bulgaria country profile Published 30 October 2024",
+        "sha256": "f6bc3bc2fdfa000893d21b2bbd5ba31addb9c34323df0c96c5f1b7ef2b065883"
+      },
+      {
+        "id": "p_2bf49015b653493d",
+        "source_id": "e_3faca129ab1fcc20",
+        "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+        "retrieved_date": "2026-11-02",
+        "text": "A reverse image search found a Jan. 20, 2013, BBC report about the incident (archived here ). That article, which featured a better-quality version of the video, reported that the footage showed an attack on Bulgarian politician Ahmed Dogan. He escaped unharmed. At the time, Dogan was the leader of the Movement for Rights and Freedoms whose acronym -- MRF -- is written as ДПС in Bulgarian (archived here ), the party's website confirms. Screenshots of the video the BBC used in its report as well as those of other media outlets (archived here ) demonstrate that the ",
+        "sha256": "f5e997a8751e1617fc72184bf3998861bb43ffd995b051045d6d34ee21d3d51b"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "2115495798628909387",
+    "platform": "twitter",
+    "url": "https://x.com/AsifAli_Haider/status/2115495798628909387",
+    "source_name": "Asif Ali",
+    "source_handle": "AsifAli_Haider",
+    "source_kind": "social_claimant",
+    "sampling_category": "news",
+    "discovery_route": "factcheck_original_link",
+    "key": "twitter_2115495798628909387",
+    "collected_at": "2026-11-02T22:42:55.944447+00:00",
+    "status": "downloaded",
+    "path": "data/videos/twitter_2115495798628909387.mp4",
+    "sha256": "c235c16bad0e4573e6c331ff4cbfc078a21827a9064fcea7d5e5136b6b40f3c5",
+    "bytes": 893896,
+    "duration": 18.182,
+    "upload_date": "20261028",
+    "title": "Asif Ali - Breaking 🚨 A very dangerous attack on Netanyahu in Tel Aviv it appear...",
+    "license": null,
+    "language": null,
+    "language_reviewed": false,
+    "returncode": 0,
+    "channel_id": "3285813097"
+  },
+  "media": {
+    "video_sha256": "c235c16bad0e4573e6c331ff4cbfc078a21827a9064fcea7d5e5136b6b40f3c5",
+    "frames": [
+      {
+        "seconds": 1.52,
+        "path": "data/bulk/media/twitter_2115495798628909387/01.jpg"
+      },
+      {
+        "seconds": 4.55,
+        "path": "data/bulk/media/twitter_2115495798628909387/02.jpg"
+      },
+      {
+        "seconds": 7.58,
+        "path": "data/bulk/media/twitter_2115495798628909387/03.jpg"
+      },
+      {
+        "seconds": 10.61,
+        "path": "data/bulk/media/twitter_2115495798628909387/04.jpg"
+      },
+      {
+        "seconds": 13.64,
+        "path": "data/bulk/media/twitter_2115495798628909387/05.jpg"
+      },
+      {
+        "seconds": 16.67,
+        "path": "data/bulk/media/twitter_2115495798628909387/06.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " Oh",
+      "language": "en",
+      "automatic": true,
+      "human_verified": false,
+      "model": "mlx-community/whisper-large-v3-turbo"
+    },
+    "at": "2026-11-02T22:44:33.469373+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+      "resolved_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+      "title": "Fact Check: Video Does NOT Show Attack On Netanyahu In October 2026 -- Footage Of Unrelated Incident In Bulgaria | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.075351+00:00",
+      "text": "No Reports Does a viral video show a life-threatening attack on Israeli Prime Minister Benjamin Netanyahu one day after the Oct. 27, 2026, election? No, that's not true: The low quality of the video obscured that it showed a different politician giving a speech in a different country in 2013. It was Ahmed Dogan attacked in Bulgaria. The claim appeared in a post (archived here ) by @AsifAli_Haider on Oct. 28, 2026. It opened: Breaking 🚨 A very dangerous attack on Netanyahu in Tel Aviv it appears he has sustained severe injuries, and an aircraft is being dispatched to transport him to the United States. This is clearly evident from the footage. Don't remove my video X Twitter This is what a screenshot of the video looked like on X at the time of writing: (Image source: post by @AsifAli_Haider on X.) The claim emerged on social media when Israel was still counting votes (archived here ) cast in its Oct. 27, 2026, election (archived here ). The blurry 18-second clip included a fairly clear thumbnail depicting Netanyahu speaking in front of the wall with a Hebrew inscription. The opening frame, however, showed an acronym written in a Cyrillic alphabet: (Image source: post by @AsifAli_Haider on X.) (Image source: post by @AsifAli_Haider on X.) A reverse image search found a Jan. 20, 2013, BBC report about the incident (archived here ). That article, which featured a better-quality version of the video, reported that the footage showed an attack on Bulgarian politician Ahmed Dogan. He escaped unharmed. At the time, Dogan was the leader of the Movement for Rights and Freedoms whose acronym -- MRF -- is written as ДПС in Bulgarian (archived here ), the party's website confirms. Screenshots of the video the BBC used in its report as well as those of other media outlets (archived here ) demonstrate that the person at the podium bore no resemblance to Netanyahu: (Image source: BBC.) A broad search across sites indexed by Google News (archived here ) showed no media reports confirming any reports of a similar attack on Netanyahu on Oct. 28, 2026.",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Prebunk",
+          "url": "https://leadstories.com/prebunk/"
+        },
+        {
+          "text": "US",
+          "url": "https://leadstories.com/united-states/"
+        },
+        {
+          "text": "UK",
+          "url": "https://leadstories.com/united-kingdom/"
+        },
+        {
+          "text": "Europe & EU",
+          "url": "https://leadstories.com/europe/"
+        },
+        {
+          "text": "Blue Feed",
+          "url": "https://leadstories.com/blue-feed/"
+        },
+        {
+          "text": "Red Feed",
+          "url": "https://leadstories.com/red-feed/"
+        },
+        {
+          "text": "Deep fakes",
+          "url": "https://leadstories.com/deepfakes/"
+        },
+        {
+          "text": "Breaking News",
+          "url": "https://leadstories.com/breaking/"
+        },
+        {
+          "text": "Tweet",
+          "url": "https://twitter.com/intent/tweet"
+        },
+        {
+          "text": "a post",
+          "url": "https://x.com/AsifAli_Haider/status/2115495798628909387?s=46&t=RCLraXbGJ2xR9r-YyJ5qFg"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028225007/https://x.com/AsifAli_Haider/status/2115495798628909387?s=46&t=RCLraXbGJ2xR9r-YyJ5qFg"
+        },
+        {
+          "text": "was still counting votes",
+          "url": "https://www.haaretz.com/israel-news/elections/2026-10-28/ty-article-live/over-70-of-votes-counted-arab-parties-at-historic-high/000001a1-81fb-d6da-a7eb-e7ff6bb30004"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028225112/https://www.haaretz.com/israel-news/elections/2026-10-28/ty-article-live/over-70-of-votes-counted-arab-parties-at-historic-high/000001a1-81fb-d6da-a7eb-e7ff6bb30004"
+        },
+        {
+          "text": "Oct. 27, 2026, election",
+          "url": "https://www.gov.il/en/pages/israel-s-election-day-26-oct-2026"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028233820/https://www.gov.il/en/pages/israel-s-election-day-26-oct-2026"
+        },
+        {
+          "text": "Jan. 20, 2013, BBC report about the incident",
+          "url": "https://www.bbc.com/news/world-21103987"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028232118/https://www.bbc.com/news/world-21103987"
+        },
+        {
+          "text": "as ДПС in Bulgarian",
+          "url": "https://www.dps.bg/en/"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028232431/https://www.dps.bg/en/"
+        },
+        {
+          "text": "other media outlets",
+          "url": "https://www.theguardian.com/world/video/2013/jan/21/bulgarian-politician-gun-live-tv-video"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028233058/https://www.theguardian.com/world/video/2013/jan/21/bulgarian-politician-gun-live-tv-video"
+        },
+        {
+          "text": "broad search across sites indexed by Google News",
+          "url": "https://www.google.com/search?sca_esv=bd43364d62e50cb8&rlz=1C5CHFA_enUS932US932&sxsrf=AKL5yDjWB8oCNSGkbKje9n5ZsxCy8IobXw:1793230816535&q=netanyahu+attack&tbm=nws&source=lnms&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_knnWYU4MUFitX9-OI9PCrstXHRi4_Hyx98wWFIX9sLoXe3hWQ30wPzzIkfI0ZdYT8Ftb-nPtoFpCaEwgM-AiqmDFeRAIhMApHaT272eJJNbVh3MiU_rUCJZxyczQBtY9oSbXtyCCdGlVqB4xc9pTHDNFTSnVZZRJomRRKjPJ9hCy_wDIp7kJLPLtygvKtNuuVpmepjw&sa=X&ved=2ahUKEwiAgceu8d2XAxXrL1kFHXVBPCcQ0pQJegQIGxAB&biw=1699&bih=880&dpr=1.33"
+        },
+        {
+          "text": "here",
+          "url": "https://web.archive.org/web/20261028234126/https://www.google.com/search?sca_esv=bd43364d62e50cb8&rlz=1C5CHFA_enUS932US932&sxsrf=AKL5yDjWB8oCNSGkbKje9n5ZsxCy8IobXw:1793230816535&q=netanyahu+attack&tbm=nws&source=lnms&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_knnWYU4MUFitX9-OI9PCrstXHRi4_Hyx98wWFIX9sLoXe3hWQ30wPzzIkfI0ZdYT8Ftb-nPtoFpCaEwgM-AiqmDFeRAIhMApHaT272eJJNbVh3MiU_rUCJZxyczQBtY9oSbXtyCCdGlVqB4xc9pTHDNFTSnVZZRJomRRKjPJ9hCy_wDIp7kJLPLtygvKtNuuVpmepjw&sa=X&ved=2ahUKEwiAgceu8d2XAxXrL1kFHXVBPCcQ0pQJegQIGxAB&biw=1699&bih=880&dpr=1.33"
+        },
+        {
+          "text": "Read more about or contact \n  Uliana Malashenko",
+          "url": "https://leadstories.com/author/uliana-malashenko.html"
+        },
+        {
+          "text": "Previous Article Fact Check: NO PROOF Human-Chimpanzee 12-Year-Old Son 'Augusto Dembo' Is Real",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-no-proof-human-chimpanzee-12-year-old-son-augusto-dembo-is-real.html"
+        },
+        {
+          "text": "Next Article Fact Check: FAKE WABI-TV 5 Video Falsely Claims Troy Jackson Threatened To Cut Staff In Half With An Axe",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-imitates-wabi-tv-5-report-troy-jackson-threatened-to-cut-staff-in-half-with-axe.html"
+        },
+        {
+          "text": "Let us know!",
+          "url": "https://leadstories.com/contact.html"
+        },
+        {
+          "text": "Verified signatory of the IFCN Code of Principles",
+          "url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories"
+        },
+        {
+          "text": "Verified EFCSN member",
+          "url": "https://efcsn.com/verified-members/"
+        },
+        {
+          "text": "Founding sponsor of Indicator's Show & Tell Podcast",
+          "url": "https://indicator.media/show-and-tell-the-indicator-podcast"
+        },
+        {
+          "text": "Learn more about Mailchimp's privacy practices here.",
+          "url": "https://mailchimp.com/legal/terms"
+        },
+        {
+          "text": "setting up leadstories.com as one of your preferred sources",
+          "url": "https://www.google.com/preferences/source?q=leadstories.com"
+        },
+        {
+          "text": "AI Edit Fact Check: Blackout Scene ADDED To Later Copies Of Video Of Kilt-Wearing Electrician Fact Check Jun  1, 2026 by: Sarah Thompson",
+          "url": "https://leadstories.com/hoax-alert/2026/06/fact-check-blackout-scene-added-to-later-copies-of-video-of-kilt-wearing-electrician.html"
+        },
+        {
+          "text": "Photo ID’d Fact Check: Photos Show Abdul El-Sayed Played High School Football -- Actor Dean Cain Had Doubted That Fact Check Aug 10, 2026 by: Ed Payne",
+          "url": "https://leadstories.com/hoax-alert/2026/08/fact-check-photos-show-abdul-el-sayed-played-high-school-football.html"
+        },
+        {
+          "text": "Never Said Fact Check: Benjamin Netanyahu Did NOT Threaten Spain with 'Sudden Power Outages And Train Accidents' Fact Check Oct 30, 2026 by: Ed Payne",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-netanyahu-did-not-threaten-spain-with-sudden-power-outages-and-train-accidents.html"
+        },
+        {
+          "text": "Said In 2016 Fact Check: Bill Murray Did NOT Endorse Trump In 2024 -- Quote Is From 2016 Fact Check Oct  4, 2024 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2024/10/fact-check-bill-murray-did-not-endorse-trump-in-2024-quote-is-from-2016.html"
+        },
+        {
+          "text": "Overstated Fact Check: Post Is NOT Completely Correct In Its Listing Of  Duties, Requirements For Honor Guards At Tomb Of The Unknown Soldier Fact Check Jan 19, 2022 by: Kaiyah Clarke",
+          "url": "https://leadstories.com/hoax-alert/2022/01/fact-check-post-is-not-completely-correct-in-its-listing-of-duties-requirements-for-guards-at-tomb-of-the-unknown.html"
+        },
+        {
+          "text": "Made With AI Fact Check: FAKE Video Of Man Who Rescues, Raises, Releases Injured Polar Bear Cub -- It's From An AI Content Maker Fact Check Oct 23, 2026 by: Sarah Thompson",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-of-man-who-rescues-raises-releases-injured-polar-bear-cub.html"
+        },
+        {
+          "text": "Fake Flyer Fact Check: FAKE Video Shows Tesla Roadster Flying Off Building Roof In The Middle Of A City -- It Is AI-Generated Fact Check Oct 21, 2026 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-shows-tesla-roadster-flying-off-building-roof-city-ai-generated.html"
+        },
+        {
+          "text": "Never Said Fact Check: Abdul El-Sayed Did NOT Say 'Your Daughters Are Going To See Male Genitalia Anyway, So Who Cares If They See It In Their Locker Room' Fact Check Nov  2, 2026 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-abdul-el-sayed-did-not-say-your-daughters-are-going-to-see-male-genitalia-anyway-so-who-cares-if-they-see-it-in-their-locker-room.html"
+        },
+        {
+          "text": "AI-Generated Fact Check: FAKE Photo Shows Malia Obama Kissing a Girl -- It Is AI Fact Check Nov  2, 2026 by: Alexis Tereszcuk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-photo-show-malia-obama-kissing-girl-ai.html"
+        },
+        {
+          "text": "Live & Posting Fact Check: DENIAL From Pilot Who Posted About Flying Lenny Kravitz -- NOT in Florida Learjet Crash Fact Check Nov  2, 2026 by: Maarten Schenk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-emily-shelton-lenny-kravitz-plane-crash-learjet-florida.html"
+        },
+        {
+          "text": "AI Enhanced Fact Check: AI-Enhanced Image NOT Actual Photo of Learjet Crash in Florida -- Wings and Engine Visible in Real Footage Fact Check Nov  2, 2026 by: Maarten Schenk",
+          "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-florida-learjet-crash-sharp-photo-wing-engine-cowling-tail.html"
+        },
+        {
+          "text": "Satire Account Fact Check: Trump Did NOT Walk 'Old Woman' Home After Iowa Rally -- Image Is AI-Generated Fact Check Oct 31, 2026 by: Lead Stories Staff",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-trump-did-not-walk-elderly-woman-home-after-iowa-rally-oct-22-2026.html"
+        },
+        {
+          "text": "No Reports Fact Check: Gadi Eisenkot Was NOT Declared New Israel PM, As Of October 30, 2026 -- Country Still Deadlocked Fact Check Oct 30, 2026 by: Uliana Malashenko",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-gadi-eisenkot-was-not-declared-new-israel-pm-as-of-oct-30-2026.html"
+        },
+        {
+          "text": "No Such News Fact Check: FAKE FOCUS Online News Report About 'Eco Sanitation Act' Limiting Toilet Flushing In Germany By 2027 -- AI-Generated Audio Fact Check Oct 30, 2026 by: Sarah Thompson",
+          "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-focus-online-report-about-eco-sanitation-act-limiting-toilet-flushing-in-germany-by-2027.html"
+        },
+        {
+          "text": "Tweet",
+          "url": "https://twitter.com/intent/tweet"
+        },
+        {
+          "text": "Home",
+          "url": "https://leadstories.com/"
+        },
+        {
+          "text": "About",
+          "url": "https://leadstories.com/about.html"
+        },
+        {
+          "text": "IFCN Code of Principles",
+          "url": "https://leadstories.com/code-of-principles.html"
+        },
+        {
+          "text": "How we work",
+          "url": "https://leadstories.com/how-we-work.html"
+        },
+        {
+          "text": "Satire Policy",
+          "url": "https://leadstories.com/satire-policy.html"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://leadstories.com/privacy-policy.html"
+        },
+        {
+          "text": "Corrections Policy",
+          "url": "https://leadstories.com/corrections-policy.html"
+        },
+        {
+          "text": "Corrections",
+          "url": "https://leadstories.com/corrections/"
+        },
+        {
+          "text": "Archive",
+          "url": "https://leadstories.com/archive.html"
+        },
+        {
+          "text": "Contact",
+          "url": "https://leadstories.com/contact.html"
+        },
+        {
+          "text": "Български",
+          "url": "https://български.leadstories.com"
+        },
+        {
+          "text": "English",
+          "url": "https://leadstories.com"
+        },
+        {
+          "text": "Espanol",
+          "url": "https://espanol.leadstories.com"
+        },
+        {
+          "text": "Magyar",
+          "url": "https://magyar.leadstories.com"
+        },
+        {
+          "text": "Română",
+          "url": "https://română.leadstories.com"
+        },
+        {
+          "text": "Русский",
+          "url": "https://русский.leadstories.com"
+        },
+        {
+          "text": "Slovensky",
+          "url": "https://slovensky.leadstories.com "
+        },
+        {
+          "text": "Українська",
+          "url": "https://українська.leadstories.com"
+        },
+        {
+          "text": "Let us know!",
+          "url": "https://leadstories.com/contact.html"
+        },
+        {
+          "text": "Verified signatory of the IFCN Code of Principles",
+          "url": "https://ifcncodeofprinciples.poynter.org/profile/lead-stories"
+        },
+        {
+          "text": "Verified EFCSN member",
+          "url": "https://efcsn.com/verified-members/"
+        },
+        {
+          "text": "Founding sponsor of Indicator's Show & Tell Podcast",
+          "url": "https://indicator.media/show-and-tell-the-indicator-podcast"
+        },
+        {
+          "text": "Home",
+          "url": "https://leadstories.com/"
+        },
+        {
+          "text": "Prebunk",
+          "url": "https://leadstories.com/prebunk/"
+        },
+        {
+          "text": "Fact Check",
+          "url": "https://leadstories.com/hoax-alert/"
+        },
+        {
+          "text": "US",
+          "url": "https://leadstories.com/united-states/"
+        },
+        {
+          "text": "UK",
+          "url": "https://leadstories.com/united-kingdom/"
+        },
+        {
+          "text": "Europe & EU",
+          "url": "https://leadstories.com/europe/"
+        },
+        {
+          "text": "Ireland",
+          "url": "https://leadstories.com/ireland/"
+        },
+        {
+          "text": "Canada",
+          "url": "https://leadstories.com/canada/"
+        },
+        {
+          "text": "War 🇷🇺 & 🇺🇦",
+          "url": "https://leadstories.com/war/"
+        },
+        {
+          "text": "Corona Virus",
+          "url": "https://leadstories.com/coronavirus/"
+        },
+        {
+          "text": "Blue Feed",
+          "url": "https://leadstories.com/blue-feed/"
+        },
+        {
+          "text": "Red Feed",
+          "url": "https://leadstories.com/red-feed/"
+        },
+        {
+          "text": "Deep fakes",
+          "url": "https://leadstories.com/deepfakes/"
+        },
+        {
+          "text": "Breaking News",
+          "url": "https://leadstories.com/breaking/"
+        },
+        {
+          "text": "Elections 2024",
+          "url": "https://leadstories.com/elections/"
+        },
+        {
+          "text": "Business",
+          "url": "https://leadstories.com/business/"
+        },
+        {
+          "text": "Current Events",
+          "url": "https://leadstories.com/current-events/"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://leadstories.com/entertainment/"
+        },
+        {
+          "text": "Health",
+          "url": "https://leadstories.com/health/"
+        },
+        {
+          "text": "International",
+          "url": "https://leadstories.com/international/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://leadstories.com/politics/"
+        },
+        {
+          "text": "Science",
+          "url": "https://leadstories.com/science/"
+        },
+        {
+          "text": "Sports",
+          "url": "https://leadstories.com/sports/"
+        },
+        {
+          "text": "Society",
+          "url": "https://leadstories.com/society/"
+        },
+        {
+          "text": "Technology",
+          "url": "https://leadstories.com/technology/"
+        },
+        {
+          "text": "Corrections",
+          "url": "https://leadstories.com/corrections/"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://leadstories.com/analysis/"
+        },
+        {
+          "text": "Explainer",
+          "url": "https://leadstories.com/explainer/"
+        },
+        {
+          "text": "Satire",
+          "url": "https://leadstories.com/satire/"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "22f432b45db42c8bb962c7ce5dbf49c657344f824b0d69563a5a2d437218b0f2",
+      "text_sha256": "588061c9811d2413b8d32eddd9b5058c710f0c0df7eebeeea3540ed50c3b80f5",
+      "evidence_id": "e_3faca129ab1fcc20"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-21103987",
+      "resolved_url": "https://www.bbc.com/news/world-21103987",
+      "title": "Ahmed Dogan attacked by armed assailant in Bulgaria - BBC News",
+      "publisher": "www.bbc.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.248779+00:00",
+      "text": "Figure caption, The gunman did not succeed in making a shot A man put a gas pistol to the head of the leader of Bulgaria's ethnic Turkish party during a televised conference. Ahmed Dogan, leader of the Movement for Rights and Freedoms (MRF) was unharmed and the unidentified man was wrestled to the ground by security guards. The incident happened on Saturday at a party congress in the capital Sofia. Interior Minister Tsvetan Tsvetanov said the attacker, himself an ethnic Turk, tried to fire two shots but \"most likely the gun misfired\". Early reports suggested the weapon was a gun, but it was later confirmed to be a gas pistol - a non-lethal weapon used largely for self-defence which does not fire bullets but which can cause serious injuries if fired from close range. Mr Tsetanov also said the assailant had a criminal record for drugs possession, robberies and hooliganism. Police arrested the attacker, a 25-year-old from the Black Sea town of Burgas, who was also carrying two knives. The liberal MRF party represents ethnic Turks and other Muslims, who make up about 12% of Bulgaria's population of about seven million. Mr Dogan, 58, has led the party for almost 25 years. He returned to the party conference a few hours after the attack and was given a standing ovation. President Rosen Plevneliev said in a statement: \"Bulgarian society is traditionally known for its tolerance, mutual acceptance and respect between different ethnic groups and religions. \"Such an act is unacceptable in a democratic state.\" Attacks on politicians are rare in Bulgaria, but in 1996, former Prime Minister Andrei Lukanov was found shot dead near his home in Sofia. More on this story Bulgaria country profile Published 30 October 2024",
+      "truncated": false,
+      "links": [
+        {
+          "text": "BBC Homepage",
+          "url": "https://www.bbc.com"
+        },
+        {
+          "text": "Skip to content",
+          "url": "https://www.bbc.com/news/world-21103987#main-heading"
+        },
+        {
+          "text": "Accessibility Help",
+          "url": "https://www.bbc.co.uk/accessibility/"
+        },
+        {
+          "text": "Your account",
+          "url": "https://account.bbc.com/account?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-21103987"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.bbc.com"
+        },
+        {
+          "text": "News",
+          "url": "https://www.bbc.com/news"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.bbc.com/sport"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.bbc.com/business"
+        },
+        {
+          "text": "Technology",
+          "url": "https://www.bbc.com/technology"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.bbc.com/health"
+        },
+        {
+          "text": "Culture",
+          "url": "https://www.bbc.com/culture"
+        },
+        {
+          "text": "Arts",
+          "url": "https://www.bbc.com/arts"
+        },
+        {
+          "text": "Travel",
+          "url": "https://www.bbc.com/travel"
+        },
+        {
+          "text": "Earth",
+          "url": "https://www.bbc.com/future-planet"
+        },
+        {
+          "text": "Audio",
+          "url": "https://www.bbc.com/audio"
+        },
+        {
+          "text": "Video",
+          "url": "https://www.bbc.com/video"
+        },
+        {
+          "text": "Live",
+          "url": "https://www.bbc.com/live"
+        },
+        {
+          "text": "More menu",
+          "url": "https://www.bbc.com/news/world-21103987#global-navigation-more-menu"
+        },
+        {
+          "text": "More menu",
+          "url": "https://www.bbc.com/news/world-21103987#global-navigation-more-menu"
+        },
+        {
+          "text": "Search BBC",
+          "url": "https://www.bbc.com/search?d=NEWS_GNL"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.bbc.com"
+        },
+        {
+          "text": "News",
+          "url": "https://www.bbc.com/news"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.bbc.com/sport"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.bbc.com/business"
+        },
+        {
+          "text": "Technology",
+          "url": "https://www.bbc.com/technology"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.bbc.com/health"
+        },
+        {
+          "text": "Culture",
+          "url": "https://www.bbc.com/culture"
+        },
+        {
+          "text": "Arts",
+          "url": "https://www.bbc.com/arts"
+        },
+        {
+          "text": "Travel",
+          "url": "https://www.bbc.com/travel"
+        },
+        {
+          "text": "Earth",
+          "url": "https://www.bbc.com/future-planet"
+        },
+        {
+          "text": "Audio",
+          "url": "https://www.bbc.com/audio"
+        },
+        {
+          "text": "Video",
+          "url": "https://www.bbc.com/video"
+        },
+        {
+          "text": "Live",
+          "url": "https://www.bbc.com/live"
+        },
+        {
+          "text": "Close menu",
+          "url": "https://www.bbc.com/news/world-21103987#more-menu-button"
+        },
+        {
+          "text": "BBC News",
+          "url": "https://www.bbc.com/news"
+        },
+        {
+          "text": "Menu",
+          "url": "https://www.bbc.com/news/world-21103987#product-navigation-menu"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.bbc.com/news"
+        },
+        {
+          "text": "Climate",
+          "url": "https://www.bbc.com/news/topics/cmj34zmwm1zt"
+        },
+        {
+          "text": "World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "US & Canada",
+          "url": "https://www.bbc.com/news/world/us_and_canada"
+        },
+        {
+          "text": "UK",
+          "url": "https://www.bbc.com/news/uk"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.bbc.com/news/business"
+        },
+        {
+          "text": "Tech",
+          "url": "https://www.bbc.com/news/technology"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.bbc.com/news/science_and_environment"
+        },
+        {
+          "text": "Entertainment & Arts",
+          "url": "https://www.bbc.com/news/entertainment_and_arts"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.bbc.com/news/health"
+        },
+        {
+          "text": "More",
+          "url": "https://www.bbc.com/news/world-21103987#product-navigation-more-menu"
+        },
+        {
+          "text": "In Pictures",
+          "url": "https://www.bbc.com/news/in_pictures"
+        },
+        {
+          "text": "BBC Verify",
+          "url": "https://www.bbc.com/news/bbcverify"
+        },
+        {
+          "text": "Newsbeat",
+          "url": "https://www.bbc.com/news/newsbeat"
+        },
+        {
+          "text": "World",
+          "url": "https://www.bbc.com/news/world"
+        },
+        {
+          "text": "Africa",
+          "url": "https://www.bbc.com/news/world/africa"
+        },
+        {
+          "text": "Asia",
+          "url": "https://www.bbc.com/news/world/asia"
+        },
+        {
+          "text": "Australia",
+          "url": "https://www.bbc.com/news/world/australia"
+        },
+        {
+          "text": "Europe",
+          "url": "https://www.bbc.com/news/world/europe"
+        },
+        {
+          "text": "Latin America",
+          "url": "https://www.bbc.com/news/world/latin_america"
+        },
+        {
+          "text": "Middle East",
+          "url": "https://www.bbc.com/news/world/middle_east"
+        },
+        {
+          "text": "About sharing",
+          "url": "https://www.bbc.co.uk/usingthebbc/terms/can-i-share-things-from-the-bbc"
+        },
+        {
+          "text": "Bulgaria country profile",
+          "url": "https://www.bbc.com/news/world-europe-17202996"
+        },
+        {
+          "text": "Mahmood scraps settlement plans for migrant care workers",
+          "url": "https://www.bbc.com/news/articles/c6lye8g4w7g1o"
+        },
+        {
+          "text": "Shop freezers in seven European countries hit by cyber-attack",
+          "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
+        },
+        {
+          "text": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+          "url": "https://www.bbc.com/news/videos/cmwyvrgk9p0ro"
+        },
+        {
+          "text": "Cleft lip filler 'boosts confidence' - but expert warns of exploitation risk",
+          "url": "https://www.bbc.com/news/articles/c9vgrkvv006xo"
+        },
+        {
+          "text": "Iran killed her teenage daughter - now she is facing up to the regime",
+          "url": "https://www.bbc.com/news/articles/c3qjn8117kwjo"
+        },
+        {
+          "text": "How a Democrat in Michigan rocked the party days before the US midterms. Video How a Democrat in Michigan rocked the party days before the US midterms",
+          "url": "https://www.bbc.com/news/videos/cqvgjljj74n8o"
+        },
+        {
+          "text": "Democrats have high hopes for midterms - but are the polls right?",
+          "url": "https://www.bbc.com/news/articles/cmg47p3edv4do"
+        },
+        {
+          "text": "'I could barely stand up straight with menopause after cancer'",
+          "url": "https://www.bbc.com/news/articles/ck3r5z2d8zrwo"
+        },
+        {
+          "text": "Don't get caught out by new Buy Now Pay Later rules",
+          "url": "https://www.bbc.com/news/articles/crpdgp4y017go"
+        },
+        {
+          "text": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+          "url": "https://www.bbc.com/news/articles/ckjwez8g5dyeo"
+        },
+        {
+          "text": "Help needed to solve mystery of starling murmurations",
+          "url": "https://www.bbc.com/news/articles/ckvg69w1xg04o"
+        },
+        {
+          "text": "Politics Essential: Get the latest news and analysis delivered to your inbox every weekday",
+          "url": "https://www.bbc.com/newsletters/z7hc239"
+        },
+        {
+          "text": "First look: A darkly comedic Cold War thriller from the makers of Killing Eve",
+          "url": "https://www.bbc.com/iplayer/episodes/m002zlmp/watch/p0pj8qcb?at_mid=24znytqIwE&at_campaign=BBC_Trailer_Honey&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zlmp&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=BBC_Trailer_Honey&at_bbc_team=BBC"
+        },
+        {
+          "text": "The secretary who made millions from her typos",
+          "url": "https://www.bbc.com/sounds/play/w3ct74js?at_mid=PI4apYm9HO&at_campaign=Witness_History_The_secretary_who_made_millions_from_her_typos&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p004t1hd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Witness_History_The_secretary_who_made_millions_from_her_typos&at_bbc_team=BBC"
+        },
+        {
+          "text": "Let the mind games begin in The Traitors Ireland",
+          "url": "https://www.bbc.com/iplayer/episode/m0033hmj?at_mid=2UYC8VbhRN&at_campaign=The_Traitors_Ireland_S2&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002q8sr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Traitors_Ireland_S2&at_bbc_team=BBC"
+        },
+        {
+          "text": "Romesh Ranganathan faithfully shares his desert island essentials",
+          "url": "https://www.bbc.com/sounds/play/m002cz7y?at_mid=BwE1U0Lsl7&at_campaign=DID_Romesh_Ranganathan&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=sounds&at_brand=b006qnmr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=DID_Romesh_Ranganathan&at_bbc_team=BBC"
+        },
+        {
+          "text": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+          "url": "https://www.bbc.com/news/articles/cm369yy7lw73o"
+        },
+        {
+          "text": "Shop freezers in seven European countries hit by cyber-attack",
+          "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
+        },
+        {
+          "text": "Mahmood scraps settlement plans for migrant care workers",
+          "url": "https://www.bbc.com/news/articles/c6lye8g4w7g1o"
+        },
+        {
+          "text": "Two boys arrested after Halloween party stabbings",
+          "url": "https://www.bbc.com/news/articles/cked3j229j43o"
+        },
+        {
+          "text": "Man who drugged and raped wife with strangers 'led double life'",
+          "url": "https://www.bbc.com/news/articles/cwdr8vxl1nv1o"
+        },
+        {
+          "text": "MP Carla Lockhart quits DUP in Drumcree row",
+          "url": "https://www.bbc.com/news/articles/cm87zn1vy28zo"
+        },
+        {
+          "text": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+          "url": "https://www.bbc.com/news/articles/cjly0rgk34y2o"
+        },
+        {
+          "text": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+        },
+        {
+          "text": "Driver who dragged head teacher to his death jailed",
+          "url": "https://www.bbc.com/news/articles/c893z5y94nxko"
+        },
+        {
+          "text": "Man caught in car with £14k of drugs as a lamb ate chips in the back seat avoids jail",
+          "url": "https://www.bbc.com/news/articles/c6rmyrnwylwzo"
+        },
+        {
+          "text": "On your mobile",
+          "url": "https://www.bbc.co.uk/news/10628994"
+        },
+        {
+          "text": "On smart speakers",
+          "url": "https://www.bbc.co.uk/news/help-50068132"
+        },
+        {
+          "text": "Get news alerts",
+          "url": "https://www.bbc.co.uk/news/10628323"
+        },
+        {
+          "text": "Contact BBC News",
+          "url": "https://www.bbc.co.uk/news/20039682"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.bbc.com"
+        },
+        {
+          "text": "News",
+          "url": "https://www.bbc.com/news"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.bbc.com/sport"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.bbc.com/business"
+        },
+        {
+          "text": "Technology",
+          "url": "https://www.bbc.com/technology"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.bbc.com/health"
+        },
+        {
+          "text": "Culture",
+          "url": "https://www.bbc.com/culture"
+        },
+        {
+          "text": "Arts",
+          "url": "https://www.bbc.com/arts"
+        },
+        {
+          "text": "Travel",
+          "url": "https://www.bbc.com/travel"
+        },
+        {
+          "text": "Earth",
+          "url": "https://www.bbc.com/future-planet"
+        },
+        {
+          "text": "Audio",
+          "url": "https://www.bbc.com/audio"
+        },
+        {
+          "text": "Video",
+          "url": "https://www.bbc.com/video"
+        },
+        {
+          "text": "Live",
+          "url": "https://www.bbc.com/live"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://www.bbc.com/pages/terms-of-use"
+        },
+        {
+          "text": "About the BBC",
+          "url": "https://www.bbc.co.uk/aboutthebbc"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.bbc.com/pages/privacy-policy"
+        },
+        {
+          "text": "Cookies",
+          "url": "https://www.bbc.com/usingthebbc/cookies"
+        },
+        {
+          "text": "Accessibility Help",
+          "url": "https://www.bbc.co.uk/accessibility"
+        },
+        {
+          "text": "Parental Guidance",
+          "url": "https://www.bbc.co.uk/iplayer/guidance"
+        },
+        {
+          "text": "Contact the BBC",
+          "url": "https://www.bbc.co.uk/contact"
+        },
+        {
+          "text": "Careers",
+          "url": "https://www.bbc.co.uk/careers"
+        },
+        {
+          "text": "BBC emails for you",
+          "url": "https://www.bbc.co.uk/bbcnewsletter"
+        },
+        {
+          "text": "Advertise with us",
+          "url": "https://www.bbc.com/advertisingcontact/"
+        },
+        {
+          "text": "Read about our approach to external linking.",
+          "url": "https://www.bbc.co.uk/editorialguidelines/guidance/links-and-feeds"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "4e2f424bea63933a201e8df32b245b50647af1b1e627aeaa3fca9fda510b9b68",
+      "text_sha256": "3e4306c9df5bd74815509bd44731b94841e2159f1eaaa936d28610557d69c267",
+      "evidence_id": "e_ce69874d808711bc"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_cf7921c5a3005646",
+      "source_id": "e_3faca129ab1fcc20",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+      "title": "Fact Check: Video Does NOT Show Attack On Netanyahu In October 2026 -- Footage Of Unrelated Incident In Bulgaria | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.075351+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "No Reports Does a viral video show a life-threatening attack on Israeli Prime Minister Benjamin Netanyahu one day after the Oct. 27, 2026, election? No, that's not true: The low quality of the video obscured that it showed a different politician giving a speech in a different country in 2013. It was Ahmed Dogan attacked in Bulgaria. The claim appeared in a post (archived here ) by @AsifAli_Haider on Oct. 28, 2026. It opened: Breaking 🚨 A very dangerous attack on Netanyahu in Tel Aviv it appears he has sustained severe injuries, and an aircraft is being dispatched to transport him to the United States. This is clearly evident from the footage. Don't remove my video X Twitter This is what a screenshot of the video looked like on X at the time of writing: (Image source: post by @AsifAli_Haide",
+      "source_text_sha256": "588061c9811d2413b8d32eddd9b5058c710f0c0df7eebeeea3540ed50c3b80f5",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_98ec7764c8c3e973",
+      "source_id": "e_3faca129ab1fcc20",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+      "title": "Fact Check: Video Does NOT Show Attack On Netanyahu In October 2026 -- Footage Of Unrelated Incident In Bulgaria | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.075351+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "is being dispatched to transport him to the United States. This is clearly evident from the footage. Don't remove my video X Twitter This is what a screenshot of the video looked like on X at the time of writing: (Image source: post by @AsifAli_Haider on X.) The claim emerged on social media when Israel was still counting votes (archived here ) cast in its Oct. 27, 2026, election (archived here ). The blurry 18-second clip included a fairly clear thumbnail depicting Netanyahu speaking in front of the wall with a Hebrew inscription. The opening frame, however, showed an acronym written in a Cyrillic alphabet: (Image source: post by @AsifAli_Haider on X.) (Image source: post by @AsifAli_Haider on X.) A reverse image search found a Jan. 20, 2013, BBC report about the incident (archived here )",
+      "source_text_sha256": "588061c9811d2413b8d32eddd9b5058c710f0c0df7eebeeea3540ed50c3b80f5",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_8dd5900214c1f478",
+      "source_id": "e_3faca129ab1fcc20",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+      "title": "Fact Check: Video Does NOT Show Attack On Netanyahu In October 2026 -- Footage Of Unrelated Incident In Bulgaria | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.075351+00:00",
+      "start": 1650,
+      "end": 2069,
+      "text": "(archived here ), the party's website confirms. Screenshots of the video the BBC used in its report as well as those of other media outlets (archived here ) demonstrate that the person at the podium bore no resemblance to Netanyahu: (Image source: BBC.) A broad search across sites indexed by Google News (archived here ) showed no media reports confirming any reports of a similar attack on Netanyahu on Oct. 28, 2026.",
+      "source_text_sha256": "588061c9811d2413b8d32eddd9b5058c710f0c0df7eebeeea3540ed50c3b80f5",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_4afabcb0144545fb",
+      "source_id": "e_ce69874d808711bc",
+      "url": "https://www.bbc.com/news/world-21103987",
+      "title": "Ahmed Dogan attacked by armed assailant in Bulgaria - BBC News",
+      "publisher": "www.bbc.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.248779+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Figure caption, The gunman did not succeed in making a shot A man put a gas pistol to the head of the leader of Bulgaria's ethnic Turkish party during a televised conference. Ahmed Dogan, leader of the Movement for Rights and Freedoms (MRF) was unharmed and the unidentified man was wrestled to the ground by security guards. The incident happened on Saturday at a party congress in the capital Sofia. Interior Minister Tsvetan Tsvetanov said the attacker, himself an ethnic Turk, tried to fire two shots but \"most likely the gun misfired\". Early reports suggested the weapon was a gun, but it was later confirmed to be a gas pistol - a non-lethal weapon used largely for self-defence which does not fire bullets but which can cause serious injuries if fired from close range. Mr Tsetanov also said t",
+      "source_text_sha256": "3e4306c9df5bd74815509bd44731b94841e2159f1eaaa936d28610557d69c267",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_d7ceb074f05a00fb",
+      "source_id": "e_ce69874d808711bc",
+      "url": "https://www.bbc.com/news/world-21103987",
+      "title": "Ahmed Dogan attacked by armed assailant in Bulgaria - BBC News",
+      "publisher": "www.bbc.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.248779+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "orts suggested the weapon was a gun, but it was later confirmed to be a gas pistol - a non-lethal weapon used largely for self-defence which does not fire bullets but which can cause serious injuries if fired from close range. Mr Tsetanov also said the assailant had a criminal record for drugs possession, robberies and hooliganism. Police arrested the attacker, a 25-year-old from the Black Sea town of Burgas, who was also carrying two knives. The liberal MRF party represents ethnic Turks and other Muslims, who make up about 12% of Bulgaria's population of about seven million. Mr Dogan, 58, has led the party for almost 25 years. He returned to the party conference a few hours after the attack and was given a standing ovation. President Rosen Plevneliev said in a statement: \"Bulgarian societ",
+      "source_text_sha256": "3e4306c9df5bd74815509bd44731b94841e2159f1eaaa936d28610557d69c267",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_b66e504f48595f1a",
+      "source_id": "e_ce69874d808711bc",
+      "url": "https://www.bbc.com/news/world-21103987",
+      "title": "Ahmed Dogan attacked by armed assailant in Bulgaria - BBC News",
+      "publisher": "www.bbc.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.248779+00:00",
+      "start": 1100,
+      "end": 1732,
+      "text": "pulation of about seven million. Mr Dogan, 58, has led the party for almost 25 years. He returned to the party conference a few hours after the attack and was given a standing ovation. President Rosen Plevneliev said in a statement: \"Bulgarian society is traditionally known for its tolerance, mutual acceptance and respect between different ethnic groups and religions. \"Such an act is unacceptable in a democratic state.\" Attacks on politicians are rare in Bulgaria, but in 1996, former Prime Minister Andrei Lukanov was found shot dead near his home in Sofia. More on this story Bulgaria country profile Published 30 October 2024",
+      "source_text_sha256": "3e4306c9df5bd74815509bd44731b94841e2159f1eaaa936d28610557d69c267",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_2bf49015b653493d",
+      "source_id": "e_3faca129ab1fcc20",
+      "url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-attack-on-netanyahu-in-october-2026-footage-of-unrelated-incident-in-bulgaria.html",
+      "title": "Fact Check: Video Does NOT Show Attack On Netanyahu In October 2026 -- Footage Of Unrelated Incident In Bulgaria | Lead Stories",
+      "publisher": "leadstories.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.075351+00:00",
+      "start": 1258,
+      "end": 1828,
+      "text": "A reverse image search found a Jan. 20, 2013, BBC report about the incident (archived here ). That article, which featured a better-quality version of the video, reported that the footage showed an attack on Bulgarian politician Ahmed Dogan. He escaped unharmed. At the time, Dogan was the leader of the Movement for Rights and Freedoms whose acronym -- MRF -- is written as ДПС in Bulgarian (archived here ), the party's website confirms. Screenshots of the video the BBC used in its report as well as those of other media outlets (archived here ) demonstrate that the ",
+      "source_text_sha256": "588061c9811d2413b8d32eddd9b5058c710f0c0df7eebeeea3540ed50c3b80f5",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "politics_misattributed_footage",
+  "claim_provenance": {
+    "original_url": "https://x.com/AsifAli_Haider/status/2115495798628909387",
+    "original_post_caption": "Breaking 🚨 A very dangerous attack on Netanyahu in Tel Aviv it appears he has sustained severe injuries, and an aircraft is being dispatched to transport him to the United States. This is clearly evident from the footage. Don't remove my video X Twitter https://t.co/te6tOLm7MT",
+    "caption_source": "yt-dlp public original post metadata",
+    "metadata_path": "/Users/zhuoweiz/Documents/ChatGPT/Firework Hackathon 2/data/videos/twitter_2115495798628909387.info.json",
+    "metadata_sha256": "27fecea75beb9a9784e023bb629f21751fd0d5f516f6237620c1313c0199bb08",
+    "claim_scope": "Video plus original post caption; only depicted person/event/date evaluated."
+  },
+  "retrieved_at": "2026-11-02T22:45:25.490146+00:00",
+  "label": null,
+  "human_verified": false
+}

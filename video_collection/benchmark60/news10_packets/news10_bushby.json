@@ -1,0 +1,1378 @@
+{
+  "case": {
+    "case_id": "news10_bushby",
+    "group_id": "youtube_1TuLprcGmSI",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "Karl Bushby returned home to Hull on 2 November 2026 after a 28-year journey around the world.",
+    "evidence": [
+      {
+        "id": "p_6377b5f019ba9824",
+        "source_id": "e_4225c588e025d8f0",
+        "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+        "retrieved_date": "2026-11-02",
+        "text": "Homepage World Adventurer arrives home after 28-year walk from South America 'This is absolute madness. After 28 years, you couldn’t ask for more than this.' Angela Bushby welcomes her son Karl as he arrives back home in Hull following his 28 year walk from Chile. Picture: Annabel Lee-Ellis/Press Association Mon, 02 Nov, 2026 - 16:24 Dave Higgens       Adventurer Karl Bushby has been mobbed by well-wishers as he arrived in his home town of Hull in England on the last day of his 28-year walk from South America. Mr Bushby, now 57, told crowds in the city centre: “There has never been a welcome home quite like this.” The former paratrooper set off from the southern end of Chile in 1998, when he was 28, vowing to walk all the way home without using any form of motorised transport. On Mon",
+        "sha256": "8a9a58088d5d34a4af52e52d06238b2d3bf8390f647659268ec680e74c1c6614"
+      },
+      {
+        "id": "p_1698987193fc6e09",
+        "source_id": "e_4225c588e025d8f0",
+        "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+        "retrieved_date": "2026-11-02",
+        "text": "rs and flags. Karl Bushby (centre left) at a civic welcome in Queen Victoria Square as he arrives back home in Hull following his 28 year walk from Chile. Photo: Annabel Lee-Ellis/Press Association Monday’s leg crowns years of dangerous escapades, including crossing the notorious Darien Gap in Central America and traversing the Bering Strait between Alaska and Russia on the frozen sea. Mr Bushby arrived back in England earlier this month, announcing that he had swum the Channel. He told the crowd in the city centre: “Twenty-eight years… I could not have imagined this. One last enormous thank you, guys. Just an enormous thank you. “I guess I’ll be seeing you around. I’ll be knocking about for a while, I guess.” Mr Bushby said: “I didn’t do this alone. It was a big team. The biggest team – E",
+        "sha256": "35409fcad0694267d7b1b565554761474e6b64d65ea2c8da2f852b43c15c40e5"
+      },
+      {
+        "id": "p_45507f769cb7543e",
+        "source_id": "e_4225c588e025d8f0",
+        "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+        "retrieved_date": "2026-11-02",
+        "text": " not have imagined this. One last enormous thank you, guys. Just an enormous thank you. “I guess I’ll be seeing you around. I’ll be knocking about for a while, I guess.” Mr Bushby said: “I didn’t do this alone. It was a big team. The biggest team – Earth. That’s what it took to get me back.” Lord mayor of Hull Maria Coward told Mr Bushby: “For 28 years – 10,229 days – Hull has been waiting for your return. Hull is proud of you. I’m proud of you. Everyone’s proud of you.” Mr Turner read Mr Burnham’s message of congratulations on what he described as an “extraordinary journey”. It said: “To walk around the world from Chile and back again is an achievement of truly remarkable proportions. It speaks of courage, resilience, perseverance and unbreakable spirit.” Karl Bushby: 'I didn’t do this al",
+        "sha256": "804a96a07c53da5cb938432200185d7a85ef458a8b1353415de9d28162a4dbdc"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "1TuLprcGmSI",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/1TuLprcGmSI",
+    "title": "UK adventurer returns home after 28-year trek around the world",
+    "source_name": "Reuters",
+    "source_handle": "@Reuters",
+    "source_kind": "newsroom",
+    "source_url": "https://www.youtube.com/@Reuters/shorts",
+    "channel_id": "UChqUTb7kYRX8-EiaN3XFrSQ",
+    "sampling_category": "world_news",
+    "category_reviewed": false,
+    "label": "unreviewed",
+    "discovered_at": "2026-11-02T20:24:25.105300+00:00",
+    "discovery_route": "channel_shorts",
+    "duration": 33,
+    "key": "youtube_1TuLprcGmSI",
+    "collected_at": "2026-11-02T20:29:23.566762+00:00",
+    "status": "downloaded",
+    "upload_date": "20261102",
+    "license": null,
+    "language": "ar",
+    "language_reviewed": false,
+    "returncode": 0,
+    "path": "data/videos/youtube_1TuLprcGmSI.mp4",
+    "bytes": 2298030,
+    "sha256": "bbe8aff5df0f3e3d4c8bf661d8e8e976781c294e0337986f6ff6eeaa25366041"
+  },
+  "media": {
+    "video_sha256": "bbe8aff5df0f3e3d4c8bf661d8e8e976781c294e0337986f6ff6eeaa25366041",
+    "frames": [
+      {
+        "seconds": 0,
+        "path": "data/labeling/media/youtube_1TuLprcGmSI/frames/0001.jpg"
+      },
+      {
+        "seconds": 6,
+        "path": "data/labeling/media/youtube_1TuLprcGmSI/frames/0007.jpg"
+      },
+      {
+        "seconds": 13,
+        "path": "data/labeling/media/youtube_1TuLprcGmSI/frames/0014.jpg"
+      },
+      {
+        "seconds": 19,
+        "path": "data/labeling/media/youtube_1TuLprcGmSI/frames/0020.jpg"
+      },
+      {
+        "seconds": 26,
+        "path": "data/labeling/media/youtube_1TuLprcGmSI/frames/0027.jpg"
+      },
+      {
+        "seconds": 32,
+        "path": "data/labeling/media/youtube_1TuLprcGmSI/frames/0033.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " Where have I been? Well we're back now. Woo! 28 years later. And here we are. Alright. Wow, look at this. Go, go, go!",
+      "language": "en",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 2.0,
+          "text": " Where have I been?",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 2.0,
+          "end": 4.0,
+          "text": " Well we're back now.",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 4.0,
+          "end": 6.0,
+          "text": " Woo!",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 6.0,
+          "end": 8.0,
+          "text": " 28 years later.",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 8.0,
+          "end": 10.0,
+          "text": " And here we are.",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 24.0,
+          "end": 26.0,
+          "text": " Alright.",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 26.0,
+          "end": 28.0,
+          "text": " Wow, look at this.",
+          "avg_logprob": -0.4020256042480469,
+          "no_speech_prob": 5.110245126366264e-12
+        },
+        {
+          "start": 30.0,
+          "end": 32.0,
+          "text": " Go, go, go!",
+          "avg_logprob": -0.7002354198031955,
+          "no_speech_prob": 9.317364241256954e-11
+        }
+      ],
+      "model": "mlx-community/whisper-large-v3-turbo",
+      "automatic": true,
+      "human_verified": false,
+      "at": "2026-11-02T20:50:43.384242+00:00"
+    },
+    "at": "2026-11-02T21:32:27.420011+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+      "resolved_url": "https://www.irishexaminer.com/world/arid-41932203.html",
+      "title": "Adventurer arrives home after 28-year walk from South America",
+      "publisher": "www.irishexaminer.com",
+      "published_at": "2026-11-02T16:24:00+00:00",
+      "retrieved_at": "2026-11-02T22:44:51.413992+00:00",
+      "text": "Homepage World Adventurer arrives home after 28-year walk from South America 'This is absolute madness. After 28 years, you couldn’t ask for more than this.' Angela Bushby welcomes her son Karl as he arrives back home in Hull following his 28 year walk from Chile. Picture: Annabel Lee-Ellis/Press Association Mon, 02 Nov, 2026 - 16:24 Dave Higgens       Adventurer Karl Bushby has been mobbed by well-wishers as he arrived in his home town of Hull in England on the last day of his 28-year walk from South America. Mr Bushby, now 57, told crowds in the city centre: “There has never been a welcome home quite like this.” The former paratrooper set off from the southern end of Chile in 1998, when he was 28, vowing to walk all the way home without using any form of motorised transport. On Monday, he made the penultimate stop of his epic journey in the centre of Hull, where he was greeted by hundreds of well-wishers outside the City Hall. He was mobbed and cheered as he walked into Queen Victoria Square wheeling his cart, before telling the crowd: “There has never been a welcome home quite like this, I’m sure. “This is absolute madness. After 28 years, you couldn’t ask for more than this. This is the last, last few steps.” Read More Crew from NASA's simulated Mars mission emerge after 378 days in isolation Mr Bushby was greeted by the lord mayor and Hull East MP Karl Turner, who read out a message of congratulations from British prime minister Andy Burnham. He went inside for a civic reception before setting off for the final leg of his 31,000-mile (50,000km) journey — the three miles to his mother’s house, in the north of the city, which he last visited in 1998. More crowds greeted Mr Bushby when he arrived at his final destination and gave his mother Angela a hug outside her terraced house. Among the others waiting for him in the front garden was his son Adam, who is now 36 but was eight when his father embarked on the adventure. Mr Bushby’s father Keith and his granddaughter were also among those posing for the mass of photographers. Neighbours from the surrounding estate came out to cheer him back, many having decorated their homes with “Welcome Home Karl” banners and flags. Karl Bushby (centre left) at a civic welcome in Queen Victoria Square as he arrives back home in Hull following his 28 year walk from Chile. Photo: Annabel Lee-Ellis/Press Association Monday’s leg crowns years of dangerous escapades, including crossing the notorious Darien Gap in Central America and traversing the Bering Strait between Alaska and Russia on the frozen sea. Mr Bushby arrived back in England earlier this month, announcing that he had swum the Channel. He told the crowd in the city centre: “Twenty-eight years… I could not have imagined this. One last enormous thank you, guys. Just an enormous thank you. “I guess I’ll be seeing you around. I’ll be knocking about for a while, I guess.” Mr Bushby said: “I didn’t do this alone. It was a big team. The biggest team – Earth. That’s what it took to get me back.” Lord mayor of Hull Maria Coward told Mr Bushby: “For 28 years – 10,229 days – Hull has been waiting for your return. Hull is proud of you. I’m proud of you. Everyone’s proud of you.” Mr Turner read Mr Burnham’s message of congratulations on what he described as an “extraordinary journey”. It said: “To walk around the world from Chile and back again is an achievement of truly remarkable proportions. It speaks of courage, resilience, perseverance and unbreakable spirit.” Karl Bushby: 'I didn’t do this alone. It was a big team. The biggest team – Earth.' Photo: Annabel Lee-Ellis/Press Association The prime minister’s statement also thanked Mr Bushby for his service to the country as a soldier. He said: “Your journey has taken nearly three decades, crossed continents and tested you in ways that most of us can barely imagine. “But today, as you return to the city from which you left 28 years ago, you bring something far greater than any world record or remarkable personal achievement. “You bring a story of what can be accomplished through extraordinary determination and self-belief.” X Looking for a thoughtful gift?​ Irish Examiner Gift subscriptions are now available. Already a subscriber? Sign in Learn More CONNECT WITH US TODAY WHATSAPP NEWSLETTERS NOTIFICATIONS Be the first to know the latest news and updates More in this section Russian bomb attacks on aid centre and shelter kill 24, Ukrainian officials say Michigan Democrats push to galvanise voters after stunning Senate race defection Crew from NASA's simulated Mars mission emerge after 378 days in isolation  US voters to head to polls in crunch midterm elections seen as referendum on Trump READ NOW Subscribe Now",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Sign in",
+          "url": "https://www.irishexaminer.com/login/"
+        },
+        {
+          "text": "SUBSCRIBE",
+          "url": "https://subscribe.irishexaminer.com"
+        },
+        {
+          "text": "SUBSCRIBE",
+          "url": "https://subscribe.irishexaminer.com"
+        },
+        {
+          "text": "",
+          "url": "https://www.irishexaminer.com/"
+        },
+        {
+          "text": "Sign in",
+          "url": "https://www.irishexaminer.com/login"
+        },
+        {
+          "text": "Subscribe",
+          "url": "https://subscribe.irishexaminer.com/"
+        },
+        {
+          "text": "Subscriber",
+          "url": "https://www.irishexaminer.com/subscriber-content/"
+        },
+        {
+          "text": "news",
+          "url": "https://www.irishexaminer.com/news/"
+        },
+        {
+          "text": "Ireland",
+          "url": "https://www.irishexaminer.com/news/ireland/"
+        },
+        {
+          "text": "Munster",
+          "url": "https://www.irishexaminer.com/news/munster/"
+        },
+        {
+          "text": "Cork",
+          "url": "https://www.irishexaminer.com/news/cork-news/"
+        },
+        {
+          "text": "World",
+          "url": "https://www.irishexaminer.com/world/"
+        },
+        {
+          "text": "Court & Crime",
+          "url": "https://www.irishexaminer.com/news/courtandcrime/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.irishexaminer.com/news/politics/"
+        },
+        {
+          "text": "Spotlight",
+          "url": "https://www.irishexaminer.com/news/spotlight/"
+        },
+        {
+          "text": "Live News Blogs",
+          "url": "https://www.irishexaminer.com/news/live-blogs-news/"
+        },
+        {
+          "text": "History",
+          "url": "https://www.irishexaminer.com/news/history/"
+        },
+        {
+          "text": "Climate & Sustainability",
+          "url": "https://www.irishexaminer.com/news/sustainability/"
+        },
+        {
+          "text": "Watch Now",
+          "url": "https://www.irishexaminer.com/news/video-home/"
+        },
+        {
+          "text": "Longread",
+          "url": "https://www.irishexaminer.com/news/longreads/"
+        },
+        {
+          "text": "In Pictures",
+          "url": "https://www.irishexaminer.com/news/in-pictures-photographic-essays/"
+        },
+        {
+          "text": "Photos of the Week",
+          "url": "https://www.irishexaminer.com/news/picture-galleries/"
+        },
+        {
+          "text": "Obituaries",
+          "url": "https://www.irishexaminer.com/news/obituaries/"
+        },
+        {
+          "text": "News - Subscriber Content",
+          "url": "https://www.irishexaminer.com/news/subscriber-news/"
+        },
+        {
+          "text": "sport",
+          "url": "https://www.irishexaminer.com/sport/"
+        },
+        {
+          "text": "GAA",
+          "url": "https://www.irishexaminer.com/sport/gaa/"
+        },
+        {
+          "text": "The Replay",
+          "url": "https://www.irishexaminer.com/sport/the-replay/"
+        },
+        {
+          "text": "Soccer",
+          "url": "https://www.irishexaminer.com/sport/soccer/"
+        },
+        {
+          "text": "Rugby",
+          "url": "https://www.irishexaminer.com/sport/rugby/"
+        },
+        {
+          "text": "Racing",
+          "url": "https://www.irishexaminer.com/sport/racing/"
+        },
+        {
+          "text": "Golf",
+          "url": "https://www.irishexaminer.com/sport/golf/"
+        },
+        {
+          "text": "Business Of Sport",
+          "url": "https://www.irishexaminer.com/sport/business-of-sport/"
+        },
+        {
+          "text": "Other Sports",
+          "url": "https://www.irishexaminer.com/sport/othersport/"
+        },
+        {
+          "text": "Cork Sport",
+          "url": "https://www.irishexaminer.com/sport/cork-sport/"
+        },
+        {
+          "text": "Live Sports Blogs",
+          "url": "https://www.irishexaminer.com/sport/live-sports-blogs/"
+        },
+        {
+          "text": "Live Events",
+          "url": "https://www.irishexaminer.com/liveevents/"
+        },
+        {
+          "text": "Sport Columnists",
+          "url": "https://www.irishexaminer.com/opinion/columnists/"
+        },
+        {
+          "text": "Sport - Top Picks",
+          "url": "https://www.irishexaminer.com/sport/sport-top-picks/"
+        },
+        {
+          "text": "Sports Calendar",
+          "url": "https://www.irishexaminer.com/sport/sports-calendar/"
+        },
+        {
+          "text": "Sport - Subscriber Content",
+          "url": "https://www.irishexaminer.com/sport/subscriber-sport/"
+        },
+        {
+          "text": "lifestyle",
+          "url": "https://www.irishexaminer.com/lifestyle/"
+        },
+        {
+          "text": "Food",
+          "url": "https://www.irishexaminer.com/lifestyle/iefood/"
+        },
+        {
+          "text": "Health & Wellbeing",
+          "url": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/"
+        },
+        {
+          "text": "Arts & Culture",
+          "url": "https://www.irishexaminer.com/lifestyle/artsandculture/"
+        },
+        {
+          "text": "Books",
+          "url": "https://www.irishexaminer.com/lifestyle/books/"
+        },
+        {
+          "text": "Outdoors",
+          "url": "https://www.irishexaminer.com/lifestyle/outdoors/"
+        },
+        {
+          "text": "Fashion & Beauty",
+          "url": "https://www.irishexaminer.com/lifestyle/fashionandbeauty/"
+        },
+        {
+          "text": "Parenting",
+          "url": "https://www.irishexaminer.com/lifestyle/parenting/"
+        },
+        {
+          "text": "Parenting Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcasts-parenting/"
+        },
+        {
+          "text": "Advice",
+          "url": "https://www.irishexaminer.com/lifestyle/advice/"
+        },
+        {
+          "text": "Travel",
+          "url": "https://www.irishexaminer.com/lifestyle/travel/"
+        },
+        {
+          "text": "People",
+          "url": "https://www.irishexaminer.com/lifestyle/people/"
+        },
+        {
+          "text": "Celebrity",
+          "url": "https://www.irishexaminer.com/lifestyle/celebrity/"
+        },
+        {
+          "text": "Motoring",
+          "url": "https://www.irishexaminer.com/motoring/"
+        },
+        {
+          "text": "Lifestyle - Subscriber Content",
+          "url": "https://www.irishexaminer.com/lifestyle/subscriber-lifestyle/"
+        },
+        {
+          "text": "business",
+          "url": "https://www.irishexaminer.com/business/"
+        },
+        {
+          "text": "Companies",
+          "url": "https://www.irishexaminer.com/business/companies/"
+        },
+        {
+          "text": "Economy",
+          "url": "https://www.irishexaminer.com/business/economy/"
+        },
+        {
+          "text": "Farming",
+          "url": "https://www.irishexaminer.com/farming/"
+        },
+        {
+          "text": "Munster Business",
+          "url": "https://www.irishexaminer.com/business/munsterbusiness/"
+        },
+        {
+          "text": "Cork Business",
+          "url": "https://www.irishexaminer.com/business/cork-business/"
+        },
+        {
+          "text": "Technology",
+          "url": "https://www.irishexaminer.com/business/technology/"
+        },
+        {
+          "text": "ieBusiness Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-business/"
+        },
+        {
+          "text": "Business - Subscriber Content",
+          "url": "https://www.irishexaminer.com/business/subscriber-business/"
+        },
+        {
+          "text": "property",
+          "url": "https://www.irishexaminer.com/property/"
+        },
+        {
+          "text": "Residential",
+          "url": "https://www.irishexaminer.com/property/residential/"
+        },
+        {
+          "text": "Commercial",
+          "url": "https://www.irishexaminer.com/property/commercial/"
+        },
+        {
+          "text": "Development & Construction",
+          "url": "https://www.irishexaminer.com/property/developmentconstruction/"
+        },
+        {
+          "text": "Home & Gardens",
+          "url": "https://www.irishexaminer.com/property/homeandgardens/"
+        },
+        {
+          "text": "Property & Home - Subscriber Content",
+          "url": "https://www.irishexaminer.com/property/subscriber-property-and-home/"
+        },
+        {
+          "text": "opinion",
+          "url": "https://www.irishexaminer.com/opinion/"
+        },
+        {
+          "text": "Columnists",
+          "url": "https://www.irishexaminer.com/opinion/columnists/"
+        },
+        {
+          "text": "Comment & Analysis",
+          "url": "https://www.irishexaminer.com/opinion/commentanalysis/"
+        },
+        {
+          "text": "Our View",
+          "url": "https://www.irishexaminer.com/opinion/ourview/"
+        },
+        {
+          "text": "Your View",
+          "url": "https://www.irishexaminer.com/opinion/yourview/"
+        },
+        {
+          "text": "Opinion - Subscriber Content",
+          "url": "https://www.irishexaminer.com/opinion/subscriber-opinion/"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "LISTEN",
+          "url": "https://www.irishexaminer.com/podcast-home/"
+        },
+        {
+          "text": "The Deirdre O'Shaughnessy Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-dos/"
+        },
+        {
+          "text": "GAA Podcasts",
+          "url": "https://www.irishexaminer.com/podcasts/gaa-podcasts/"
+        },
+        {
+          "text": "The full story podcast",
+          "url": "https://www.irishexaminer.com/podcasts/the-full-story-podcast/"
+        },
+        {
+          "text": "Arena with Maurice Brosnan",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-arena/"
+        },
+        {
+          "text": "Rugby Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/rugby-podcast/"
+        },
+        {
+          "text": "The ieBusiness Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-business/"
+        },
+        {
+          "text": "The Mick Clifford Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/mickcliffordpodcasts/"
+        },
+        {
+          "text": "Politics Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-politics/"
+        },
+        {
+          "text": "Subscriber Podcasts",
+          "url": "https://www.irishexaminer.com/podcasts/subscriber-podcasts/"
+        },
+        {
+          "text": "Puzzles",
+          "url": "https://www.irishexaminer.com/puzzles/"
+        },
+        {
+          "text": "Archive",
+          "url": "https://www.irishexaminer.com/archive/"
+        },
+        {
+          "text": "Competitions",
+          "url": "https://www.irishexaminer.com/competition/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.irishexaminer.com/contact-us/"
+        },
+        {
+          "text": "ePaper",
+          "url": "https://www.irishexaminer.com/epaper/"
+        },
+        {
+          "text": "Helplines",
+          "url": "https://www.irishexaminer.com/helplines/"
+        },
+        {
+          "text": "MyHome.ie",
+          "url": "https://www.myhome.ie"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "Newspaper books",
+          "url": "https://www.irishexaminer.com/shop/"
+        },
+        {
+          "text": "Photosales",
+          "url": "https://photos.examiner.ie"
+        },
+        {
+          "text": "Place ad",
+          "url": "https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home"
+        },
+        {
+          "text": "Podcasts",
+          "url": "https://www.irishexaminer.com/podcast-home/"
+        },
+        {
+          "text": "Puzzles",
+          "url": "https://www.irishexaminer.com/puzzles/"
+        },
+        {
+          "text": "Recruit Ireland",
+          "url": "https://www.recruitireland.com"
+        },
+        {
+          "text": "Sponsored Showcase",
+          "url": "https://www.irishexaminer.com/contentstudio/"
+        },
+        {
+          "text": "Sponsored Reports",
+          "url": "https://www.irishexaminer.com/special-reports/"
+        },
+        {
+          "text": "Subscribe",
+          "url": "https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=more&g2i_campaign=core"
+        },
+        {
+          "text": "Weather",
+          "url": "https://www.irishexaminer.com/weather/"
+        },
+        {
+          "text": "Who We Are",
+          "url": "https://www.irishexaminer.com/whoweare/"
+        },
+        {
+          "text": "Cookie settings",
+          "url": "https://www.irishexaminer.com/world/arid-41932203.html"
+        },
+        {
+          "text": "Ireland",
+          "url": "https://www.irishexaminer.com/news/ireland/"
+        },
+        {
+          "text": "Munster",
+          "url": "https://www.irishexaminer.com/news/munster/"
+        },
+        {
+          "text": "Cork",
+          "url": "https://www.irishexaminer.com/news/cork-news/"
+        },
+        {
+          "text": "World",
+          "url": "https://www.irishexaminer.com/world/"
+        },
+        {
+          "text": "Court & Crime",
+          "url": "https://www.irishexaminer.com/news/courtandcrime/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.irishexaminer.com/news/politics/"
+        },
+        {
+          "text": "Spotlight",
+          "url": "https://www.irishexaminer.com/news/spotlight/"
+        },
+        {
+          "text": "Live News Blogs",
+          "url": "https://www.irishexaminer.com/news/live-blogs-news/"
+        },
+        {
+          "text": "History",
+          "url": "https://www.irishexaminer.com/news/history/"
+        },
+        {
+          "text": "Climate & Sustainability",
+          "url": "https://www.irishexaminer.com/news/sustainability/"
+        },
+        {
+          "text": "Watch Now",
+          "url": "https://www.irishexaminer.com/news/video-home/"
+        },
+        {
+          "text": "Longread",
+          "url": "https://www.irishexaminer.com/news/longreads/"
+        },
+        {
+          "text": "In Pictures",
+          "url": "https://www.irishexaminer.com/news/in-pictures-photographic-essays/"
+        },
+        {
+          "text": "Photos of the Week",
+          "url": "https://www.irishexaminer.com/news/picture-galleries/"
+        },
+        {
+          "text": "Obituaries",
+          "url": "https://www.irishexaminer.com/news/obituaries/"
+        },
+        {
+          "text": "News - Subscriber Content",
+          "url": "https://www.irishexaminer.com/news/subscriber-news/"
+        },
+        {
+          "text": "GAA",
+          "url": "https://www.irishexaminer.com/sport/gaa/"
+        },
+        {
+          "text": "The Replay",
+          "url": "https://www.irishexaminer.com/sport/the-replay/"
+        },
+        {
+          "text": "Soccer",
+          "url": "https://www.irishexaminer.com/sport/soccer/"
+        },
+        {
+          "text": "Rugby",
+          "url": "https://www.irishexaminer.com/sport/rugby/"
+        },
+        {
+          "text": "Racing",
+          "url": "https://www.irishexaminer.com/sport/racing/"
+        },
+        {
+          "text": "Golf",
+          "url": "https://www.irishexaminer.com/sport/golf/"
+        },
+        {
+          "text": "Business Of Sport",
+          "url": "https://www.irishexaminer.com/sport/business-of-sport/"
+        },
+        {
+          "text": "Other Sports",
+          "url": "https://www.irishexaminer.com/sport/othersport/"
+        },
+        {
+          "text": "Cork Sport",
+          "url": "https://www.irishexaminer.com/sport/cork-sport/"
+        },
+        {
+          "text": "Live Sports Blogs",
+          "url": "https://www.irishexaminer.com/sport/live-sports-blogs/"
+        },
+        {
+          "text": "Live Events",
+          "url": "https://www.irishexaminer.com/liveevents/"
+        },
+        {
+          "text": "Sport Columnists",
+          "url": "https://www.irishexaminer.com/opinion/columnists/"
+        },
+        {
+          "text": "Sport - Top Picks",
+          "url": "https://www.irishexaminer.com/sport/sport-top-picks/"
+        },
+        {
+          "text": "Sports Calendar",
+          "url": "https://www.irishexaminer.com/sport/sports-calendar/"
+        },
+        {
+          "text": "Sport - Subscriber Content",
+          "url": "https://www.irishexaminer.com/sport/subscriber-sport/"
+        },
+        {
+          "text": "Food",
+          "url": "https://www.irishexaminer.com/lifestyle/iefood/"
+        },
+        {
+          "text": "Health & Wellbeing",
+          "url": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/"
+        },
+        {
+          "text": "Arts & Culture",
+          "url": "https://www.irishexaminer.com/lifestyle/artsandculture/"
+        },
+        {
+          "text": "Books",
+          "url": "https://www.irishexaminer.com/lifestyle/books/"
+        },
+        {
+          "text": "Outdoors",
+          "url": "https://www.irishexaminer.com/lifestyle/outdoors/"
+        },
+        {
+          "text": "Fashion & Beauty",
+          "url": "https://www.irishexaminer.com/lifestyle/fashionandbeauty/"
+        },
+        {
+          "text": "Parenting",
+          "url": "https://www.irishexaminer.com/lifestyle/parenting/"
+        },
+        {
+          "text": "Parenting Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcasts-parenting/"
+        },
+        {
+          "text": "Advice",
+          "url": "https://www.irishexaminer.com/lifestyle/advice/"
+        },
+        {
+          "text": "Travel",
+          "url": "https://www.irishexaminer.com/lifestyle/travel/"
+        },
+        {
+          "text": "People",
+          "url": "https://www.irishexaminer.com/lifestyle/people/"
+        },
+        {
+          "text": "Celebrity",
+          "url": "https://www.irishexaminer.com/lifestyle/celebrity/"
+        },
+        {
+          "text": "Motoring",
+          "url": "https://www.irishexaminer.com/motoring/"
+        },
+        {
+          "text": "Lifestyle - Subscriber Content",
+          "url": "https://www.irishexaminer.com/lifestyle/subscriber-lifestyle/"
+        },
+        {
+          "text": "Companies",
+          "url": "https://www.irishexaminer.com/business/companies/"
+        },
+        {
+          "text": "Economy",
+          "url": "https://www.irishexaminer.com/business/economy/"
+        },
+        {
+          "text": "Farming",
+          "url": "https://www.irishexaminer.com/farming/"
+        },
+        {
+          "text": "Munster Business",
+          "url": "https://www.irishexaminer.com/business/munsterbusiness/"
+        },
+        {
+          "text": "Cork Business",
+          "url": "https://www.irishexaminer.com/business/cork-business/"
+        },
+        {
+          "text": "Technology",
+          "url": "https://www.irishexaminer.com/business/technology/"
+        },
+        {
+          "text": "ieBusiness Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-business/"
+        },
+        {
+          "text": "Business - Subscriber Content",
+          "url": "https://www.irishexaminer.com/business/subscriber-business/"
+        },
+        {
+          "text": "Residential",
+          "url": "https://www.irishexaminer.com/property/residential/"
+        },
+        {
+          "text": "Commercial",
+          "url": "https://www.irishexaminer.com/property/commercial/"
+        },
+        {
+          "text": "Development & Construction",
+          "url": "https://www.irishexaminer.com/property/developmentconstruction/"
+        },
+        {
+          "text": "Home & Gardens",
+          "url": "https://www.irishexaminer.com/property/homeandgardens/"
+        },
+        {
+          "text": "Property & Home - Subscriber Content",
+          "url": "https://www.irishexaminer.com/property/subscriber-property-and-home/"
+        },
+        {
+          "text": "Columnists",
+          "url": "https://www.irishexaminer.com/opinion/columnists/"
+        },
+        {
+          "text": "Comment & Analysis",
+          "url": "https://www.irishexaminer.com/opinion/commentanalysis/"
+        },
+        {
+          "text": "Our View",
+          "url": "https://www.irishexaminer.com/opinion/ourview/"
+        },
+        {
+          "text": "Your View",
+          "url": "https://www.irishexaminer.com/opinion/yourview/"
+        },
+        {
+          "text": "Opinion - Subscriber Content",
+          "url": "https://www.irishexaminer.com/opinion/subscriber-opinion/"
+        },
+        {
+          "text": "The Deirdre O'Shaughnessy Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-dos/"
+        },
+        {
+          "text": "GAA Podcasts",
+          "url": "https://www.irishexaminer.com/podcasts/gaa-podcasts/"
+        },
+        {
+          "text": "The full story podcast",
+          "url": "https://www.irishexaminer.com/podcasts/the-full-story-podcast/"
+        },
+        {
+          "text": "Arena with Maurice Brosnan",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-arena/"
+        },
+        {
+          "text": "Rugby Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/rugby-podcast/"
+        },
+        {
+          "text": "The ieBusiness Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-business/"
+        },
+        {
+          "text": "The Mick Clifford Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/mickcliffordpodcasts/"
+        },
+        {
+          "text": "Politics Podcast",
+          "url": "https://www.irishexaminer.com/podcasts/podcast-politics/"
+        },
+        {
+          "text": "Subscriber Podcasts",
+          "url": "https://www.irishexaminer.com/podcasts/subscriber-podcasts/"
+        },
+        {
+          "text": "Archive",
+          "url": "https://www.irishexaminer.com/archive/"
+        },
+        {
+          "text": "Competitions",
+          "url": "https://www.irishexaminer.com/competition/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.irishexaminer.com/contact-us/"
+        },
+        {
+          "text": "ePaper",
+          "url": "https://www.irishexaminer.com/epaper/"
+        },
+        {
+          "text": "Helplines",
+          "url": "https://www.irishexaminer.com/helplines/"
+        },
+        {
+          "text": "MyHome.ie",
+          "url": "https://www.myhome.ie"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "Newspaper books",
+          "url": "https://www.irishexaminer.com/shop/"
+        },
+        {
+          "text": "Photosales",
+          "url": "https://photos.examiner.ie"
+        },
+        {
+          "text": "Place ad",
+          "url": "https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home"
+        },
+        {
+          "text": "Podcasts",
+          "url": "https://www.irishexaminer.com/podcast-home/"
+        },
+        {
+          "text": "Puzzles",
+          "url": "https://www.irishexaminer.com/puzzles/"
+        },
+        {
+          "text": "Recruit Ireland",
+          "url": "https://www.recruitireland.com"
+        },
+        {
+          "text": "Sponsored Showcase",
+          "url": "https://www.irishexaminer.com/contentstudio/"
+        },
+        {
+          "text": "Sponsored Reports",
+          "url": "https://www.irishexaminer.com/special-reports/"
+        },
+        {
+          "text": "Subscribe",
+          "url": "https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=more&g2i_campaign=core"
+        },
+        {
+          "text": "Weather",
+          "url": "https://www.irishexaminer.com/weather/"
+        },
+        {
+          "text": "Who We Are",
+          "url": "https://www.irishexaminer.com/whoweare/"
+        },
+        {
+          "text": "news",
+          "url": "https://www.irishexaminer.com/news/"
+        },
+        {
+          "text": "sport",
+          "url": "https://www.irishexaminer.com/sport/"
+        },
+        {
+          "text": "lifestyle",
+          "url": "https://www.irishexaminer.com/lifestyle/"
+        },
+        {
+          "text": "business",
+          "url": "https://www.irishexaminer.com/business/"
+        },
+        {
+          "text": "opinion",
+          "url": "https://www.irishexaminer.com/opinion/"
+        },
+        {
+          "text": "",
+          "url": "https://www.irishexaminer.com/login/"
+        },
+        {
+          "text": "IN FOCUS:",
+          "url": "https://www.irishexaminer.com/maintopics/"
+        },
+        {
+          "text": "Legal Aid Row",
+          "url": "https://www.irishexaminer.com/maintopics/legal-aid_topic-5334074.html"
+        },
+        {
+          "text": "US Midterms",
+          "url": "https://www.irishexaminer.com/us-election/"
+        },
+        {
+          "text": "Club Championships",
+          "url": "https://www.irishexaminer.com/maintopics/club-championships_topic-5333896.html"
+        },
+        {
+          "text": "SUBSCRIBE",
+          "url": "https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=infocus&g2i_campaign=core"
+        },
+        {
+          "text": "WATCH NOW",
+          "url": "https://www.irishexaminer.com/news/video-home/"
+        },
+        {
+          "text": "NEWSLETTERS",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "PUZZLES",
+          "url": "https://www.irishexaminer.com/puzzles/"
+        },
+        {
+          "text": "WEATHER",
+          "url": "https://www.irishexaminer.com/weather/"
+        },
+        {
+          "text": "Homepage",
+          "url": "https://www.irishexaminer.com/"
+        },
+        {
+          "text": "World",
+          "url": "https://www.irishexaminer.com/world/"
+        },
+        {
+          "text": "",
+          "url": "http://www.facebook.com/sharer/sharer.php?u=https://www.irishexaminer.com/world/arid-41932203.html"
+        },
+        {
+          "text": "",
+          "url": "https://api.whatsapp.com/send?text=Irish Examiner - https://www.irishexaminer.com/world/arid-41932203.html"
+        },
+        {
+          "text": "",
+          "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.irishexaminer.com/world/arid-41932203.html"
+        },
+        {
+          "text": "",
+          "url": "https://reddit.com/submit?url=https://www.irishexaminer.com/world/arid-41932203.html&title=Adventurer arrives home after 28-year walk from South America"
+        },
+        {
+          "text": "",
+          "url": "mailto:?subject=Irish Examiner Article&body=https://www.irishexaminer.com/world/arid-41932203.html"
+        },
+        {
+          "text": "Crew from NASA's simulated Mars mission emerge after 378 days in isolation",
+          "url": "https://www.irishexaminer.com/world/arid-41932146.html"
+        },
+        {
+          "text": "Sign in",
+          "url": "https://www.irishexaminer.com/login/"
+        },
+        {
+          "text": "Learn More",
+          "url": "https://subscribe.irishexaminer.com/giftsubscription"
+        },
+        {
+          "text": "WHATSAPP",
+          "url": "https://www.whatsapp.com/channel/0029Va66KgvJkK76l2fD2j3U"
+        },
+        {
+          "text": "NEWSLETTERS",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "NOTIFICATIONS",
+          "url": "https://irishtimes.my.site.com/helpIE/s/article/How-do-I-turn-on-off-push-notifications-on-my-browser-or-mobile-device?language=en_IE"
+        },
+        {
+          "text": "Russian bomb attacks on aid centre and shelter kill 24, Ukrainian officials say",
+          "url": "https://www.irishexaminer.com/world/arid-41932326.html"
+        },
+        {
+          "text": "Michigan Democrats push to galvanise voters after stunning Senate race defection",
+          "url": "https://www.irishexaminer.com/world/arid-41932314.html"
+        },
+        {
+          "text": "Crew from NASA's simulated Mars mission emerge after 378 days in isolation",
+          "url": "https://www.irishexaminer.com/world/arid-41932146.html"
+        },
+        {
+          "text": "US voters to head to polls in crunch midterm elections seen as referendum on Trump",
+          "url": "https://www.irishexaminer.com/world/arid-41932377.html"
+        },
+        {
+          "text": "READ NOW",
+          "url": "https://www.irishexaminer.com/world/arid-41932377.html"
+        },
+        {
+          "text": "Subscribe Now",
+          "url": "https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=articleleftbar&g2i_campaign=core"
+        },
+        {
+          "text": "Thierno Barry grabs only goal as Everton defeat 10-man Newcastle",
+          "url": "https://www.irishexaminer.com/sport/soccer/arid-41932395.html"
+        },
+        {
+          "text": "Filming begins in Limerick on major new drama starring Adam Brody",
+          "url": "https://www.irishexaminer.com/news/munster/arid-41932383.html"
+        },
+        {
+          "text": "Magnum sues Aldi in Ireland for alleged trademark infringement over 'Gianni' range",
+          "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41932380.html"
+        },
+        {
+          "text": "US voters to head to polls in crunch midterm elections seen as referendum on Trump",
+          "url": "https://www.irishexaminer.com/world/arid-41932377.html"
+        },
+        {
+          "text": "Sign Up",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "Roy Keane becomes grandfather again as son welcomes first child",
+          "url": "https://www.irishexaminer.com/lifestyle/celebrity/arid-41932044.html"
+        },
+        {
+          "text": "Teenager hospitalised after stabbing near Cork bus station",
+          "url": "https://www.irishexaminer.com/news/munster/arid-41932287.html"
+        },
+        {
+          "text": "TJ Reid 'felt disrespected' by Kilkenny retirement question after county final win",
+          "url": "https://www.irishexaminer.com/sport/gaa/arid-41932266.html"
+        },
+        {
+          "text": "news",
+          "url": "https://www.irishexaminer.com/news/"
+        },
+        {
+          "text": "Ireland",
+          "url": "https://www.irishexaminer.com/news/ireland/"
+        },
+        {
+          "text": "Munster",
+          "url": "https://www.irishexaminer.com/news/munster/"
+        },
+        {
+          "text": "Court & Crime",
+          "url": "https://www.irishexaminer.com/news/courtandcrime/"
+        },
+        {
+          "text": "Spotlight",
+          "url": "https://www.irishexaminer.com/news/spotlight/"
+        },
+        {
+          "text": "World",
+          "url": "https://www.irishexaminer.com/world/"
+        },
+        {
+          "text": "sport",
+          "url": "https://www.irishexaminer.com/sport/"
+        },
+        {
+          "text": "GAA",
+          "url": "https://www.irishexaminer.com/sport/gaa/"
+        },
+        {
+          "text": "Soccer",
+          "url": "https://www.irishexaminer.com/sport/soccer/"
+        },
+        {
+          "text": "Rugby",
+          "url": "https://www.irishexaminer.com/sport/rugby/"
+        },
+        {
+          "text": "Racing",
+          "url": "https://www.irishexaminer.com/sport/racing/"
+        },
+        {
+          "text": "Golf",
+          "url": "https://www.irishexaminer.com/sport/golf/"
+        },
+        {
+          "text": "Other Sports",
+          "url": "https://www.irishexaminer.com/sport/othersport/"
+        },
+        {
+          "text": "Podcasts",
+          "url": "https://www.irishexaminer.com/podcast-home/"
+        },
+        {
+          "text": "business",
+          "url": "https://www.irishexaminer.com/business/"
+        },
+        {
+          "text": "Economy",
+          "url": "https://www.irishexaminer.com/business/economy/"
+        },
+        {
+          "text": "Companies",
+          "url": "https://www.irishexaminer.com/business/companies/"
+        },
+        {
+          "text": "Munster Business",
+          "url": "https://www.irishexaminer.com/business/munsterbusiness/"
+        },
+        {
+          "text": "Farming",
+          "url": "https://www.irishexaminer.com/farming/"
+        },
+        {
+          "text": "Technology",
+          "url": "https://www.irishexaminer.com/business/technology/"
+        },
+        {
+          "text": "opinion",
+          "url": "https://www.irishexaminer.com/opinion/"
+        },
+        {
+          "text": "Columnists",
+          "url": "https://www.irishexaminer.com/opinion/columnists/"
+        },
+        {
+          "text": "Comment & Analysis",
+          "url": "https://www.irishexaminer.com/opinion/commentanalysis/"
+        },
+        {
+          "text": "Our View",
+          "url": "https://www.irishexaminer.com/opinion/ourview/"
+        },
+        {
+          "text": "Your View",
+          "url": "https://www.irishexaminer.com/opinion/yourview/"
+        },
+        {
+          "text": "Help",
+          "url": "https://help.irishexaminer.com/"
+        },
+        {
+          "text": "FAQ",
+          "url": "https://help.irishexaminer.com/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.irishexaminer.com/contact-us/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.irishexaminer.com/privacy-policy/"
+        },
+        {
+          "text": "Brand Safety",
+          "url": "https://www.irishexaminer.com/brandsafety/"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "https://www.irishexaminer.com/cookie-policy/"
+        },
+        {
+          "text": "Cookie Settings",
+          "url": "https://www.irishexaminer.com/world/arid-41932203.html"
+        },
+        {
+          "text": "Push Notification Preferences",
+          "url": "https://www.irishexaminer.com/push-preferences/"
+        },
+        {
+          "text": "Mobile",
+          "url": "https://www.irishexaminer.com/app/"
+        },
+        {
+          "text": "Subscriptions",
+          "url": "https://subscribe.irishexaminer.com/?g2i_source=onsitesignage&g2i_medium=footer&g2i_campaign=core"
+        },
+        {
+          "text": "Info",
+          "url": "https://www.irishexaminer.com/contact-us/"
+        },
+        {
+          "text": "Terms and Conditions",
+          "url": "https://www.irishexaminer.com/terms-conditions/"
+        },
+        {
+          "text": "Home delivery",
+          "url": "https://subscribe.irishexaminer.com/bundles?g2i_source=ie&g2i_medium=footer_HD&g2i_campaign=annual"
+        },
+        {
+          "text": "RSS",
+          "url": "https://www.irishexaminer.com/syndication/"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://www.irishexaminer.com/newsletters/"
+        },
+        {
+          "text": "Place ad",
+          "url": "https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home"
+        },
+        {
+          "text": "Who We Are",
+          "url": "https://www.irishexaminer.com/whoweare/"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "https://www.irishexaminer.com/cookie-policy/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.irishexaminer.com/privacy-policy/"
+        },
+        {
+          "text": "Brand Safety",
+          "url": "https://www.irishexaminer.com/brandsafety/"
+        },
+        {
+          "text": "FAQ",
+          "url": "https://help.irishexaminer.com/"
+        },
+        {
+          "text": "Help",
+          "url": "https://help.irishexaminer.com/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.irishexaminer.com/contact-us/"
+        },
+        {
+          "text": "Terms and Conditions",
+          "url": "https://www.irishexaminer.com/terms-conditions/"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "237d6d23080557633e63d5ee7d0399db7a88ff6f1e127fca175f6c95ce5743f3",
+      "text_sha256": "38f00dab9d8fff67dcb4ae9803bb5f717eb0bc0ecd9a57783d66b7998b3e561c",
+      "evidence_id": "e_4225c588e025d8f0"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_6377b5f019ba9824",
+      "source_id": "e_4225c588e025d8f0",
+      "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+      "title": "Adventurer arrives home after 28-year walk from South America",
+      "publisher": "www.irishexaminer.com",
+      "published_at": "2026-11-02T16:24:00+00:00",
+      "retrieved_at": "2026-11-02T22:44:51.413992+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Homepage World Adventurer arrives home after 28-year walk from South America 'This is absolute madness. After 28 years, you couldn’t ask for more than this.' Angela Bushby welcomes her son Karl as he arrives back home in Hull following his 28 year walk from Chile. Picture: Annabel Lee-Ellis/Press Association Mon, 02 Nov, 2026 - 16:24 Dave Higgens       Adventurer Karl Bushby has been mobbed by well-wishers as he arrived in his home town of Hull in England on the last day of his 28-year walk from South America. Mr Bushby, now 57, told crowds in the city centre: “There has never been a welcome home quite like this.” The former paratrooper set off from the southern end of Chile in 1998, when he was 28, vowing to walk all the way home without using any form of motorised transport. On Mon",
+      "source_text_sha256": "38f00dab9d8fff67dcb4ae9803bb5f717eb0bc0ecd9a57783d66b7998b3e561c",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_1698987193fc6e09",
+      "source_id": "e_4225c588e025d8f0",
+      "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+      "title": "Adventurer arrives home after 28-year walk from South America",
+      "publisher": "www.irishexaminer.com",
+      "published_at": "2026-11-02T16:24:00+00:00",
+      "retrieved_at": "2026-11-02T22:44:51.413992+00:00",
+      "start": 2200,
+      "end": 3000,
+      "text": "rs and flags. Karl Bushby (centre left) at a civic welcome in Queen Victoria Square as he arrives back home in Hull following his 28 year walk from Chile. Photo: Annabel Lee-Ellis/Press Association Monday’s leg crowns years of dangerous escapades, including crossing the notorious Darien Gap in Central America and traversing the Bering Strait between Alaska and Russia on the frozen sea. Mr Bushby arrived back in England earlier this month, announcing that he had swum the Channel. He told the crowd in the city centre: “Twenty-eight years… I could not have imagined this. One last enormous thank you, guys. Just an enormous thank you. “I guess I’ll be seeing you around. I’ll be knocking about for a while, I guess.” Mr Bushby said: “I didn’t do this alone. It was a big team. The biggest team – E",
+      "source_text_sha256": "38f00dab9d8fff67dcb4ae9803bb5f717eb0bc0ecd9a57783d66b7998b3e561c",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_45507f769cb7543e",
+      "source_id": "e_4225c588e025d8f0",
+      "url": "https://www.irishexaminer.com/world/arid-41932203.html",
+      "title": "Adventurer arrives home after 28-year walk from South America",
+      "publisher": "www.irishexaminer.com",
+      "published_at": "2026-11-02T16:24:00+00:00",
+      "retrieved_at": "2026-11-02T22:44:51.413992+00:00",
+      "start": 2750,
+      "end": 3550,
+      "text": " not have imagined this. One last enormous thank you, guys. Just an enormous thank you. “I guess I’ll be seeing you around. I’ll be knocking about for a while, I guess.” Mr Bushby said: “I didn’t do this alone. It was a big team. The biggest team – Earth. That’s what it took to get me back.” Lord mayor of Hull Maria Coward told Mr Bushby: “For 28 years – 10,229 days – Hull has been waiting for your return. Hull is proud of you. I’m proud of you. Everyone’s proud of you.” Mr Turner read Mr Burnham’s message of congratulations on what he described as an “extraordinary journey”. It said: “To walk around the world from Chile and back again is an achievement of truly remarkable proportions. It speaks of courage, resilience, perseverance and unbreakable spirit.” Karl Bushby: 'I didn’t do this al",
+      "source_text_sha256": "38f00dab9d8fff67dcb4ae9803bb5f717eb0bc0ecd9a57783d66b7998b3e561c",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "human_interest",
+  "retrieved_at": "2026-11-02T22:44:52.024171+00:00",
+  "label": null,
+  "human_verified": false
+}

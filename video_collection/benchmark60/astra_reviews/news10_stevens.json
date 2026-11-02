@@ -1,0 +1,35 @@
+{
+  "case_id": "news10_stevens",
+  "claim_text": "Donald Trump publicly said he would love Haley Stevens to join the Republican Party in November 2026.",
+  "verdict": "supported",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_74341b631d07e2e2"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_74341b631d07e2e2",
+      "quote": "“I’d love to have her,” Trump added when asked if he thinks she should join the Republican Party."
+    }
+  ],
+  "reason": "The external November reporting records Trump explicitly welcoming Stevens into the Republican Party. The AJ clip independently contains his statement that he would love her to join, so the narrowly framed speech-event claim is supported.",
+  "explanation": "The external November reporting records Trump explicitly welcoming Stevens into the Republican Party. The AJ clip independently contains his statement that he would love her to join, so the narrowly framed speech-event claim is supported.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "ASR includes I’d love her to join the Republican Party; inspected Trump rally frame with subtitles.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "TheWrap directly reports and embeds the remarks. ABC supports the November political context but does not establish the invitation sentence. This does not verify Trump’s other remarks about Stevens or assert that she joined.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.692630+00:00",
+  "reviewed_packet_sha256": "fa67b800fc6a4a90aa644468e569dbd9285a171ec71bacf61e1224b12bb7d01c",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

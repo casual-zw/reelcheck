@@ -1,0 +1,63 @@
+{
+  "created_at": "2026-11-02T22:47:51.269352+00:00",
+  "protocol": "recent-news10-astra-v1",
+  "files_sha256": {
+    "inputs.jsonl": "8c60a5a1ac3ef5ecf503f2d52277035fc07e0dd06563a770f9e8d18f701ee1cb",
+    "reference_labels.jsonl": "2b40270098d56e16264b8cd962906b6ece7ee3671384c70dc17e4b521f83d6e9",
+    "provenance.jsonl": "c8f5c29700d48598d8277df1415169245c142ead9804cd1b8fbb9dd65a66ddb5",
+    "source_snapshots.jsonl": "6d1ac1b4b5fda33da41ed5f8f0d896f2e14f60c21d9155371b34604f957e6552"
+  },
+  "reviews": [
+    {
+      "case_id": "news10_apple",
+      "packet_sha256": "306fa5f75c77b5602a986c5ced15a70dc5652dee07f8f5343ef22c540ab00143",
+      "review_sha256": "9554cf716789dcd9b70103f2fb24fa3dd33d1d47820991fcc0944ea3a972a17f"
+    },
+    {
+      "case_id": "news10_azov",
+      "packet_sha256": "a1874f08fb5421de3e9b1ea697f7d78ae157108ade8006ad7d581742ed9e9baa",
+      "review_sha256": "ef75ac280459b2dc53611e8a43c2a40f20fdee54206e6a3e2bc1ea73ae14c8a7"
+    },
+    {
+      "case_id": "news10_bushby",
+      "packet_sha256": "cf58a1b7832f2806feaaee1c61c9278f28b34893dce9ae24d70d3ad0f804faff",
+      "review_sha256": "dc22536d10716a87a72eba5c0fb6436e60912be1e203be83460333500cca00ff"
+    },
+    {
+      "case_id": "news10_charles",
+      "packet_sha256": "5906670789c26bd869fdb2f217d3c90b5c353ea202cc2c4cd4754071e3bfbb4c",
+      "review_sha256": "e101cc2ab4ae263161034024a47afb3221b049223764ed18dd6b49cb00953e41"
+    },
+    {
+      "case_id": "news10_hormuz",
+      "packet_sha256": "bbe4269101f13b24ed3d76c9088b53442f07af4da069747288d51d542d2ce2be",
+      "review_sha256": "50900692974cfc32bf2569319bbb796298fef37c6d1a6ace21ecaf32c9f08999"
+    },
+    {
+      "case_id": "news10_netanyahu_recycled",
+      "packet_sha256": "dfb048170665e48845e2fa2959382850a3aa0ce94f6f1d0b0750187010f981f6",
+      "review_sha256": "1dc9d16fdc7aa31e90abdaa60fb23f86a8a90d051b56d6318ce37b2b7aab9564"
+    },
+    {
+      "case_id": "news10_patterson",
+      "packet_sha256": "59fe55cb47ff6dbc5e1fb15be7d8192bc9f2cfd437c6b07eac1605809aa53199",
+      "review_sha256": "54b096b3368ccc0d5f1b379a5b247dae44e8eb8ef8dc460c1c6b4186b4ea72e2"
+    },
+    {
+      "case_id": "news10_serbia",
+      "packet_sha256": "fa644bc616c2b4ae981ea64e021d39633b78ca3fe4c578563f58a7f5eb73d93c",
+      "review_sha256": "9b3ecc5307139620c47a17da6cb247ac20477a6ba7d4f85f9dc343a2ad56b578"
+    },
+    {
+      "case_id": "news10_spain_recycled",
+      "packet_sha256": "c7c69a6ee692c8b41201d7b4dc896fa0ffdf8c15cb50580570eef6b82d7cf060",
+      "review_sha256": "4d65cc8a17fe9024a69190c086a17784c92e423c7fe00f08c7e67a57e60a0154"
+    },
+    {
+      "case_id": "news10_stevens",
+      "packet_sha256": "fa67b800fc6a4a90aa644468e569dbd9285a171ec71bacf61e1224b12bb7d01c",
+      "review_sha256": "9126487f02640055eb1a8e1eeeebaa820a66d68447603f06b2fac93c20431e47"
+    }
+  ],
+  "old50_release_sha256": "ac395c0a105aedafb351ce3347ef4a59030dc0134de0b0a611373e280f564307"
+}

@@ -1,0 +1,40 @@
+{
+  "case_id": "news10_azov",
+  "claim_text": "Russian forces suffered 5,017 irrecoverable personnel losses in the 1st Azov Corps area of responsibility in October 2026.",
+  "verdict": "insufficient",
+  "uncertainty_reason": "missing_evidence",
+  "passage_ids": [
+    "p_27fdae778ac312d8",
+    "p_908138860bf96054"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_27fdae778ac312d8",
+      "quote": "citing the unit’s press office"
+    },
+    {
+      "passage_id": "p_908138860bf96054",
+      "quote": "The Corps estimates it has killed, wounded, and captured over 6,800 Russian troops"
+    }
+  ],
+  "reason": "The video publishes an exact unit-level loss count, while the retrieved articles repeat that unit’s own estimate. None supplies an independent enumeration or auditable method establishing 5,017 irrecoverable losses. The material verifies publication of the estimate, not the underlying exact battlefield total; it does not refute it.",
+  "explanation": "The video publishes an exact unit-level loss count, while the retrieved articles repeat that unit’s own estimate. None supplies an independent enumeration or auditable method establishing 5,017 irrecoverable losses. The material verifies publication of the estimate, not the underlying exact battlefield total; it does not refute it.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Inspected additional frame at69 seconds showing 5 017 under БЕЗПОВОРОТНІ and October in the Azov area of responsibility. ASR hallucinated filler is ignored. Claim corrected from killed to irrecoverable after visual inspection.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "Censor.NET and Vilne Radio attribute numbers to the same corps press office. Kyiv Independent explicitly calls the total the corps’ estimate. National General Staff figures and aggregate independent war-loss estimates do not verify this unit/month/category. Source partisanship is not itself treated as falsity.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.696641+00:00",
+  "reviewed_packet_sha256": "a1874f08fb5421de3e9b1ea697f7d78ae157108ade8006ad7d581742ed9e9baa",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

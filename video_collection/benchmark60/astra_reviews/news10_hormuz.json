@@ -1,0 +1,45 @@
+{
+  "case_id": "news10_hormuz",
+  "claim_text": "Three oil tankers struck sea mines and caught fire on the southern Strait of Hormuz route in the 24 hours before October 29, 2026.",
+  "verdict": "insufficient",
+  "uncertainty_reason": "missing_evidence",
+  "passage_ids": [
+    "p_fd696e16881d1143",
+    "p_6ae172667ae89591",
+    "p_fed0f0698bd9762d"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_fd696e16881d1143",
+      "quote": "The Master of a third-party vessel has reported sighting another vessel on fire."
+    },
+    {
+      "passage_id": "p_6ae172667ae89591",
+      "quote": "The claims have not been independently verified."
+    },
+    {
+      "passage_id": "p_fed0f0698bd9762d",
+      "quote": "it is unclear whether that refers to vessels beyond the four confirmed"
+    }
+  ],
+  "reason": "The packet verifies a reported fire and documents later named tanker attacks, but does not establish three sea-mine strikes in the specified preceding 24 hours. November1 maritime analysis still cannot match Iran’s mine claim to the known incidents. A real IRGC announcement is not verification of its underlying event claim.",
+  "explanation": "The packet verifies a reported fire and documents later named tanker attacks, but does not establish three sea-mine strikes in the specified preceding 24 hours. November1 maritime analysis still cannot match Iran’s mine claim to the known incidents. A real IRGC announcement is not verification of its underlying event claim.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Inspected video showing a distant smoke plume over water; original X caption explicitly attributes the three-tanker account to IRGC. Caption is preserved so reporting the announcement is not mislabeled false.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "UKMTO is a primary incident warning, limited to a third-party sighting. Windward supplies newer vessel-level analysis; its confirmed attacks have differing timing and mechanisms. IranWire and Safety4Sea explicitly retain the verification gap. CENTCOM disagreement alone is not proof of falsity.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.695877+00:00",
+  "reviewed_packet_sha256": "bbe4269101f13b24ed3d76c9088b53442f07af4da069747288d51d542d2ce2be",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

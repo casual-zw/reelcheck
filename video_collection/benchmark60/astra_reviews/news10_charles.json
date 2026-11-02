@@ -1,0 +1,40 @@
+{
+  "case_id": "news10_charles",
+  "claim_text": "King Charles was caught in a downpour during the November 2026 independence celebrations in Antigua.",
+  "verdict": "supported",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_a47ea973859e5185",
+    "p_3dc6ef3c54124050"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_a47ea973859e5185",
+      "quote": "caught in a tropical rainstorm in Antigua"
+    },
+    {
+      "passage_id": "p_3dc6ef3c54124050",
+      "quote": "Antigua and Barbuda independence day parade"
+    }
+  ],
+  "reason": "The November 2 Reuters report explicitly identifies Charles in the Antigua downpour during the independence parade, matching the footage. The report dates the incident to Sunday, November 1, consistent with the claim’s November scope.",
+  "explanation": "The November 2 Reuters report explicitly identifies Charles in the Antigua downpour during the independence parade, matching the footage. The report dates the incident to Sunday, November 1, consistent with the claim’s November scope.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Inspected 7-second frame showing Charles on a parade platform in heavy rain; title identifies Antigua. Non-speech ASR supplies no claim.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "ThePrint republishes Reuters; the clip and event report share one reporting family and are not independent corroborations. The Royal announcement confirms the itinerary only. Visible rain and event setting support the limited claim.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.691848+00:00",
+  "reviewed_packet_sha256": "5906670789c26bd869fdb2f217d3c90b5c353ea202cc2c4cd4754071e3bfbb4c",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}
