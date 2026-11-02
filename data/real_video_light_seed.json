@@ -1,0 +1,84 @@
+{
+  "clips": [
+    {
+      "clip_id": "light_paths",
+      "url": "https://www.youtube.com/shorts/eNOwQtfWSWg",
+      "watch_url": "https://www.youtube.com/watch?v=eNOwQtfWSWg",
+      "title": "Light Takes Every Path\u2014At Once",
+      "creator": "Quantums",
+      "duration_seconds": 34,
+      "published_date": "2025-04-18",
+      "acquisition": "expanded_creator_description_inspected_in_Chrome",
+      "transcript_status": "supported_export_reported_unavailable",
+      "timestamp": null,
+      "short_excerpt": "only the path that takes the least time ends up mattering.",
+      "notes": "Claims are paraphrases of the visible creator description, not verified spoken transcript. Original linked long-form source is Veritasium; this Short is uploaded by Quantums. Literal versus approximate wording needs human adjudication."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "OPT1",
+      "source_id": "feynman_optics",
+      "url": "https://www.feynmanlectures.caltech.edu/I_26.html#Ch26-S5",
+      "text": "It is incorrectly called the principle of least time",
+      "evidence_kind": "verbatim_short_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "fad7bba527689116894850902e41e49c2c3892fc1be077157dc5a63d09987d10"
+    },
+    {
+      "id": "OPT2",
+      "source_id": "feynman_optics",
+      "url": "https://www.feynmanlectures.caltech.edu/I_26.html#Ch26-S5",
+      "text": "there will be no first-order change in the time",
+      "evidence_kind": "verbatim_short_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "0be5949a7b8df9e27e9090baaa96a53ebfa9ae2b80ad7cf25cda8cadbb7dd48e"
+    },
+    {
+      "id": "OPT3",
+      "source_id": "feynman_optics",
+      "url": "https://www.feynmanlectures.caltech.edu/I_26.html#Ch26-S6",
+      "text": "Editorial summary of section 26-6, not a direct quotation: The photon-arrival probability is calculated by summing complex amplitude contributions over available paths and squaring the resulting magnitude. In the mirror example, paths near a stationary travel time supply nearly aligned contributions; widely differing phases largely cancel. This is a sum over amplitudes, not a claim that only one mathematically exact minimum-time path contributes.",
+      "evidence_kind": "AI_authored_source_summary_pending_human_review",
+      "retrieved_date": "2026-11-02",
+      "sha256": "7ee2359c11554dfa3f45a8875a1b138a9fb68aa0afee88a6d975f2bdcc6bb5fb"
+    },
+    {
+      "id": "OPT4",
+      "source_id": "feynman_optics",
+      "url": "https://www.feynmanlectures.caltech.edu/I_26.html#Ch26-S1",
+      "text": "Editorial summary of section 26-1, not a direct quotation: Geometrical optics is an approximation for suitable scale and sensitivity conditions. The chapter distinguishes this approximation from wave behavior and the fuller quantum description.",
+      "evidence_kind": "AI_authored_source_summary_pending_human_review",
+      "retrieved_date": "2026-11-02",
+      "sha256": "c731cba2be34849505e516cf2050e8db1db81276889fa873d595763d54b53d20"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "light_01",
+      "claim_text": "Light explores every available route from point A to point B rather than selecting one route.",
+      "passage_ids": [
+        "OPT3",
+        "OPT4"
+      ],
+      "complexity": "physical_metaphor_vs_probability_amplitudes",
+      "review_note": "The creator uses literal-sounding language; a response should not equate the mathematical path sum with experimentally established literal trajectories.",
+      "clip_id": "light_paths",
+      "claim_origin": "creator_description_paraphrase"
+    },
+    {
+      "claim_id": "light_02",
+      "claim_text": "Quantum interference means that only the route taking the least time ends up contributing to light propagation.",
+      "passage_ids": [
+        "OPT1",
+        "OPT2",
+        "OPT3",
+        "OPT4"
+      ],
+      "complexity": "approximation_stationary_vs_minimum_and_only",
+      "review_note": "Paraphrase of the visible description. Assess simplification and scope; no human truth label assigned.",
+      "clip_id": "light_paths",
+      "claim_origin": "creator_description_paraphrase"
+    }
+  ]
+}

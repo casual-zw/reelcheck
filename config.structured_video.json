@@ -1,0 +1,40 @@
+{
+  "variants": [
+    {
+      "id": "gptoss_citation_ids",
+      "prompt_system": "B",
+      "provider": "fireworks",
+      "model": "accounts/fireworks/models/gpt-oss-120b",
+      "max_output_tokens": 4096,
+      "timeout_s": 60,
+      "parameters": {},
+      "pricing": {
+        "input_per_million": 0.15,
+        "cached_input_per_million": 0.015,
+        "output_per_million": 0.6,
+        "source": "https://app.fireworks.ai/models/fireworks/gpt-oss-120b",
+        "verified_date": "2026-11-02",
+        "tier": "standard"
+      },
+      "output_mode": "citation_ids"
+    }
+  ],
+  "judge": {
+    "provider": "fireworks",
+    "model": "accounts/fireworks/models/kimi-k3",
+    "max_output_tokens": 4096,
+    "timeout_s": 60,
+    "parameters": {
+      "reasoning_effort": "high"
+    },
+    "pricing": {
+      "input_per_million": 3.0,
+      "cached_input_per_million": 0.3,
+      "output_per_million": 15.0,
+      "source": "https://app.fireworks.ai/models/fireworks/kimi-k3",
+      "verified_date": "2026-11-02",
+      "tier": "standard"
+    }
+  },
+  "protocol_note": "Exploratory follow-up selected after baseline real-video-01 format failures. Same claims/evidence; schema generation plus deterministic quotation rendering. Not fresh held-out validation; Fireworks documents disabled reasoning output in this mode."
+}

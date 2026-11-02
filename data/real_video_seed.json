@@ -1,0 +1,212 @@
+{
+  "dataset_status": "Development seed only. AI-authored paraphrases and evaluation notes pending human review; no human gold truth labels.",
+  "retrieved_date": "2026-11-02",
+  "acquisition_browser": "Chrome",
+  "scope": "Two real short-form educational videos; no downloaded footage, no fabricated timestamps, no counterfactual claims.",
+  "clips": [
+    {
+      "clip_id": "nasa_gas_problem",
+      "url": "https://www.youtube.com/watch?v=K9kga9c0u2I",
+      "watch_url": "https://www.youtube.com/watch?v=K9kga9c0u2I",
+      "title": "NASA's Earth Minute: Gas Problem",
+      "creator": "NASA; YouTube channel ARCHIVED - NASA Climate Change",
+      "duration_seconds": 102,
+      "duration_verification": "YouTube visible player 1:42, inspected in Chrome",
+      "published_date": "2014-10-15",
+      "publisher_transcript_url": "https://www.jpl.nasa.gov/edu/resources/video/nasas-earth-minute-gas-problem/",
+      "acquisition": "publisher_untimed_transcript_inspected_in_Chrome",
+      "transcript_status": "full_publisher_transcript_available_untimed",
+      "timestamp": null,
+      "notes": "Claims are AI-authored paraphrases of the official JPL transcript, not full transcript reproductions. No audio alignment verified. JPL page is dated 2024-09-18 and updated 2024-09-25; the video was published in 2014. Relative references to the last 150 years belong to that original context."
+    },
+    {
+      "clip_id": "nasa_sea_level",
+      "url": "https://www.youtube.com/watch?v=msnOHuPep9I",
+      "watch_url": "https://www.youtube.com/watch?v=msnOHuPep9I",
+      "title": "NASA's Earth Minute: Sea Level Rise",
+      "creator": "NASA; YouTube channel ARCHIVED - NASA Climate Change",
+      "duration_seconds": 90,
+      "duration_verification": "YouTube visible player 1:30, inspected in Chrome",
+      "published_date": "2015-08-26",
+      "publisher_transcript_url": "https://www.jpl.nasa.gov/edu/resources/video/nasas-earth-minute-sea-level-rise/",
+      "acquisition": "publisher_untimed_transcript_inspected_in_Chrome",
+      "transcript_status": "full_publisher_transcript_available_untimed",
+      "timestamp": null,
+      "notes": "Claims are AI-authored paraphrases of the official JPL transcript. JPL page is dated 2024-09-18 and updated 2024-09-25, distinct from the 2015 YouTube publication. The lifetime projection is historical and must not be silently converted into a current forecast or a forecast for a particular location."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "CO2_1",
+      "source_id": "noaa_co2",
+      "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide",
+      "text": "Carbon dioxide concentrations are rising mostly because of the fossil fuels that people have been burning for energy since the start of the Industrial Revolution.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "64536ca2b96a4500c5f512b7800659c28435ba6b79eee2f6e6305c09983880ac",
+      "source_context": "NOAA Climate.gov article published 2025-05-21; site explicitly archived as of 2025-06-25. Only stable physical mechanisms selected, not current measurements."
+    },
+    {
+      "id": "CO2_2",
+      "source_id": "noaa_co2",
+      "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide",
+      "text": "Unlike oxygen or nitrogen (which make up most of Earth's atmosphere), greenhouse gases absorb heat radiating from the Earth’s surface and re-release it in all directions—including back toward Earth’s surface. Without any carbon dioxide, Earth’s natural greenhouse effect would be too weak to keep the average global surface temperature above freezing.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "a6260f29b07a874329753ae9582c1ab15ec6674c144308a81cda46729759e780",
+      "source_context": "NOAA Climate.gov article published 2025-05-21; site explicitly archived as of 2025-06-25. Only stable physical mechanisms selected, not current measurements."
+    },
+    {
+      "id": "CO2_3",
+      "source_id": "noaa_co2",
+      "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide",
+      "text": "By adding more carbon dioxide to the atmosphere, people are amplifying the natural greenhouse effect, causing global temperature to rise.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "dfda03e652c51ed57a490295271a5ed7628651cd9ea366c3945a0c07ff803a9e",
+      "source_context": "NOAA Climate.gov article published 2025-05-21; site explicitly archived as of 2025-06-25. Only stable physical mechanisms selected, not current measurements."
+    },
+    {
+      "id": "CO2_4",
+      "source_id": "noaa_co2",
+      "url": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide",
+      "text": "Carbon cycle experts estimate that natural “sinks,” including plant growth and ocean absorption, remove about half of carbon dioxide humans emit into the atmosphere from fossil fuel burning. The rest stays in the atmosphere.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "15101bf68af9e1254dcdf9336d1944530b40416486b094f7d2d6c08f04dfb9ee",
+      "source_context": "NOAA Climate.gov article published 2025-05-21; site explicitly archived as of 2025-06-25. Only stable physical mechanisms selected, not current measurements."
+    },
+    {
+      "id": "SEA_1",
+      "source_id": "noaa_sea_level",
+      "url": "https://oceanservice.noaa.gov/facts/sealevel.html",
+      "text": "The two major causes of global sea level rise are thermal expansion caused by warming of the ocean (since water expands as it warms) and increased melting of land-based ice, such as glaciers and ice sheets.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "e556d33eb36293105793c0f65d5d93825079da5ee5abff0120afe796f12f721a",
+      "source_context": "NOAA National Ocean Service; page displays last updated 2026-09-23. Selected passages concern mechanisms and measurement; historical 2014 numeric measurements elsewhere on page are excluded."
+    },
+    {
+      "id": "SEA_2",
+      "source_id": "noaa_sea_level",
+      "url": "https://oceanservice.noaa.gov/facts/sealevel.html",
+      "text": "The ocean is absorbing more than 90 percent of the increased atmospheric heat associated with emissions from human activity.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "4d59a815f3704fd8988b687caac148eeb3051a3ec0c7748525e35f2ec671aa10",
+      "source_context": "NOAA National Ocean Service; page displays last updated 2026-09-23. Selected passages concern mechanisms and measurement; historical 2014 numeric measurements elsewhere on page are excluded."
+    },
+    {
+      "id": "SEA_3",
+      "source_id": "noaa_sea_level",
+      "url": "https://oceanservice.noaa.gov/facts/sealevel.html",
+      "text": "Sea level rise at specific locations may be more or less than the global average due to local factors such as land subsidence from natural processes and withdrawal of groundwater and fossil fuels, changes in regional ocean currents, and whether the land is still rebounding from the compressive weight of Ice Age glaciers.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "dbbf948e55d3b3cc22f4905c0daf749c1c7cc0d83ddf2ade4f94c9e39f4e2324",
+      "source_context": "NOAA National Ocean Service; page displays last updated 2026-09-23. Selected passages concern mechanisms and measurement; historical 2014 numeric measurements elsewhere on page are excluded."
+    },
+    {
+      "id": "SEA_4",
+      "source_id": "noaa_sea_level",
+      "url": "https://oceanservice.noaa.gov/facts/sealevel.html",
+      "text": "Tide stations around the globe tell us what is happening at a local level—the height of the water as measured along the coast relative to a specific point on land. Satellite measurements provide us with the average height of the entire ocean. Taken together, these tools tell us how our ocean sea levels are changing over time.",
+      "evidence_kind": "verbatim_government_source_excerpt",
+      "retrieved_date": "2026-11-02",
+      "sha256": "4700d00b379de1522465d6145e2fcb0e904f02a4a1d6d7c2ca6274461ae758b2",
+      "source_context": "NOAA National Ocean Service; page displays last updated 2026-09-23. Selected passages concern mechanisms and measurement; historical 2014 numeric measurements elsewhere on page are excluded."
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "gas_01",
+      "clip_id": "nasa_gas_problem",
+      "claim_text": "Burning fossil fuels returns long-stored carbon to the atmosphere as carbon dioxide, disrupting the natural carbon balance.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "CO2_1",
+        "CO2_4"
+      ],
+      "complexity": "carbon_cycle_sources_and_sinks",
+      "review_note": "Paraphrases the fossil-fuel and natural-cycle passage; assess the mechanism without inventing a precise flux."
+    },
+    {
+      "claim_id": "gas_02",
+      "clip_id": "nasa_gas_problem",
+      "claim_text": "Natural greenhouse gases keep Earth warm enough for life as we know it; without their warming, the planet would freeze.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "CO2_2"
+      ],
+      "complexity": "habitability_global_average_vs_literal_entire_planet",
+      "review_note": "The informal freeze wording is from the video; distinguish average temperature from a literal claim that every place freezes."
+    },
+    {
+      "claim_id": "gas_03",
+      "clip_id": "nasa_gas_problem",
+      "claim_text": "Increasing atmospheric carbon dioxide traps more heat and warms Earth.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "CO2_2",
+        "CO2_3"
+      ],
+      "complexity": "greenhouse_mechanism_vs_simplification",
+      "review_note": "The video uses trapping as shorthand; source describes absorption and re-emission of outgoing terrestrial heat."
+    },
+    {
+      "claim_id": "sea_01",
+      "clip_id": "nasa_sea_level",
+      "claim_text": "Warming makes ocean water expand and also melts ice that adds water to the ocean, raising sea level.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "SEA_1"
+      ],
+      "complexity": "two_mechanisms_ice_origin_qualifier",
+      "review_note": "The video says ice without specifying land-based ice. Source supplies that distinction; avoid treating every kind of floating ice identically."
+    },
+    {
+      "claim_id": "sea_02",
+      "clip_id": "nasa_sea_level",
+      "claim_text": "The ocean takes up more than 90 percent of the heat from global warming.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "SEA_2"
+      ],
+      "complexity": "percentage_denominator_and_anthropogenic_heat",
+      "review_note": "Preserve the denominator: excess heat associated with warming, not 90 percent of all incoming sunlight or all atmospheric heat."
+    },
+    {
+      "claim_id": "sea_03",
+      "clip_id": "nasa_sea_level",
+      "claim_text": "NASA can measure the rise in sea level from space.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "SEA_3",
+        "SEA_4"
+      ],
+      "complexity": "measurement_global_average_vs_local_relative_level",
+      "review_note": "Satellite measurements concern the average ocean; do not infer an identical rise at every coastline."
+    },
+    {
+      "claim_id": "sea_04",
+      "clip_id": "nasa_sea_level",
+      "claim_text": "A child born when this video was published could expect sea level to rise between one and four feet during their lifetime.",
+      "claim_origin": "publisher_transcript_paraphrase",
+      "timestamp": null,
+      "passage_ids": [
+        "SEA_1",
+        "SEA_2",
+        "SEA_3",
+        "SEA_4"
+      ],
+      "complexity": "historical_projection_missing_baseline_horizon_scenario",
+      "review_note": "Original 2015 lifetime projection paraphrase. Available independent excerpts establish mechanisms and local variation but do not verify this numerical lifetime forecast. A calibrated answer must identify the evidence gap; this is not a counterfactual mutation."
+    }
+  ]
+}

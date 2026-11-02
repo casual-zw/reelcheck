@@ -176,6 +176,54 @@ as different factual verdicts. The proxy still cannot establish semantic support
 
 ## Next steps
 
+### Real-video seed and model judge
+
+Run `python3 scripts/build_real_video.py` to generate the inputs and provenance
+manifest from the checked-in seed files. [REAL_VIDEO_RESULTS.md](REAL_VIDEO_RESULTS.md)
+contains the completed pilot and its limitations.
+
+`data/real_video_manifest.json` records nine original-claim paraphrases from three
+real videos: two NASA/JPL explainers with official untimed transcripts and one
+Short with a detailed creator description. No timestamps or human truth labels
+are invented. These are development seeds, not a representative final benchmark.
+The pipeline currently evaluates verification against manually assembled evidence;
+it does not test automatic video ingestion or retrieval. Caltech passages include
+clearly marked editorial summaries as well as short direct excerpts.
+
+```bash
+python3 scripts/build_real_video.py
+python3 scripts/run_model_matrix.py --config config.real_video.json \
+  --inputs data/real_video_inputs.jsonl --out results/my-video-run \
+  --live --max-cost-usd 3 --max-calls 36 --workers 2
+python3 scripts/judge_run.py --run results/my-video-run \
+  --inputs data/real_video_inputs.jsonl --config config.real_video.json \
+  --out results/my-video-judge --live --shell-keys ~/.zshrc \
+  --max-cost-usd 5 --max-calls 36 --interval 1
+python3 scripts/report_video_run.py --run results/my-video-run \
+  --judge results/my-video-judge --out results/my-video-report
+```
+
+Omit `--live` for previews. Every output directory must be fresh. The matrix
+compares GLM direct/checklist, DeepSeek V4.1 Flash, and GPT-OSS 120B. All use
+Fireworks and the same key; GPT-OSS does not require an OpenAI API account.
+Published prices and reasoning parameters are recorded in the configuration.
+Reference models' eligibility as the event's frontier baseline remains unconfirmed.
+
+Kimi judges anonymized responses, without gold labels or model/system identities.
+Objective failures cannot be overridden by a judge. Exact duplicate judge payloads
+reuse an assessment without extra cost. Model-assessed acceptance remains separate
+from human-verified accuracy. Reports flag when the judge chooses different expected
+verdicts for the same packet across candidate answers. Judging cost is evaluation
+overhead and is reported separately from service cost and latency.
+
+`config.structured_video.json` is an exploratory follow-up selected after observing
+GPT-OSS formatting failures. `output_mode: citation_ids` constrains its JSON schema
+and attaches selected source passages in code. The renderer preserves its verdict,
+reason, and explanation, rejects unknown IDs, and cannot fix semantic mistakes.
+Quote validity becomes a renderer property. Fireworks documents that JSON-schema
+mode disables reasoning output; this is a declared generation-mode change, not a
+pure prompt ablation. Fresh clips are needed before claiming general improvement.
+
 1. API access, published prices, and the two-case integration check are complete.
 2. Have the teammate independently review the 16 labels and evidence sufficiency.
 3. Compare the completed pilot and expanded challenge results; inspect disagreements

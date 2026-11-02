@@ -226,3 +226,7 @@ __marimo__/
 config.local.json
 results/
 data/source_snapshots/
+
+# Rebuild these from the checked-in real-video provenance seeds
+data/real_video_inputs.jsonl
+data/real_video_manifest.json
