@@ -1,0 +1,18 @@
+{
+  "cases": 65,
+  "distinct_videos": 39,
+  "added_claims": 5,
+  "additional_videos": 0,
+  "additional_claims_from_videos": 3,
+  "labels": {
+    "supported": 45,
+    "contradicted": 6,
+    "insufficient": 14
+  },
+  "new_paid_inference_calls": 0,
+  "new_claims_human_verified": false,
+  "contract_changed": false,
+  "parent_60_records_unchanged": true,
+  "passages_match_source_snapshots": true,
+  "three_source_video_hashes_verified": true
+}

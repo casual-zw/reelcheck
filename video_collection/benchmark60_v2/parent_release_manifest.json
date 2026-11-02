@@ -1,0 +1,40 @@
+{
+  "protocol": "grounded60-merge-v1",
+  "at": "2026-11-02T22:52:14.620519+00:00",
+  "parents": [
+    {
+      "name": "grounded50",
+      "directory": "data/grounded/benchmark",
+      "manifest_sha256": "2fdb0cd886ce432dd4c830254aa5b5f454bd2f6060703373f89b9d2ec79589b9",
+      "files_sha256": {
+        "inputs.jsonl": "f56cbf23d123cc79a1c4e4cd8cd9e2b04dfdb9ff4ad9524634fd38fa15524e2b",
+        "reference_labels.jsonl": "24b3a16cf4237967655768c484c0a5aad19395aaafc70ed56e77dfb7d784bda9",
+        "provenance.jsonl": "e91b720a13c21e963e69822bff0314e0b96fac0dfaef2263fa222c5416e8f228",
+        "source_snapshots.jsonl": "75d77cfbfc8d17916716f467079bfbadf4eae82d0482199ac60c485707c821e0",
+        "split_groups.json": "2cd204252ab03b6460676cda40be9749c059364f061092f58472e74c235cbfa2"
+      }
+    },
+    {
+      "name": "astra_news10",
+      "directory": "data/latest_news10",
+      "manifest_sha256": "c0f2814c6bf6deb19640c31541424863f970e4afb78ae391fcb2b78d52e753e3",
+      "files_sha256": {
+        "inputs.jsonl": "8c60a5a1ac3ef5ecf503f2d52277035fc07e0dd06563a770f9e8d18f701ee1cb",
+        "reference_labels.jsonl": "2b40270098d56e16264b8cd962906b6ece7ee3671384c70dc17e4b521f83d6e9",
+        "provenance.jsonl": "c8f5c29700d48598d8277df1415169245c142ead9804cd1b8fbb9dd65a66ddb5",
+        "source_snapshots.jsonl": "6d1ac1b4b5fda33da41ed5f8f0d896f2e14f60c21d9155371b34604f957e6552"
+      }
+    }
+  ],
+  "files_sha256": {
+    "inputs.jsonl": "8a6a2d45a3d965f1a78ca238543ed36bf00663192848a8f1e8a22774d95602ca",
+    "reference_labels.jsonl": "4cd3af0d20fa8334b9b93e6b74b984891daff7089676871a422d23454f8a6957",
+    "provenance.jsonl": "64e1fbefe8a1cd57d89432759838676a1da760ee622e2f935b7548781acc59a8",
+    "source_snapshots.jsonl": "1dcae63e72525c98542e6f3a7bc1d3f204198e830785669a7f5da637e041df50",
+    "source_snapshot_variants.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "membership.jsonl": "a1255258be7f84795df97a2b9e8e9259bf68bfa105d535071c962eac7cbd20c9",
+    "split_groups.json": "838a78f5504571ef932f7aca318ec6796f722af7d21c462df60bcb0e804f8753",
+    "overview.json": "f0adeb8f17fc2bb9e746412f4aecc848fdbe29b3931e4da8eb21e6a618bc2622"
+  },
+  "human_verified": false
+}

@@ -1,0 +1,20 @@
+{
+  "parent_inputs_sha256": "8a6a2d45a3d965f1a78ca238543ed36bf00663192848a8f1e8a22774d95602ca",
+  "parent_reference_sha256": "4cd3af0d20fa8334b9b93e6b74b984891daff7089676871a422d23454f8a6957",
+  "files": {
+    "README.md": "47c4288e90df2e3b0e32bc98acfdb73dd47e803100d0963ed6671264cc1187b0",
+    "baseline_rescore_details.jsonl": "91c14f4520e2a8d01235bcb57d0b4d3bdf46af625b3beb437aee23685dc91eb1",
+    "evidence_audit.jsonl": "a2b41d85db49e9e87628f29ada074e4abbef3d50b736040070345a1e8a84f18d",
+    "inputs.jsonl": "8a6a2d45a3d965f1a78ca238543ed36bf00663192848a8f1e8a22774d95602ca",
+    "membership.jsonl": "a1255258be7f84795df97a2b9e8e9259bf68bfa105d535071c962eac7cbd20c9",
+    "parent_release_manifest.json": "da4065aa5f9234dee49b3f4c16a87634e2ac75405f2cf60ca7e096666b50986a",
+    "provenance.jsonl": "64e1fbefe8a1cd57d89432759838676a1da760ee622e2f935b7548781acc59a8",
+    "reference_labels.jsonl": "015694b37fbc28eb6f45257dc5ca24d24bc6f4d3d8dddfa7c8062bdac9180ad6",
+    "source_snapshot_variants.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_snapshots.jsonl": "1dcae63e72525c98542e6f3a7bc1d3f204198e830785669a7f5da637e041df50",
+    "split_groups.json": "838a78f5504571ef932f7aca318ec6796f722af7d21c462df60bcb0e804f8753",
+    "validation.json": "082bd51369bfefe531eaca957cb386d9fe1ffac398579ab6f32834cd386fa695"
+  },
+  "human_verified": false,
+  "contract_changed": false
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "grounded60_v2",
+  "parent_inputs_sha256": "8a6a2d45a3d965f1a78ca238543ed36bf00663192848a8f1e8a22774d95602ca",
+  "files": {
+    "README.md": "e694ee583939439aa182452a1a1eb9facea3cfd438d19acbb744d375db22ed22",
+    "added_inputs.jsonl": "4023c735b12619f96b5b3be1c195ae08b478e01756f2c92c8daecbebd7372473",
+    "added_reference_labels.jsonl": "a859aa703238d919429dc5f663e189e69f8e1a8afe1724c686b3d15657c302e2",
+    "addition_reviews.jsonl": "f29d145f4fcb395b0121dccfaa845c7f52da0dc23912bb6563cccf0c19ce5c9e",
+    "evidence_audit.jsonl": "a2b41d85db49e9e87628f29ada074e4abbef3d50b736040070345a1e8a84f18d",
+    "inputs.jsonl": "da5104d4c9946a2c61e227ea5ebe53abdf68e55e87fee84343f9e7b905d7474c",
+    "membership.jsonl": "7646b8f911365ded9b0ee8a697d6f0766ad5c286bb058546c45b4fe2556cd791",
+    "overview.json": "071d68da3730e3676abd47f6334026439f915739c14f8ccbf1196cdbc54ed10d",
+    "parent_release_manifest.json": "7771f5f93d01e664c56adead7da85b7a9f3195d9b6ba75ffcbdf363bd522130d",
+    "provenance.jsonl": "5cc07d083fb2fc6c3217e9e382622620deb4ee9684d3a9e5c60cd270e3c7d9ca",
+    "reference_labels.jsonl": "3060de7ba287299769d12053e06b9536390a1d17c94931ec3c68a053b255cf70",
+    "source_snapshot_variants.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source_snapshots.jsonl": "1dcae63e72525c98542e6f3a7bc1d3f204198e830785669a7f5da637e041df50",
+    "split_groups.json": "48d410d5aae6c6c4045452678572b2890eb28114bcf662cc6189a27e6ca5d68d"
+  }
+}

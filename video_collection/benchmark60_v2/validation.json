@@ -1,0 +1,12 @@
+{
+  "cases": 60,
+  "audited_reference_cases": 12,
+  "verdict_changes": 0,
+  "inputs_byte_identical_to_parent": true,
+  "baseline_proxy_before": 35,
+  "baseline_proxy_after": 40,
+  "baseline_verdict_matches": 56,
+  "new_paid_inference_calls": 0,
+  "human_verified": false,
+  "interpretation": "Reference repair on development data; rescoring identical saved outputs is not a model improvement or independent evaluation."
+}

@@ -87,3 +87,20 @@ Implementation reference: [official yt-dlp documentation](https://github.com/yt-
 ## Combined Grounded 60 evaluation release
 
 Use [benchmark60](benchmark60/README.md) for the combined 60-case development dataset: 41 supported, 6 contradicted, 13 insufficient, from 39 videos. Inputs and reference labels are separate. This preserves the grounded-50 labels and adds the ten recent-news cases reviewed by Astra; it does not import the old bulk-300 verdicts. All labels remain AI drafts pending human review.
+
+## Separate development dataset revisions
+
+- [Grounded65](benchmark65/README.md): 65 cases across the same 39 videos; five additional claims from three recent-news clips. Labels: 45 supported, 6 contradicted, 14 insufficient.
+- [Grounded60 reference revision](benchmark60_v2/README.md): the same 60 inputs and verdicts, with audited evidence alternatives for 12 cases.
+- [Evidence diagnostics](evidence_challenge18/README.md): 18 packet variants from six existing claims, reported separately from the main dataset.
+
+`benchmark60` is unchanged. Existing evaluations can keep using it. Use each
+release's matching references when comparing systems. All added labels remain AI
+drafts pending independent human review; no new live inference results are claimed.
+
+Offline reproduction from the original collection workspace:
+
+```sh
+python3 video_collection/improve_grounded_data.py /path/to/collection-workspace
+python3 video_collection/expand_grounded65.py /path/to/collection-workspace
+```

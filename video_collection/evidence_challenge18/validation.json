@@ -1,0 +1,16 @@
+{
+  "cases": 18,
+  "parent_claims": 6,
+  "parent_videos": 6,
+  "labels": {
+    "supported": 8,
+    "contradicted": 4,
+    "insufficient": 6
+  },
+  "evidence_hashes_valid": true,
+  "reference_witnesses_pass_contract": 18,
+  "paid_inference_calls": 0,
+  "live_evaluation_performed": false,
+  "human_verified": false,
+  "warning": "Structural checks do not establish semantic correctness; labels are parent-agent drafts."
+}
