@@ -1,0 +1,1082 @@
+{
+  "case": {
+    "case_id": "news10_serbia",
+    "group_id": "youtube_0LkqNFOCcAQ",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "Serbia’s student-led movement won the October 2026 parliamentary election.",
+    "evidence": [
+      {
+        "id": "p_09fec9299b2d9207",
+        "source_id": "e_9677f8947f94af19",
+        "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+        "retrieved_date": "2026-11-02",
+        "text": "Council on Foreign Relations Articles Share By experts and staff Published October 27, 2026  10:20 p.m. Charles A. Kupchan CFR Expert Senior Fellow Ivana Saric CFR Editor Share Former Serbian President Aleksandar Vucic conceded defeat to a student-led opposition movement in Serbia’s October 25 parliamentary elections, ending his party’s fourteen years in power. Vucic had called snap elections in a bid to regain his previous post as prime minister, but the list led by his populist Serbian Progressive Party (SNS) managed just under 40 percent of the vote compared with around 53 percent for the opposition Student List. Pollsters and the Republic Electoral Commission estimated turnout at nearly 70 percent, which Reuters noted was the highest turnout since the breakup of Yugoslavia. The vote ca",
+        "sha256": "c8d7b45cfa005563c2a9b8a614ccceb5b57be56b41df10eb0a0d4a99eddd7631"
+      },
+      {
+        "id": "p_241f8b7d4a510444",
+        "source_id": "e_9677f8947f94af19",
+        "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+        "retrieved_date": "2026-11-02",
+        "text": "the vote compared with around 53 percent for the opposition Student List. Pollsters and the Republic Electoral Commission estimated turnout at nearly 70 percent, which Reuters noted was the highest turnout since the breakup of Yugoslavia. The vote came after nearly two years of student-led protests sparked by the deaths of sixteen people when a canopy collapsed at a renovated railway station in Novi Sad, a disaster that protesters blamed on corruption and cronyism . Some opposition parliamentary parties supported the student movement, which demanded early elections. It put forth a list of 250 candidates—including doctors, professors, farmers, and activists. Most opposition parties declined to field their own candidates and urged supporters to back the Student List. Several ran anyway, alth",
+        "sha256": "d472206550730d09b467a6c5f8abbd66cae41b2149d1e07d051468990b075b23"
+      },
+      {
+        "id": "p_6a55d441dc8383bf",
+        "source_id": "e_9677f8947f94af19",
+        "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+        "retrieved_date": "2026-11-02",
+        "text": "anded early elections. It put forth a list of 250 candidates—including doctors, professors, farmers, and activists. Most opposition parties declined to field their own candidates and urged supporters to back the Student List. Several ran anyway, although no non-minority list outside the Student List and the SNS-led coalition crossed the 3 percent threshold. Charles Kupchan, a senior fellow at the Council on Foreign Relations (CFR) and author of the new book Bringing Order to Anarchy: Governing the World to Come , spoke with CFR about the election results—and what they might mean—following his recent trip to Belgrade. You just returned from Belgrade. What was the mood like on the ground? I arrived last Thursday evening. In the city center, where my hotel was located, a massive protest was t",
+        "sha256": "963877d8e50d53f0d3554025318b37fd79878ba85eb59b581323907e13f96ebe"
+      },
+      {
+        "id": "p_6030bc63bc8e0948",
+        "source_id": "e_09bef69524ad7aa7",
+        "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+        "retrieved_date": "2026-11-02",
+        "text": "Serbian president concedes defeat to student-led movement in election Topic: Elections Posted Mon 26 Oct 2026 at 8:06am Mon 26 Oct 2026 at 8:06am Mon 26 Oct 2026 at 8:06am , updated Mon 26 Oct 2026 at 11:53am Mon 26 Oct 2026 at 11:53am Mon 26 Oct 2026 at 11:53am Loading... In short: President Aleksandar Vučić has conceded defeat to a student-led protest movement in Serbia's parliamentary elections. Mr Vučić called a snap election in September after almost two years of student-led protests. What's next? Polls showed the students' candidate list would have 138 deputies, while Mr Vučić's SNS party garnered 104 seats in the 250-seat parliament. abc.net.au/news/serbia-election-vucic-defeat-student-protest/107307808 Link copied Share Share article Serbian President Aleksandar Vučić has conceded ",
+        "sha256": "c1277a0d466b123914b65a08fcac0b05a98686157d7834be42fee8b713f256a7"
+      },
+      {
+        "id": "p_f76336929415f926",
+        "source_id": "e_09bef69524ad7aa7",
+        "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+        "retrieved_date": "2026-11-02",
+        "text": "would have 138 deputies, while Mr Vučić's SNS party garnered 104 seats in the 250-seat parliament. abc.net.au/news/serbia-election-vucic-defeat-student-protest/107307808 Link copied Share Share article Serbian President Aleksandar Vučić has conceded defeat to the student-led protest movement in parliamentary elections. \"We still do not have final results [but] on the basis of a sample … it is clear that we have lost these elections,\" Mr Vučić said on Sunday. \"The Student List has won. They will have between 135 and 140 seats, and we will have 105. Aleksandar Vučić ruled Serbia for 14 years. ( Reuters: Zorana Jevtic ) \"No-one else has entered parliament.\" Mr Vučić called the snap elections in September, after almost two years of student-led demonstrations against perceived corruption and cr",
+        "sha256": "e588a9870045d19c3f64e7ca0c76b0741819802268e72be049f8bda3b9cde976"
+      },
+      {
+        "id": "p_29eb449259681b74",
+        "source_id": "e_09bef69524ad7aa7",
+        "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+        "retrieved_date": "2026-11-02",
+        "text": "05. Aleksandar Vučić ruled Serbia for 14 years. ( Reuters: Zorana Jevtic ) \"No-one else has entered parliament.\" Mr Vučić called the snap elections in September, after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism. The protests were initially triggered by a train station canopy collapse in the city of Novi Sad in 2024 that killed 16 people. The election results follow almost two years of student-led protests against the government. ( Reuters: Marko Djurica ) Belgrade's streets erupted in celebration after Mr Vučić's announcement, with cars honking and students shouting \"victory\" and \"he's done\". \"Dear Serbia, tonight the voice of the people is being heard,\" Radomir Sajcic, a professor at Belgrade University, said, speaking on beha",
+        "sha256": "d67284bb77178f99cf6674ae8462adb0d3690e6528fe50c45d56b13bcba21c03"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "0LkqNFOCcAQ",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/0LkqNFOCcAQ",
+    "title": "Thousands celebrate student movement election victory in Serbia",
+    "source_name": "Reuters",
+    "source_handle": "@Reuters",
+    "source_kind": "newsroom",
+    "source_url": "https://www.youtube.com/@Reuters/shorts",
+    "channel_id": "UChqUTb7kYRX8-EiaN3XFrSQ",
+    "sampling_category": "world_news",
+    "category_reviewed": false,
+    "label": "unreviewed",
+    "discovered_at": "2026-11-02T20:24:25.105616+00:00",
+    "discovery_route": "channel_shorts",
+    "duration": 32,
+    "key": "youtube_0LkqNFOCcAQ",
+    "collected_at": "2026-11-02T21:34:09.629107+00:00",
+    "status": "downloaded",
+    "path": "data/videos/youtube_0LkqNFOCcAQ.mp4",
+    "sha256": "57acbb033b4ed9608dbf4901facb70b1bcb6e3024ead8cf9e44f78d1c8eb074c",
+    "bytes": 721624,
+    "upload_date": "20261027",
+    "license": null,
+    "language": "en-US",
+    "language_reviewed": false,
+    "returncode": 0
+  },
+  "media": {
+    "video_sha256": "57acbb033b4ed9608dbf4901facb70b1bcb6e3024ead8cf9e44f78d1c8eb074c",
+    "frames": [
+      {
+        "seconds": 2.67,
+        "path": "data/bulk/media/youtube_0LkqNFOCcAQ/01.jpg"
+      },
+      {
+        "seconds": 8.0,
+        "path": "data/bulk/media/youtube_0LkqNFOCcAQ/02.jpg"
+      },
+      {
+        "seconds": 13.33,
+        "path": "data/bulk/media/youtube_0LkqNFOCcAQ/03.jpg"
+      },
+      {
+        "seconds": 18.67,
+        "path": "data/bulk/media/youtube_0LkqNFOCcAQ/04.jpg"
+      },
+      {
+        "seconds": 24.0,
+        "path": "data/bulk/media/youtube_0LkqNFOCcAQ/05.jpg"
+      },
+      {
+        "seconds": 29.33,
+        "path": "data/bulk/media/youtube_0LkqNFOCcAQ/06.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " I think that everyone is extremely excited because something that we've worked on for the past two years has finally became true and all of the work that we obviously and sacrifices put in are finally showing to be something good. Our president is not the king of this country. He's just a function that was elected. Now he's not elected anymore and thank you and goodbye. Thank you.",
+      "language": "en",
+      "automatic": true,
+      "human_verified": false,
+      "model": "mlx-community/whisper-large-v3-turbo"
+    },
+    "at": "2026-11-02T21:40:11.305686+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+      "resolved_url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+      "title": "Serbia Election Marks the End of an Era | Council on Foreign Relations",
+      "publisher": "www.cfr.org",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:44:51.405917+00:00",
+      "text": "Council on Foreign Relations Articles Share By experts and staff Published October 27, 2026  10:20 p.m. Charles A. Kupchan CFR Expert Senior Fellow Ivana Saric CFR Editor Share Former Serbian President Aleksandar Vucic conceded defeat to a student-led opposition movement in Serbia’s October 25 parliamentary elections, ending his party’s fourteen years in power. Vucic had called snap elections in a bid to regain his previous post as prime minister, but the list led by his populist Serbian Progressive Party (SNS) managed just under 40 percent of the vote compared with around 53 percent for the opposition Student List. Pollsters and the Republic Electoral Commission estimated turnout at nearly 70 percent, which Reuters noted was the highest turnout since the breakup of Yugoslavia. The vote came after nearly two years of student-led protests sparked by the deaths of sixteen people when a canopy collapsed at a renovated railway station in Novi Sad, a disaster that protesters blamed on corruption and cronyism . Some opposition parliamentary parties supported the student movement, which demanded early elections. It put forth a list of 250 candidates—including doctors, professors, farmers, and activists. Most opposition parties declined to field their own candidates and urged supporters to back the Student List. Several ran anyway, although no non-minority list outside the Student List and the SNS-led coalition crossed the 3 percent threshold. Charles Kupchan, a senior fellow at the Council on Foreign Relations (CFR) and author of the new book Bringing Order to Anarchy: Governing the World to Come , spoke with CFR about the election results—and what they might mean—following his recent trip to Belgrade. You just returned from Belgrade. What was the mood like on the ground? I arrived last Thursday evening. In the city center, where my hotel was located, a massive protest was taking place; the crowd was estimated at around 150,000 people. The atmosphere was electric. The crowd was singing and chanting as it coursed through the streets, excited by the prospect that the Vucic era was about to come to an end. There were police everywhere and lots of streets cordoned off, but I saw no confrontations or violence. In my conversations on Friday and Saturday—I was at the University of Belgrade—students and faculty expressed cautious optimism that the Student List would prevail. In the end, a very high turnout helped the opposition win. Based on your conversations there, what were the main drivers of dissatisfaction with Vucic’s party? The student movement reflected a spontaneous mobilization of civil society that spread broadly across the country. One of the main slogans of this movement was “Serbia or the mafia,” indicating exasperation with years of corruption and state capture. The student movement now has wind in its sails and lots of political momentum. It needs to focus on turning that momentum into good policies and good governance. What does Vucic’s defeat mean for Serbia and its relationships with the European Union (EU), Russia, and its Balkan neighbors? It is difficult to say, because the Student List opposition campaigned mainly on domestic issues. Once a new government forms, it is likely to focus on fighting corruption, purging Vucic loyalists from the ministries and public enterprises, opening up a media community that had been dominated by Vucic, implementing economic reforms, and reducing political patronage. Relations with the EU are likely to improve as democratic reforms move forward. Ties to Russia may well grow more distant. Although it is unclear if the new government will try to move forward on relations with Kosovo, the change of government opens up the possibility of rekindling the normalization dialogue between Belgrade and Pristina. What challenges are ahead for the movement as it shifts to the task of governing? There is no clear leader of the Student List, and, as you noted, many of the winning candidates have little or no political experience. So the key challenge will be moving from a grassroots movement that inspired many voters across Serbia to governing a country that has long been run by Vucic and his embedded network of supporters. The movement has its work cut out. This work represents the views solely of the author(s). The Council on Foreign Relations is an independent, nonpartisan membership organization, think tank, and publisher, and takes no institutional positions on matters of policy. Information Creative Commons: Some rights reserved. This work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License. Serbia Elections and Voting Europe Tags Serbia · Elections and Voting · Europe Europe’s China Auto Deal By Brad W. Setser November 2, 2026 The Demise of Democracy Isn’t Here Yet By Michael Froman October 30, 2026 For Midterm Voters, Foreign Policy Is a Pocketbook Issue By James M. Lindsay October 29, 2026 Council on Foreign Relations",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Skip to content",
+          "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era#content"
+        },
+        {
+          "text": "Support CFR",
+          "url": "https://www.cfr.org/support-cfr"
+        },
+        {
+          "text": "Foreign Affairs",
+          "url": "https://www.foreignaffairs.com/"
+        },
+        {
+          "text": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/"
+        },
+        {
+          "text": "Member Login",
+          "url": "https://www.cfr.org/members"
+        },
+        {
+          "text": "Regions",
+          "url": "https://www.cfr.org/regions"
+        },
+        {
+          "text": "Topics",
+          "url": "https://www.cfr.org/topics"
+        },
+        {
+          "text": "Research",
+          "url": "https://www.cfr.org/research-analysis"
+        },
+        {
+          "text": "Experts",
+          "url": "https://www.cfr.org/experts"
+        },
+        {
+          "text": "Events",
+          "url": "https://www.cfr.org/events"
+        },
+        {
+          "text": "The Future of American Strategy",
+          "url": "https://www.cfr.org/programs/the-future-of-american-strategy"
+        },
+        {
+          "text": "Articles",
+          "url": "https://www.cfr.org/articles"
+        },
+        {
+          "text": "Expert Take",
+          "url": "https://www.cfr.org/expert-takes"
+        },
+        {
+          "text": "Articles",
+          "url": "https://www.cfr.org/articles"
+        },
+        {
+          "text": "Charles A. Kupchan",
+          "url": "https://www.cfr.org/experts/charles-kupchan"
+        },
+        {
+          "text": "Ivana Saric",
+          "url": "https://www.cfr.org/bios/ivana-saric"
+        },
+        {
+          "text": "conceded defeat",
+          "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html"
+        },
+        {
+          "text": "noted",
+          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/"
+        },
+        {
+          "text": "blamed on corruption and cronyism",
+          "url": "https://www.pbs.org/newshour/amp/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift"
+        },
+        {
+          "text": "Bringing Order to Anarchy: Governing the World to Come",
+          "url": "https://www.cfr.org/articles/new-cfr-book-by-charles-a-kupchan-provides-a-guide-to-building-order-in-a-multipolar-world"
+        },
+        {
+          "text": "Serbia",
+          "url": "https://www.cfr.org/regions/serbia"
+        },
+        {
+          "text": "Elections and Voting",
+          "url": "https://www.cfr.org/topics/elections-and-voting"
+        },
+        {
+          "text": "Europe",
+          "url": "https://www.cfr.org/regions/europe"
+        },
+        {
+          "text": "Europe’s China Auto Deal",
+          "url": "https://www.cfr.org/articles/europes-china-auto-deal"
+        },
+        {
+          "text": "The Demise of Democracy Isn’t Here Yet",
+          "url": "https://www.cfr.org/articles/the-demise-of-democracy-isnt-here-yet"
+        },
+        {
+          "text": "For Midterm Voters, Foreign Policy Is a Pocketbook Issue",
+          "url": "https://www.cfr.org/articles/for-midterm-voters-foreign-policy-is-a-pocketbook-issue"
+        },
+        {
+          "text": "About CFR",
+          "url": "https://www.cfr.org/about"
+        },
+        {
+          "text": "Membership",
+          "url": "https://www.cfr.org/membership"
+        },
+        {
+          "text": "Support CFR",
+          "url": "https://www.cfr.org/support-cfr"
+        },
+        {
+          "text": "Fellowships",
+          "url": "https://www.cfr.org/fellowships"
+        },
+        {
+          "text": "Careers",
+          "url": "https://www.cfr.org/career-opportunities"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://link.cfr.org/join/66n/signup"
+        },
+        {
+          "text": "Podcasts",
+          "url": "https://www.cfr.org/podcasts"
+        },
+        {
+          "text": "CFR Education",
+          "url": "https://education.cfr.org/"
+        },
+        {
+          "text": "CFR Store",
+          "url": "https://store.cfr.org/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.cfr.org/contact-us"
+        },
+        {
+          "text": "Communications and Media Resources",
+          "url": "https://www.cfr.org/media"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://www.cfr.org/privacy-policy"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://www.cfr.org/terms-use"
+        },
+        {
+          "text": "Sitemap",
+          "url": "https://www.cfr.org/sitemap"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "3122f4ea4709ccf856abf04264ad61ae54e2c217a5a41c9ca5b852542ae8a729",
+      "text_sha256": "9e4476358322420f42dd6ac09bc8ac701f4f52a11662bbe42ab62484a5c94231",
+      "evidence_id": "e_9677f8947f94af19"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+      "resolved_url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+      "title": "Serbian president concedes defeat to student-led movement in election - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-25T21:06:44+00:00",
+      "retrieved_at": "2026-11-02T22:43:51.386356+00:00",
+      "text": "Serbian president concedes defeat to student-led movement in election Topic: Elections Posted Mon 26 Oct 2026 at 8:06am Mon 26 Oct 2026 at 8:06am Mon 26 Oct 2026 at 8:06am , updated Mon 26 Oct 2026 at 11:53am Mon 26 Oct 2026 at 11:53am Mon 26 Oct 2026 at 11:53am Loading... In short: President Aleksandar Vučić has conceded defeat to a student-led protest movement in Serbia's parliamentary elections. Mr Vučić called a snap election in September after almost two years of student-led protests. What's next? Polls showed the students' candidate list would have 138 deputies, while Mr Vučić's SNS party garnered 104 seats in the 250-seat parliament. abc.net.au/news/serbia-election-vucic-defeat-student-protest/107307808 Link copied Share Share article Serbian President Aleksandar Vučić has conceded defeat to the student-led protest movement in parliamentary elections. \"We still do not have final results [but] on the basis of a sample … it is clear that we have lost these elections,\" Mr Vučić said on Sunday. \"The Student List has won. They will have between 135 and 140 seats, and we will have 105. Aleksandar Vučić ruled Serbia for 14 years. ( Reuters: Zorana Jevtic ) \"No-one else has entered parliament.\" Mr Vučić called the snap elections in September, after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism. The protests were initially triggered by a train station canopy collapse in the city of Novi Sad in 2024 that killed 16 people. The election results follow almost two years of student-led protests against the government. ( Reuters: Marko Djurica ) Belgrade's streets erupted in celebration after Mr Vučić's announcement, with cars honking and students shouting \"victory\" and \"he's done\". \"Dear Serbia, tonight the voice of the people is being heard,\" Radomir Sajcic, a professor at Belgrade University, said, speaking on behalf of the students at their headquarters. \" Tonight we celebrate victory. Tomorrow we build the future. \" People took to the streets of Belgrade to celebrate. ( Reuters: Zorana Jevtic ) Mr Vučić, endorsed by Russian President Vladimir Putin and denouncing the student movement as a foreign-led attempt to unseat him, led the Balkan country for 14 years. Turnout was nearly 70 per cent, the highest since the break-up of Yugoslavia in 1992. Lines snaked from polling stations in cities and towns across Serbia on Sunday, signalling a widespread desire for change. A large percentage of Serbians turned up to vote in this election. ( Reuters: Marko Djurica ) \"For decades the people have been waiting for this time, something to bring hope that we can live freely and by the rules of democracy,\" said actor Jelena Stupljanin, 48, at a Belgrade polling station. Uncertainty over students' candidates A representative sample by the CESID-IPSPS pollsters showed the student's candidate list would have 138 deputies, while Mr Vučić's SNS party garnered 104 seats in the 250-seat parliament. The remaining seats will be shared between ethnic national minority parties. Much remains unclear about how the student-backed candidates will fare. Their list of 250 largely unknown personalities includes university professors, actors and farmers, and is led by cardiologist Ilija Srdanovic, although it is still unclear who will be prime minister. People celebrate the student movement's electoral victory. ( Reuters: Marko Djurica ) The students' domestic agenda aims to root out graft and improve schooling. Political analysts predict some kind of purge of Vučić allies in the police, security services and ministries. The students have been quieter about their international ambitions, but they will have to balance relations with China, a major investor; Russia, Serbia's traditional ally and main supplier of natural gas; and the European Union, Serbia's largest trading partner. Reuters Top Stories Republicans worried voters will stay home in strongholds amid close midterms races Topic: US Elections Structural deficits across governments to blame for inflation, not spending I Analysis by Ian Verrender Reserve Bank tipped to hike interest rates to 18-year high LIVE Airbnb host accused of using AI image of blocked toilet to claim damages Topic: AI Parts of jet appear to have broken off before fatal Florida crash Topic: Air Incidents Related stories Serbian police clash with anti-government protesters Topic: Protests and Demonstrations 'Notorious lie': Serbian president denies government used sonic device on protesters Topic: Protests and Demonstrations At least 13 killed as roof of Serbian train station collapses Topic: Accidents and Emergency Incidents Related topics Elections Serbia World Politics Republicans worried voters will stay home in strongholds amid close midterms races Topic: US Elections Structural deficits across governments to blame for inflation, not spending I Analysis by Ian Verrender Reserve Bank tipped to hike interest rates to 18-year high LIVE Airbnb host accused of using AI image of blocked toilet to claim damages Topic: AI Parts of jet appear to have broken off before fatal Florida crash Topic: Air Incidents Just In Latest national scam more sophisticated and 'just the tip of the iceberg' Topic: Scams and Fraud Tue 3 Nov 2026 at 9:30am Tue 3 Nov 2026 at 9:30am Tue 3 Nov 2026 at 9:30am With leaders in jail, a tobacco empire is falling 'like a house of cards' Topic: Organised Crime Tue 3 Nov 2026 at 9:15am Tue 3 Nov 2026 at 9:15am Tue 3 Nov 2026 at 9:15am NAPLAN returns to pen and paper after digital backlash Topic: Primary Education Tue 3 Nov 2026 at 9:19am Tue 3 Nov 2026 at 9:19am Tue 3 Nov 2026 at 9:19am Supercells forecast for Queensland and NSW after overnight hail dump Topic: Weather Tue 3 Nov 2026 at 8:43am Tue 3 Nov 2026 at 8:43am Tue 3 Nov 2026 at 8:43am More Just In Back to top",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Skip to main content",
+          "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808#content"
+        },
+        {
+          "text": "Skip to news navigation, settings and search",
+          "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808#newsLogoAnchor"
+        },
+        {
+          "text": "ABC",
+          "url": "https://www.abc.net.au"
+        },
+        {
+          "text": "Read our editorial guiding principles",
+          "url": "https://www.abc.net.au/edpols"
+        },
+        {
+          "text": "news",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "iview",
+          "url": "https://iview.abc.net.au/"
+        },
+        {
+          "text": "listen",
+          "url": "https://www.abc.net.au/listen"
+        },
+        {
+          "text": "ABC News",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "For You",
+          "url": "https://www.abc.net.au/news/for-you"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.abc.net.au/news/politics"
+        },
+        {
+          "text": "World",
+          "url": "https://www.abc.net.au/news/world"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.abc.net.au/news/business"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://www.abc.net.au/news/analysis-and-opinion"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.abc.net.au/news/sport"
+        },
+        {
+          "text": "Lifestyle",
+          "url": "https://www.abc.net.au/news/lifestyle"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://www.abc.net.au/news/entertainment"
+        },
+        {
+          "text": "Quizzes",
+          "url": "https://www.abc.net.au/news/quizzes"
+        },
+        {
+          "text": "News Home",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "For You",
+          "url": "https://www.abc.net.au/news/for-you"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://www.abc.net.au/news/analysis-and-opinion"
+        },
+        {
+          "text": "Rural",
+          "url": "https://www.abc.net.au/news/rural"
+        },
+        {
+          "text": "Watch Live",
+          "url": "https://www.abc.net.au/news/newschannel"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.abc.net.au/news/health"
+        },
+        {
+          "text": "Indigenous",
+          "url": "https://www.abc.net.au/news/indigenous"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.abc.net.au/news/politics"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.abc.net.au/news/science"
+        },
+        {
+          "text": "Deep Time",
+          "url": "https://www.abc.net.au/news/deeptime/"
+        },
+        {
+          "text": "Elections",
+          "url": "https://www.abc.net.au/news/elections"
+        },
+        {
+          "text": "World",
+          "url": "https://www.abc.net.au/news/world"
+        },
+        {
+          "text": "Environment",
+          "url": "https://www.abc.net.au/news/environment"
+        },
+        {
+          "text": "Investigations",
+          "url": "https://www.abc.net.au/news/story-streams/investigations"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.abc.net.au/news/business"
+        },
+        {
+          "text": "Local news",
+          "url": "https://www.abc.net.au/local"
+        },
+        {
+          "text": "Quizzes",
+          "url": "https://www.abc.net.au/news/quizzes"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.abc.net.au/news/sport"
+        },
+        {
+          "text": "AFL",
+          "url": "https://www.abc.net.au/news/sport/afl"
+        },
+        {
+          "text": "NRL",
+          "url": "https://www.abc.net.au/news/sport/rugbyleague"
+        },
+        {
+          "text": "Football",
+          "url": "https://www.abc.net.au/news/sport/football"
+        },
+        {
+          "text": "Tennis",
+          "url": "https://www.abc.net.au/news/sport/tennis"
+        },
+        {
+          "text": "Cricket",
+          "url": "https://www.abc.net.au/news/sport/cricket"
+        },
+        {
+          "text": "Netball",
+          "url": "https://www.abc.net.au/news/sport/netball"
+        },
+        {
+          "text": "Lifestyle",
+          "url": "https://www.abc.net.au/news/lifestyle"
+        },
+        {
+          "text": "Wellbeing",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961868"
+        },
+        {
+          "text": "Relationships & Family",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961870"
+        },
+        {
+          "text": "Food & Recipes",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961866"
+        },
+        {
+          "text": "Personal Finance",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961872"
+        },
+        {
+          "text": "Home & Garden",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961862"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://www.abc.net.au/news/entertainment"
+        },
+        {
+          "text": "TV & Movies",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956246"
+        },
+        {
+          "text": "Books",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956258"
+        },
+        {
+          "text": "Music",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956248"
+        },
+        {
+          "text": "Pop Culture",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-103048170"
+        },
+        {
+          "text": "Arts",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956242"
+        },
+        {
+          "text": "Facebook",
+          "url": "https://www.facebook.com/abcnews.au"
+        },
+        {
+          "text": "YouTube",
+          "url": "https://www.youtube.com/@abcnewsaustralia"
+        },
+        {
+          "text": "Instagram",
+          "url": "https://www.instagram.com/abcnews_au"
+        },
+        {
+          "text": "Twitter",
+          "url": "https://x.com/abcnews"
+        },
+        {
+          "text": "Emergency",
+          "url": "https://www.abc.net.au/news/emergency"
+        },
+        {
+          "text": "Backstory",
+          "url": "https://www.abc.net.au/news/backstory"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://www.abc.net.au/news/subscribe"
+        },
+        {
+          "text": "中文新闻",
+          "url": "https://www.abc.net.au/news/chinese"
+        },
+        {
+          "text": "BERITA BAHASA INDONESIA",
+          "url": "https://www.abc.net.au/news/indonesian"
+        },
+        {
+          "text": "TOK PISIN",
+          "url": "https://www.abc.net.au/news/tok-pisin"
+        },
+        {
+          "text": "ABC iView",
+          "url": "https://iview.abc.net.au"
+        },
+        {
+          "text": "ABC Listen",
+          "url": "https://www.abc.net.au/listen"
+        },
+        {
+          "text": "ABC News",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "News Home",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Topic: Elections",
+          "url": "https://www.abc.net.au/news/topic/elections"
+        },
+        {
+          "text": "train station canopy collapse",
+          "url": "https://www.abc.net.au/news/2024-11-02/serbian-train-station-roof-collapse-kills-at-least-13/104552528"
+        },
+        {
+          "text": "Copy link",
+          "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808"
+        },
+        {
+          "text": "Facebook",
+          "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.abc.net.au%2Fnews%2F2026-10-26%2Fserbia-election-vucic-defeat-student-protest%2F107307808%3Futm_campaign%3Dabc_news_web%26utm_content%3Dfacebook%26utm_medium%3Dcontent_shared%26utm_source%3Dabc_news_web"
+        },
+        {
+          "text": "X (formerly Twitter)",
+          "url": "https://twitter.com/intent/tweet?text=Serbian+president+concedes+defeat+to+student-led+movement+in+election&url=https%3A%2F%2Fwww.abc.net.au%2Fnews%2F2026-10-26%2Fserbia-election-vucic-defeat-student-protest%2F107307808%3Futm_campaign%3Dabc_news_web%26utm_content%3Dtwitter%26utm_medium%3Dcontent_shared%26utm_source%3Dabc_news_web"
+        },
+        {
+          "text": "Make ABC a preferred source in Google",
+          "url": "https://www.google.com/preferences/source?q=https://www.abc.net.au"
+        },
+        {
+          "text": "Republicans worried voters will stay home in strongholds amid close midterms races",
+          "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788"
+        },
+        {
+          "text": "Topic: US Elections",
+          "url": "https://www.abc.net.au/news/topic/us-elections"
+        },
+        {
+          "text": "Structural deficits across governments to blame for inflation, not spending",
+          "url": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008"
+        },
+        {
+          "text": "I Analysis by Ian Verrender",
+          "url": "https://www.abc.net.au/news/ian-verrender/5261264"
+        },
+        {
+          "text": "Reserve Bank tipped to hike interest rates to 18-year high",
+          "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+        },
+        {
+          "text": "Airbnb host accused of using AI image of blocked toilet to claim damages",
+          "url": "https://www.abc.net.au/news/2026-11-03/airbnb-host-accused-of-using-ai-doctored-image-to-claim-damages/107264584"
+        },
+        {
+          "text": "Topic: AI",
+          "url": "https://www.abc.net.au/news/topic/ai"
+        },
+        {
+          "text": "Parts of jet appear to have broken off before fatal Florida crash",
+          "url": "https://www.abc.net.au/news/2026-11-03/parts-of-jet-appear-to-have-broken-off-before-florida-crash/107339320"
+        },
+        {
+          "text": "Topic: Air Incidents",
+          "url": "https://www.abc.net.au/news/topic/air-incidents"
+        },
+        {
+          "text": "Serbian police clash with anti-government protesters",
+          "url": "https://www.abc.net.au/news/2025-06-29/serbias-police-clash-with-anti-government-protesters/105473980"
+        },
+        {
+          "text": "Topic: Protests and Demonstrations",
+          "url": "https://www.abc.net.au/news/topic/protests-and-demonstrations"
+        },
+        {
+          "text": "'Notorious lie': Serbian president denies government used sonic device on protesters",
+          "url": "https://www.abc.net.au/news/2025-03-17/serbia-sonic-device-on-protesters/105060566"
+        },
+        {
+          "text": "Topic: Protests and Demonstrations",
+          "url": "https://www.abc.net.au/news/topic/protests-and-demonstrations"
+        },
+        {
+          "text": "At least 13 killed as roof of Serbian train station collapses",
+          "url": "https://www.abc.net.au/news/2024-11-02/serbian-train-station-roof-collapse-kills-at-least-13/104552528"
+        },
+        {
+          "text": "Topic: Accidents and Emergency Incidents",
+          "url": "https://www.abc.net.au/news/topic/accidents-and-emergency-incidents"
+        },
+        {
+          "text": "Elections",
+          "url": "https://www.abc.net.au/news/topic/elections"
+        },
+        {
+          "text": "Serbia",
+          "url": "https://www.abc.net.au/news/topic/serbia"
+        },
+        {
+          "text": "World Politics",
+          "url": "https://www.abc.net.au/news/topic/world-politics"
+        },
+        {
+          "text": "Republicans worried voters will stay home in strongholds amid close midterms races",
+          "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788"
+        },
+        {
+          "text": "Topic: US Elections",
+          "url": "https://www.abc.net.au/news/topic/us-elections"
+        },
+        {
+          "text": "Structural deficits across governments to blame for inflation, not spending",
+          "url": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008"
+        },
+        {
+          "text": "I Analysis by Ian Verrender",
+          "url": "https://www.abc.net.au/news/ian-verrender/5261264"
+        },
+        {
+          "text": "Reserve Bank tipped to hike interest rates to 18-year high",
+          "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+        },
+        {
+          "text": "Airbnb host accused of using AI image of blocked toilet to claim damages",
+          "url": "https://www.abc.net.au/news/2026-11-03/airbnb-host-accused-of-using-ai-doctored-image-to-claim-damages/107264584"
+        },
+        {
+          "text": "Topic: AI",
+          "url": "https://www.abc.net.au/news/topic/ai"
+        },
+        {
+          "text": "Parts of jet appear to have broken off before fatal Florida crash",
+          "url": "https://www.abc.net.au/news/2026-11-03/parts-of-jet-appear-to-have-broken-off-before-florida-crash/107339320"
+        },
+        {
+          "text": "Topic: Air Incidents",
+          "url": "https://www.abc.net.au/news/topic/air-incidents"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "Latest national scam more sophisticated and 'just the tip of the iceberg'",
+          "url": "https://www.abc.net.au/news/2026-11-03/rms-data-breach-kimberley-accommodation-bookings/107328710"
+        },
+        {
+          "text": "Topic: Scams and Fraud",
+          "url": "https://www.abc.net.au/news/topic/scams-and-fraud"
+        },
+        {
+          "text": "With leaders in jail, a tobacco empire is falling 'like a house of cards'",
+          "url": "https://www.abc.net.au/news/2026-11-03/kazem-hamad-civil-war-within-international-crime-empire/107335854"
+        },
+        {
+          "text": "Topic: Organised Crime",
+          "url": "https://www.abc.net.au/news/topic/organised-crime"
+        },
+        {
+          "text": "NAPLAN returns to pen and paper after digital backlash",
+          "url": "https://www.abc.net.au/news/2026-11-03/naplan-test-returns-to-pen-and-paper-/107339724"
+        },
+        {
+          "text": "Topic: Primary Education",
+          "url": "https://www.abc.net.au/news/topic/primary-education"
+        },
+        {
+          "text": "Supercells forecast for Queensland and NSW after overnight hail dump",
+          "url": "https://www.abc.net.au/news/2026-11-03/qld-storm-supercells-after-overnight-hail-dump/107339454"
+        },
+        {
+          "text": "Topic: Weather",
+          "url": "https://www.abc.net.au/news/topic/weather"
+        },
+        {
+          "text": "More Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "Back to top",
+          "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808#Top"
+        },
+        {
+          "text": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Contact ABC News",
+          "url": "https://www.abc.net.au/news/contact"
+        },
+        {
+          "text": "ABC News Home",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "For You",
+          "url": "https://www.abc.net.au/news/for-you"
+        },
+        {
+          "text": "Watch Live News",
+          "url": "https://www.abc.net.au/news/newschannel"
+        },
+        {
+          "text": "Live ABC NewsRadio",
+          "url": "https://www.abc.net.au/listen/news"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.abc.net.au/news/politics"
+        },
+        {
+          "text": "Elections",
+          "url": "https://www.abc.net.au/news/elections"
+        },
+        {
+          "text": "Australia",
+          "url": "https://www.abc.net.au/news/australia"
+        },
+        {
+          "text": "World",
+          "url": "https://www.abc.net.au/news/world"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.abc.net.au/news/sport"
+        },
+        {
+          "text": "Rural",
+          "url": "https://www.abc.net.au/news/rural"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.abc.net.au/news/business"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://www.abc.net.au/news/analysis-and-opinion"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.abc.net.au/news/science"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.abc.net.au/news/health"
+        },
+        {
+          "text": "Lifestyle",
+          "url": "https://www.abc.net.au/news/lifestyle"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://www.abc.net.au/news/entertainment"
+        },
+        {
+          "text": "Quizzes",
+          "url": "https://www.abc.net.au/news/quizzes"
+        },
+        {
+          "text": "More Topics",
+          "url": "https://www.abc.net.au/news/topics"
+        },
+        {
+          "text": "Chinese 中文",
+          "url": "https://www.abc.net.au/news/chinese"
+        },
+        {
+          "text": "Tok Pisin",
+          "url": "https://www.abc.net.au/news/tok-pisin"
+        },
+        {
+          "text": "Berita Bahasa Indonesia",
+          "url": "https://www.abc.net.au/news/indonesian"
+        },
+        {
+          "text": "ABC News app",
+          "url": "https://www.abc.net.au/news/app"
+        },
+        {
+          "text": "Local News",
+          "url": "https://www.abc.net.au/local"
+        },
+        {
+          "text": "ABC Emergency",
+          "url": "https://www.abc.net.au/emergency"
+        },
+        {
+          "text": "ABC Indigenous",
+          "url": "https://www.abc.net.au/indigenous"
+        },
+        {
+          "text": "ABC Religion & Ethics",
+          "url": "https://www.abc.net.au/religion"
+        },
+        {
+          "text": "ABC Asia",
+          "url": "https://www.abc.net.au/asia"
+        },
+        {
+          "text": "ABC Pacific",
+          "url": "https://www.abc.net.au/pacific"
+        },
+        {
+          "text": "ABC Listen Home",
+          "url": "https://www.abc.net.au/listen"
+        },
+        {
+          "text": "triple j",
+          "url": "https://www.abc.net.au/triplej"
+        },
+        {
+          "text": "Live Radio",
+          "url": "https://www.abc.net.au/listen/radio"
+        },
+        {
+          "text": "ABC iview Home",
+          "url": "https://iview.abc.net.au"
+        },
+        {
+          "text": "List of ABC Shows",
+          "url": "https://iview.abc.net.au/shows"
+        },
+        {
+          "text": "Live TV",
+          "url": "https://iview.abc.net.au/category/watch-live"
+        },
+        {
+          "text": "TV Guide",
+          "url": "https://www.abc.net.au/tv/"
+        },
+        {
+          "text": "BTN",
+          "url": "https://www.abc.net.au/btn"
+        },
+        {
+          "text": "Education",
+          "url": "https://www.abc.net.au/education"
+        },
+        {
+          "text": "Heywire",
+          "url": "https://www.abc.net.au/heywire"
+        },
+        {
+          "text": "ABC Kids",
+          "url": "https://www.abc.net.au/abckids"
+        },
+        {
+          "text": "ABC Privacy Collection Statement",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001511015"
+        },
+        {
+          "text": "Browse all ABC newsletters",
+          "url": "https://www.abc.net.au/newsletters"
+        },
+        {
+          "text": "ABC home",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Editorial Policies",
+          "url": "https://www.abc.net.au/edpols/"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://www.abc.net.au/about/accessibility-statement/103700726"
+        },
+        {
+          "text": "Help",
+          "url": "https://help.abc.net.au/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001150496-Contact-the-ABC"
+        },
+        {
+          "text": "Commercial",
+          "url": "https://www.abc.net.au/commercial/"
+        },
+        {
+          "text": "Careers",
+          "url": "https://www.abc.net.au/careers/"
+        },
+        {
+          "text": "About the ABC",
+          "url": "https://www.abc.net.au/about/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001154976-ABC-Privacy-Policy"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use"
+        },
+        {
+          "text": "© 2026 ABC",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use#Use_of_ABC_Content"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "355ad928706791f92ea06b9e60a11aad7b0036ff68291affd80867491318dc46",
+      "text_sha256": "bb0d1b1d681a7c28fb28dfd6b9af2e3e3353474fecc3c48ff12da37ec9b8b4d4",
+      "evidence_id": "e_09bef69524ad7aa7"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_09fec9299b2d9207",
+      "source_id": "e_9677f8947f94af19",
+      "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+      "title": "Serbia Election Marks the End of an Era | Council on Foreign Relations",
+      "publisher": "www.cfr.org",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:44:51.405917+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Council on Foreign Relations Articles Share By experts and staff Published October 27, 2026  10:20 p.m. Charles A. Kupchan CFR Expert Senior Fellow Ivana Saric CFR Editor Share Former Serbian President Aleksandar Vucic conceded defeat to a student-led opposition movement in Serbia’s October 25 parliamentary elections, ending his party’s fourteen years in power. Vucic had called snap elections in a bid to regain his previous post as prime minister, but the list led by his populist Serbian Progressive Party (SNS) managed just under 40 percent of the vote compared with around 53 percent for the opposition Student List. Pollsters and the Republic Electoral Commission estimated turnout at nearly 70 percent, which Reuters noted was the highest turnout since the breakup of Yugoslavia. The vote ca",
+      "source_text_sha256": "9e4476358322420f42dd6ac09bc8ac701f4f52a11662bbe42ab62484a5c94231",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_241f8b7d4a510444",
+      "source_id": "e_9677f8947f94af19",
+      "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+      "title": "Serbia Election Marks the End of an Era | Council on Foreign Relations",
+      "publisher": "www.cfr.org",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:44:51.405917+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "the vote compared with around 53 percent for the opposition Student List. Pollsters and the Republic Electoral Commission estimated turnout at nearly 70 percent, which Reuters noted was the highest turnout since the breakup of Yugoslavia. The vote came after nearly two years of student-led protests sparked by the deaths of sixteen people when a canopy collapsed at a renovated railway station in Novi Sad, a disaster that protesters blamed on corruption and cronyism . Some opposition parliamentary parties supported the student movement, which demanded early elections. It put forth a list of 250 candidates—including doctors, professors, farmers, and activists. Most opposition parties declined to field their own candidates and urged supporters to back the Student List. Several ran anyway, alth",
+      "source_text_sha256": "9e4476358322420f42dd6ac09bc8ac701f4f52a11662bbe42ab62484a5c94231",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_6a55d441dc8383bf",
+      "source_id": "e_9677f8947f94af19",
+      "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
+      "title": "Serbia Election Marks the End of an Era | Council on Foreign Relations",
+      "publisher": "www.cfr.org",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:44:51.405917+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": "anded early elections. It put forth a list of 250 candidates—including doctors, professors, farmers, and activists. Most opposition parties declined to field their own candidates and urged supporters to back the Student List. Several ran anyway, although no non-minority list outside the Student List and the SNS-led coalition crossed the 3 percent threshold. Charles Kupchan, a senior fellow at the Council on Foreign Relations (CFR) and author of the new book Bringing Order to Anarchy: Governing the World to Come , spoke with CFR about the election results—and what they might mean—following his recent trip to Belgrade. You just returned from Belgrade. What was the mood like on the ground? I arrived last Thursday evening. In the city center, where my hotel was located, a massive protest was t",
+      "source_text_sha256": "9e4476358322420f42dd6ac09bc8ac701f4f52a11662bbe42ab62484a5c94231",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_6030bc63bc8e0948",
+      "source_id": "e_09bef69524ad7aa7",
+      "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+      "title": "Serbian president concedes defeat to student-led movement in election - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-25T21:06:44+00:00",
+      "retrieved_at": "2026-11-02T22:43:51.386356+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Serbian president concedes defeat to student-led movement in election Topic: Elections Posted Mon 26 Oct 2026 at 8:06am Mon 26 Oct 2026 at 8:06am Mon 26 Oct 2026 at 8:06am , updated Mon 26 Oct 2026 at 11:53am Mon 26 Oct 2026 at 11:53am Mon 26 Oct 2026 at 11:53am Loading... In short: President Aleksandar Vučić has conceded defeat to a student-led protest movement in Serbia's parliamentary elections. Mr Vučić called a snap election in September after almost two years of student-led protests. What's next? Polls showed the students' candidate list would have 138 deputies, while Mr Vučić's SNS party garnered 104 seats in the 250-seat parliament. abc.net.au/news/serbia-election-vucic-defeat-student-protest/107307808 Link copied Share Share article Serbian President Aleksandar Vučić has conceded ",
+      "source_text_sha256": "bb0d1b1d681a7c28fb28dfd6b9af2e3e3353474fecc3c48ff12da37ec9b8b4d4",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_f76336929415f926",
+      "source_id": "e_09bef69524ad7aa7",
+      "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+      "title": "Serbian president concedes defeat to student-led movement in election - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-25T21:06:44+00:00",
+      "retrieved_at": "2026-11-02T22:43:51.386356+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "would have 138 deputies, while Mr Vučić's SNS party garnered 104 seats in the 250-seat parliament. abc.net.au/news/serbia-election-vucic-defeat-student-protest/107307808 Link copied Share Share article Serbian President Aleksandar Vučić has conceded defeat to the student-led protest movement in parliamentary elections. \"We still do not have final results [but] on the basis of a sample … it is clear that we have lost these elections,\" Mr Vučić said on Sunday. \"The Student List has won. They will have between 135 and 140 seats, and we will have 105. Aleksandar Vučić ruled Serbia for 14 years. ( Reuters: Zorana Jevtic ) \"No-one else has entered parliament.\" Mr Vučić called the snap elections in September, after almost two years of student-led demonstrations against perceived corruption and cr",
+      "source_text_sha256": "bb0d1b1d681a7c28fb28dfd6b9af2e3e3353474fecc3c48ff12da37ec9b8b4d4",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_29eb449259681b74",
+      "source_id": "e_09bef69524ad7aa7",
+      "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808",
+      "title": "Serbian president concedes defeat to student-led movement in election - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-25T21:06:44+00:00",
+      "retrieved_at": "2026-11-02T22:43:51.386356+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": "05. Aleksandar Vučić ruled Serbia for 14 years. ( Reuters: Zorana Jevtic ) \"No-one else has entered parliament.\" Mr Vučić called the snap elections in September, after almost two years of student-led demonstrations against perceived corruption and creeping authoritarianism. The protests were initially triggered by a train station canopy collapse in the city of Novi Sad in 2024 that killed 16 people. The election results follow almost two years of student-led protests against the government. ( Reuters: Marko Djurica ) Belgrade's streets erupted in celebration after Mr Vučić's announcement, with cars honking and students shouting \"victory\" and \"he's done\". \"Dear Serbia, tonight the voice of the people is being heard,\" Radomir Sajcic, a professor at Belgrade University, said, speaking on beha",
+      "source_text_sha256": "bb0d1b1d681a7c28fb28dfd6b9af2e3e3353474fecc3c48ff12da37ec9b8b4d4",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "world_elections",
+  "retrieved_at": "2026-11-02T22:44:52.035782+00:00",
+  "label": null,
+  "human_verified": false
+}

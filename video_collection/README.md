@@ -83,3 +83,7 @@ Deduplicate exact files with hashes; also review reposts, excerpts and near-dupl
 The immediate collection route is independent of these applications. Public accessibility does not grant redistribution rights: keep source attribution and recorded license fields, and share URL/annotation manifests unless media reuse is authorized.
 
 Implementation reference: [official yt-dlp documentation](https://github.com/yt-dlp/yt-dlp) and [JavaScript runtime setup](https://github.com/yt-dlp/yt-dlp/wiki/EJS).
+
+## Combined Grounded 60 evaluation release
+
+Use [benchmark60](benchmark60/README.md) for the combined 60-case development dataset: 41 supported, 6 contradicted, 13 insufficient, from 39 videos. Inputs and reference labels are separate. This preserves the grounded-50 labels and adds the ten recent-news cases reviewed by Astra; it does not import the old bulk-300 verdicts. All labels remain AI drafts pending human review.

@@ -1,0 +1,40 @@
+{
+  "case_id": "news10_serbia",
+  "claim_text": "Serbia’s student-led movement won the October 2026 parliamentary election.",
+  "verdict": "supported",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_09fec9299b2d9207",
+    "p_f76336929415f926"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_09fec9299b2d9207",
+      "quote": "conceded defeat to a student-led opposition movement in Serbia’s October 25 parliamentary elections"
+    },
+    {
+      "passage_id": "p_f76336929415f926",
+      "quote": "The Student List has won."
+    }
+  ],
+  "reason": "The Reuters report syndicated by ABC quotes Vučić conceding the Student List’s victory; CFR’s October 27 account corroborates the result. The clip’s dated Belgrade overlay and celebrating crowds identify the same parliamentary election.",
+  "explanation": "The Reuters report syndicated by ABC quotes Vučić conceding the Student List’s victory; CFR’s October 27 account corroborates the result. The clip’s dated Belgrade overlay and celebrating crowds identify the same parliamentary election.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Inspected first frame: Belgrade, Serbia, October 26, 2026, with overlay saying a student-led movement ousts Vučić in a landmark election.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "ABC’s story is Reuters reporting; CFR supplies later analysis and result context. This supports the broad victory claim, not every preliminary seat estimate or the interviewee’s suggestion that Vučić ceased holding any office.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.694240+00:00",
+  "reviewed_packet_sha256": "fa644bc616c2b4ae981ea64e021d39633b78ca3fe4c578563f58a7f5eb73d93c",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

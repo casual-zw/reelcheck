@@ -1,0 +1,21 @@
+{
+  "cases": 60,
+  "distinct_videos": 39,
+  "labels": {
+    "supported": 41,
+    "insufficient": 13,
+    "contradicted": 6
+  },
+  "source_releases": {
+    "grounded50": 50,
+    "astra_news10": 10
+  },
+  "source_snapshots": 112,
+  "source_snapshot_variants": 0,
+  "source_video_groups": 39,
+  "human_verified": 0,
+  "relabeled_cases": 0,
+  "new_inference_calls": 0,
+  "preserved_fields": "All original input, label, provenance, assertion-date and split fields are unchanged.",
+  "validation": "Parent release hashes, unique case IDs, matching references, evidence hashes, video hashes and ReelCheck schema passed."
+}

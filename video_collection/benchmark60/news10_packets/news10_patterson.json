@@ -1,0 +1,1476 @@
+{
+  "case": {
+    "case_id": "news10_patterson",
+    "group_id": "youtube_N4gZzweZxXo",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "Victoria’s Court of Appeal dismissed Erin Patterson’s conviction appeal and removed her 33-year non-parole period in October 2026.",
+    "evidence": [
+      {
+        "id": "p_8408423b52bb0a02",
+        "source_id": "e_d6b1791f80c89e51",
+        "url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment",
+        "retrieved_date": "2026-11-02",
+        "text": "Judgment in relation to the appeals was handed down on Friday 30 October at 10am. The two appeals were an appeal by Erin Patterson for the Court of Appeal to review and overturn the findings of guilt from the trial (an appeal against conviction), and an appeal by the DPP against the sentence imposed. The Court of Appeal livestreamed the appeal decisions. Following a jury trial which ran from April to July last year, Ms Patterson was found guilty of murdering her parents-in-law Don and Gail Patterson and her aunt-in-law Heather Wilkinson. She was also found guilty of the attempted murder of her uncle-in-law Ian Wilkinson. Justice Christopher Beale sentenced Erin Patterson on Monday 8 September to life imprisonment with a non-parole period of 33 years. The full Court of Appeal judgment is av",
+        "sha256": "7f2dfca1907c73cbe000fd5691a5553bfcad0fbd5dc7b51ee7b2afaf3e1629d0"
+      },
+      {
+        "id": "p_875ce018a5ea0501",
+        "source_id": "e_d6b1791f80c89e51",
+        "url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment",
+        "retrieved_date": "2026-11-02",
+        "text": "s also found guilty of the attempted murder of her uncle-in-law Ian Wilkinson. Justice Christopher Beale sentenced Erin Patterson on Monday 8 September to life imprisonment with a non-parole period of 33 years. The full Court of Appeal judgment is available online . Published on 29 October 2026 READ MORE NEWS FROM THE SUPREME COURT",
+        "sha256": "798ef807cee52263edfe53c58c5266d58b026aeef83c648691bfbcea014c1d57"
+      },
+      {
+        "id": "p_24709dcc1f1228d6",
+        "source_id": "e_e6beb6e2ad20269c",
+        "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+        "retrieved_date": "2026-11-02",
+        "text": "tterson's appeal against her convictions for killing her relatives with a beef Wellington meal laced with death cap mushrooms. What's next? It is unclear whether Patterson's legal team will mount a challenge in the High Court. abc.net.au/news/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714 Link copied Share Share article Erin Patterson will die in prison, after Victoria's highest court stripped the mushroom killer of a chance of parole and labelled her crimes \"extraordinarily cold and calculated\". In its judgment, published in full this afternoon, Victoria's Court of Appeal increased Patterson's sentence for poisoning her relatives and dismissed all grounds of her appeal. Patterson was last year sentenced to life in prison with a non-parole period of 33 years for the murd",
+        "sha256": "f394cfbf9f067b0e2476b12542665a73944e783bafafffecaa67191819a5e48e"
+      },
+      {
+        "id": "p_ebbf22ce52d51481",
+        "source_id": "e_e6beb6e2ad20269c",
+        "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+        "retrieved_date": "2026-11-02",
+        "text": " full this afternoon, Victoria's Court of Appeal increased Patterson's sentence for poisoning her relatives and dismissed all grounds of her appeal. Patterson was last year sentenced to life in prison with a non-parole period of 33 years for the murders of Don and Gail Patterson and Heather Wilkinson, along with the attempted murder of Heather's husband Ian. The group were poisoned with death cap mushrooms that Patterson had baked into beef Wellingtons, which she served at a lunch in 2023. Today, appeal judges Stephen McLeish, Lesley Taylor and Peter Kidd decided to remove the non-parole period altogether, meaning Patterson's sentence will expire upon death. Loading... “This offending was extraordinarily cold and calculated and stands to be denounced in the strongest terms,\" the judges wro",
+        "sha256": "27dd0da2eac3a16f48ce6a3030a64946549aeb6d5c8a94006efe458cda43cc55"
+      },
+      {
+        "id": "p_f77e3e9842b247a3",
+        "source_id": "e_e6beb6e2ad20269c",
+        "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+        "retrieved_date": "2026-11-02",
+        "text": " August, the prosecution argued Patterson's offending was in the \"worst category\" of murders, and called for the non-parole period to be scrapped. They also submitted the sentencing judge Christopher Beale erred by finding Patterson was likely to be held in solitary confinement \"for years to come\" because of her notoriety. Patterson left with few legal avenues The three judges of the appeal court also dismissed the 52-year-old's appeal against her convictions. In Patterson's conviction appeal, her lawyers argued her trial last year was compromised by what they described as a \"catastrophic\" arrangement, where members of the jury were in the same hotel as police and prosecutors . The appeal judges said the jury setup \"offered fertile grounds for speculation\" but there was no reason to believ",
+        "sha256": "a2310b29cb54d4938c302f4dab4e9aa2321f603d1de22590fcfd6d09b4f00b94"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "N4gZzweZxXo",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/shorts/N4gZzweZxXo",
+    "title": "Why Australia's mushroom murderer may now die in prison. #BBCNews",
+    "source_name": "BBC News",
+    "source_handle": "@BBCNews",
+    "source_kind": "newsroom",
+    "source_url": "https://www.youtube.com/@BBCNews/shorts",
+    "channel_id": "UC16niRr50-MSBwiO3YDb3RA",
+    "sampling_category": "world_news",
+    "category_reviewed": false,
+    "label": "unreviewed",
+    "discovered_at": "2026-11-02T20:24:29.529915+00:00",
+    "discovery_route": "channel_shorts",
+    "duration": 49,
+    "key": "youtube_N4gZzweZxXo",
+    "collected_at": "2026-11-02T21:34:46.247870+00:00",
+    "status": "downloaded",
+    "path": "data/videos/youtube_N4gZzweZxXo.mp4",
+    "sha256": "e83aea54264f47c707e40c4fa6e977839376afeea60fb0b203f6228c8e806dea",
+    "bytes": 1446620,
+    "upload_date": "20261030",
+    "license": null,
+    "language": "en",
+    "language_reviewed": false,
+    "returncode": 0
+  },
+  "media": {
+    "video_sha256": "e83aea54264f47c707e40c4fa6e977839376afeea60fb0b203f6228c8e806dea",
+    "frames": [
+      {
+        "seconds": 4.08,
+        "path": "data/bulk/media/youtube_N4gZzweZxXo/01.jpg"
+      },
+      {
+        "seconds": 12.25,
+        "path": "data/bulk/media/youtube_N4gZzweZxXo/02.jpg"
+      },
+      {
+        "seconds": 20.42,
+        "path": "data/bulk/media/youtube_N4gZzweZxXo/03.jpg"
+      },
+      {
+        "seconds": 28.58,
+        "path": "data/bulk/media/youtube_N4gZzweZxXo/04.jpg"
+      },
+      {
+        "seconds": 36.75,
+        "path": "data/bulk/media/youtube_N4gZzweZxXo/05.jpg"
+      },
+      {
+        "seconds": 44.92,
+        "path": "data/bulk/media/youtube_N4gZzweZxXo/06.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " Australia's mushroom murderer was hoping her conviction would be quashed. Now she faces a prospect of dying in prison. Here's what we know. Erin Patterson killed three of her relatives after serving them a meal containing toxic death cat mushrooms. She was sentenced to life in prison last year. She appealed, challenging some of the evidence that was and wasn't allowed in the trial, as well as her cross-examination and the way the jury was held during deliberations. The judges dismissed Patterson's appeal. her conviction stands. They did, however, agree with the prosecution's appeal that her life sentence with a parole period after 33 years was wrong. The judges said her crimes were extraordinarily cold and calculated, so shocking she should never be allowed freedom. Her only legal option now is to ask Australia's High Court to look at her case.",
+      "language": "en",
+      "automatic": true,
+      "human_verified": false,
+      "model": "mlx-community/whisper-large-v3-turbo"
+    },
+    "at": "2026-11-02T21:42:00.679546+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment",
+      "resolved_url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment",
+      "title": "Erin Patterson appeals - judgment | The Supreme Court of Victoria",
+      "publisher": "www.supremecourt.vic.gov.au",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:43:51.631488+00:00",
+      "text": "Judgment in relation to the appeals was handed down on Friday 30 October at 10am. The two appeals were an appeal by Erin Patterson for the Court of Appeal to review and overturn the findings of guilt from the trial (an appeal against conviction), and an appeal by the DPP against the sentence imposed. The Court of Appeal livestreamed the appeal decisions. Following a jury trial which ran from April to July last year, Ms Patterson was found guilty of murdering her parents-in-law Don and Gail Patterson and her aunt-in-law Heather Wilkinson. She was also found guilty of the attempted murder of her uncle-in-law Ian Wilkinson. Justice Christopher Beale sentenced Erin Patterson on Monday 8 September to life imprisonment with a non-parole period of 33 years. The full Court of Appeal judgment is available online . Published on 29 October 2026 READ MORE NEWS FROM THE SUPREME COURT",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Skip to main content",
+          "url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment#main-content"
+        },
+        {
+          "text": "Other languages",
+          "url": "https://www.supremecourt.vic.gov.au/other-languages"
+        },
+        {
+          "text": "Careers",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/careers"
+        },
+        {
+          "text": "News",
+          "url": "https://www.supremecourt.vic.gov.au/news"
+        },
+        {
+          "text": "Contact us",
+          "url": "https://www.supremecourt.vic.gov.au/contact-the-court"
+        },
+        {
+          "text": "For the media",
+          "url": "https://www.supremecourt.vic.gov.au/media-centre"
+        },
+        {
+          "text": "Daily Hearing List",
+          "url": "https://www.supremecourt.vic.gov.au/daily-hearing-list"
+        },
+        {
+          "text": "Public live streams",
+          "url": "https://www.supremecourt.vic.gov.au/daily-hearing-list/live-streams"
+        },
+        {
+          "text": "Terms of use",
+          "url": "https://www.supremecourt.vic.gov.au/termsofuse"
+        },
+        {
+          "text": "About the Court",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court"
+        },
+        {
+          "text": "How the Court works",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/how-the-court-works"
+        },
+        {
+          "text": "Strategic statement",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/how-the-court-works/strategic-statement"
+        },
+        {
+          "text": "Glossary of legal terms",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/how-the-court-works/glossary"
+        },
+        {
+          "text": "Our judiciary",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/our-judiciary"
+        },
+        {
+          "text": "Judges",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/our-judiciary/judges"
+        },
+        {
+          "text": "Associate judges",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/our-judiciary/associate-judges"
+        },
+        {
+          "text": "Judicial registrars",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/our-judiciary/judicial-registrars"
+        },
+        {
+          "text": "Former judicial officers",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/our-judiciary/former-judicial-officers"
+        },
+        {
+          "text": "Virtual Info Hub",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/virtual-info-hub"
+        },
+        {
+          "text": "Explainers: the work of the Court",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/virtual-info-hub/explainers-the-work-of-the-court"
+        },
+        {
+          "text": "For students and teachers",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/for-students-and-teachers"
+        },
+        {
+          "text": "Court Education Program",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/for-students-and-teachers/court-education-program"
+        },
+        {
+          "text": "Visiting Court: Advice for school groups",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/for-students-and-teachers/visiting-court-advice-for-school-groups"
+        },
+        {
+          "text": "Court of Appeal Online Learning Resource",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/for-students-and-teachers/court-of-appeal-online-learning-resource"
+        },
+        {
+          "text": "Multimedia on demand",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/multimedia-on-demand"
+        },
+        {
+          "text": "Trial Division",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/multimedia-on-demand/trial-division"
+        },
+        {
+          "text": "Court of Appeal",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/multimedia-on-demand/court-of-appeal"
+        },
+        {
+          "text": "Court processes and e-Filing",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/multimedia-on-demand/processes-and-e-filing"
+        },
+        {
+          "text": "Court ceremonies",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/multimedia-on-demand/court-ceremonies"
+        },
+        {
+          "text": "Gertie's Law podcast",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/multimedia-on-demand/gerties-law-podcast"
+        },
+        {
+          "text": "Publications",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/publications"
+        },
+        {
+          "text": "Newsletter",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/publications/newsletter"
+        },
+        {
+          "text": "Speeches",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/publications/speeches"
+        },
+        {
+          "text": "Annual reports",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/publications/annual-reports"
+        },
+        {
+          "text": "Respect and sexual harassment",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/respect-and-sexual-harassment"
+        },
+        {
+          "text": "Our history",
+          "url": "https://www.supremecourt.vic.gov.au/about-the-court/our-history"
+        },
+        {
+          "text": "Going to court",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court"
+        },
+        {
+          "text": "Court sitting dates",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/court-sitting-dates"
+        },
+        {
+          "text": "Help with Court processes",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/help-with-court-processes"
+        },
+        {
+          "text": "Appeal or review a decision",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/help-with-court-processes/appeal-or-review-a-decision"
+        },
+        {
+          "text": "Start a civil proceeding",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/help-with-court-processes/start-a-civil-proceeding"
+        },
+        {
+          "text": "Defend a civil proceeding",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/help-with-court-processes/defend-a-civil-proceeding"
+        },
+        {
+          "text": "Prepare an affidavit",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/help-with-court-processes/prepare-an-affidavit"
+        },
+        {
+          "text": "Representing yourself",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/help-with-court-processes/representing-yourself"
+        },
+        {
+          "text": "Free and low-cost legal help",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/free-and-low-cost-legal-help"
+        },
+        {
+          "text": "Support services",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/support-services"
+        },
+        {
+          "text": "For the public",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/for-the-public"
+        },
+        {
+          "text": "Technology and the Court",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/digital-litigation-resources"
+        },
+        {
+          "text": "For jurors",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/for-jurors"
+        },
+        {
+          "text": "Mediation",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/mediation"
+        },
+        {
+          "text": "Attending Court",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/attending-court"
+        },
+        {
+          "text": "Courtroom conduct",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/attending-court/courtroom-conduct"
+        },
+        {
+          "text": "Security",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/attending-court/security-and-support-services"
+        },
+        {
+          "text": "How to address a judge",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/how-to-address-a-judge"
+        },
+        {
+          "text": "Frequently asked questions",
+          "url": "https://www.supremecourt.vic.gov.au/going-to-court/faqs"
+        },
+        {
+          "text": "Forms, fees and services",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services"
+        },
+        {
+          "text": "RedCrest e-Filing Hub",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/redcrest-e-filing-hub"
+        },
+        {
+          "text": "Notices",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/redcrest-e-filing-hub/redcrest-notices"
+        },
+        {
+          "text": "User guides",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/redcrest-e-filing-hub/user-guides"
+        },
+        {
+          "text": "Support",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/redcrest-e-filing-hub/support"
+        },
+        {
+          "text": "Forms, templates, and guidelines",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/forms-templates-and-guidelines"
+        },
+        {
+          "text": "Filing documents",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/filing-documents-with-the-court"
+        },
+        {
+          "text": "Fees",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/fees"
+        },
+        {
+          "text": "Registry services",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services"
+        },
+        {
+          "text": "Case Transfers and Cross-Vesting",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/case-transfers-and-cross-vesting"
+        },
+        {
+          "text": "Default Judgments (Order 21)",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/default-judgments-order-21"
+        },
+        {
+          "text": "Subpoenas",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/subpoenas"
+        },
+        {
+          "text": "List of civil cases",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/list-of-civil-cases"
+        },
+        {
+          "text": "Searching court records and obtaining copies of documents",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/searching-court-records-and-obtaining-copies-of-documents"
+        },
+        {
+          "text": "Admissions",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/admissions"
+        },
+        {
+          "text": "Serving legal documents overseas",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/serving-legal-documents-overseas"
+        },
+        {
+          "text": "Warrants of Execution (Order 68)",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/registry-services/warrants-of-execution-order-68"
+        },
+        {
+          "text": "Court orders",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/court-orders-general-information"
+        },
+        {
+          "text": "Funds in Court",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/funds-in-court"
+        },
+        {
+          "text": "Transcript services",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/transcript-services"
+        },
+        {
+          "text": "Areas of the Court",
+          "url": "https://www.supremecourt.vic.gov.au/areas"
+        },
+        {
+          "text": "Common Law Division",
+          "url": "https://www.supremecourt.vic.gov.au/areas/common-law-division"
+        },
+        {
+          "text": "Urgent Applications - Practice Court (Common Law)",
+          "url": "https://www.supremecourt.vic.gov.au/areas/common-law-division/practice-court"
+        },
+        {
+          "text": "Commercial Court",
+          "url": "https://www.supremecourt.vic.gov.au/areas/commercial-court"
+        },
+        {
+          "text": "Criminal Division",
+          "url": "https://www.supremecourt.vic.gov.au/areas/criminal-division"
+        },
+        {
+          "text": "Bail applications",
+          "url": "https://www.supremecourt.vic.gov.au/areas/criminal-division/bail-applications"
+        },
+        {
+          "text": "RedCrest (eFiling) guide",
+          "url": "https://www.supremecourt.vic.gov.au/areas-of-the-court/criminal-division/redcrest-e-filing-guide-criminal-division"
+        },
+        {
+          "text": "Costs Court",
+          "url": "https://www.supremecourt.vic.gov.au/areas/costs-court"
+        },
+        {
+          "text": "Lawyer-client disputes",
+          "url": "https://www.supremecourt.vic.gov.au/areas/costs-court/lawyer-client-costs-disputes"
+        },
+        {
+          "text": "Party-party disputes",
+          "url": "https://www.supremecourt.vic.gov.au/areas/costs-court/party-party-costs"
+        },
+        {
+          "text": "Directions hearings",
+          "url": "https://www.supremecourt.vic.gov.au/areas/costs-court/directions-hearings"
+        },
+        {
+          "text": "Court of Appeal",
+          "url": "https://www.supremecourt.vic.gov.au/areas/court-of-appeal"
+        },
+        {
+          "text": "Criminal appeals",
+          "url": "https://www.supremecourt.vic.gov.au/areas/court-of-appeal/criminal-appeals"
+        },
+        {
+          "text": "Civil appeals",
+          "url": "https://www.supremecourt.vic.gov.au/areas/court-of-appeal/civil-appeals"
+        },
+        {
+          "text": "RedCrest (eFiling) guide",
+          "url": "https://www.supremecourt.vic.gov.au/areas/court-of-appeal/redcrest-efiling-guide-court-of-appeal"
+        },
+        {
+          "text": "Associate judges",
+          "url": "https://www.supremecourt.vic.gov.au/areas/associate-judges"
+        },
+        {
+          "text": "Legal resources",
+          "url": "https://www.supremecourt.vic.gov.au/areas/legal-resources"
+        },
+        {
+          "text": "Acts, rules and regulations",
+          "url": "https://www.supremecourt.vic.gov.au/areas/legal-resources/acts-rules-and-regulations"
+        },
+        {
+          "text": "Practice notes",
+          "url": "https://www.supremecourt.vic.gov.au/areas/legal-resources/practice-notes"
+        },
+        {
+          "text": "Case summaries",
+          "url": "https://www.supremecourt.vic.gov.au/areas/case-summaries"
+        },
+        {
+          "text": "About decisions",
+          "url": "https://www.supremecourt.vic.gov.au/areas/case-summaries/about-decisions"
+        },
+        {
+          "text": "Judgment summaries",
+          "url": "https://www.supremecourt.vic.gov.au/areas/case-summaries/judgments"
+        },
+        {
+          "text": "Recent sentences",
+          "url": "https://www.supremecourt.vic.gov.au/areas/case-summaries/recent-sentences"
+        },
+        {
+          "text": "Wills and probate",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate"
+        },
+        {
+          "text": "How to determine if a grant of probate or administration is required",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/grants-of-probate-and-administration-of-deceased-estates"
+        },
+        {
+          "text": "How to apply for a grant of probate or administration",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/how-to-apply-for-a-grant-of-probate-or-administration"
+        },
+        {
+          "text": "What type of grant you should apply for questionnaire",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/how-to-apply-for-a-grant-of-probate-or-administration/what-type-of-grant-you"
+        },
+        {
+          "text": "Searching advertisements and Probate Office records",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/searching-probate-records"
+        },
+        {
+          "text": "Probate Office application index",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/searching-probate-records/probate-office-application-index"
+        },
+        {
+          "text": "Caveats index",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/searching-probate-records/caveats-filed-with-the-probate-office"
+        },
+        {
+          "text": "Deposited wills index",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/searching-probate-records/wills-deposited-with-the-probate-office"
+        },
+        {
+          "text": "Probate Office forms",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/probate-forms"
+        },
+        {
+          "text": "Probate Office fees",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/probate-office-fees"
+        },
+        {
+          "text": "Help with Probate Office processes",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/support"
+        },
+        {
+          "text": "Intestacy (no will) questionnaire",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/help-with-probate-office-processes/who-is-entitled-to-share-in-a-deceaseds-estate"
+        },
+        {
+          "text": "RedCrest-Probate eFiling",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/help-with-probate-office-processes/redcrest-probate-e-filing-information"
+        },
+        {
+          "text": "Guidance for complex applications",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/support/unusual-applications"
+        },
+        {
+          "text": "Probate Office FAQs",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/support/probate-faqs"
+        },
+        {
+          "text": "Small estates optional service",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/support/small-estates"
+        },
+        {
+          "text": "Wills and deceased estates proceedings",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/support/wills-and-deceased-estates"
+        },
+        {
+          "text": "Probate office glossary",
+          "url": "https://www.supremecourt.vic.gov.au/wills-and-probate/support/glossary"
+        },
+        {
+          "text": "Home",
+          "url": "https://www.supremecourt.vic.gov.au/"
+        },
+        {
+          "text": "News",
+          "url": "https://www.supremecourt.vic.gov.au/news"
+        },
+        {
+          "text": "Listen to the content on this page",
+          "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=10225&lang=en_au&readclass=content&url=http://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment"
+        },
+        {
+          "text": "The full Court of Appeal judgment is available online",
+          "url": "https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VSCA/2026/253.html"
+        },
+        {
+          "text": "READ MORE NEWS FROM THE SUPREME COURT",
+          "url": "https://www.supremecourt.vic.gov.au/news"
+        },
+        {
+          "text": "Contact Us page",
+          "url": "https://www.supremecourt.vic.gov.au/contact-the-court"
+        },
+        {
+          "text": "210 William St, Melbourne VIC 3000",
+          "url": "https://www.google.com.au/maps/place/210%20William%20St%2C%20Melbourne%20VIC%203000"
+        },
+        {
+          "text": "03 8600 2000",
+          "url": "tel:0386002000"
+        },
+        {
+          "text": "Funds in Court",
+          "url": "https://www.supremecourt.vic.gov.au/forms-fees-and-services/funds-in-court"
+        },
+        {
+          "text": "Case summaries",
+          "url": "https://www.supremecourt.vic.gov.au/areas/case-summaries"
+        },
+        {
+          "text": "Law Library Victoria",
+          "url": "https://www.supremecourt.vic.gov.au/law-library-victoria"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://www.supremecourt.vic.gov.au/accessibility"
+        },
+        {
+          "text": "Disclaimer",
+          "url": "https://www.supremecourt.vic.gov.au/disclaimer"
+        },
+        {
+          "text": "Privacy",
+          "url": "https://www.supremecourt.vic.gov.au/privacy"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "e71b8795239df2d7270e2489f34d862e2e43c0df15d881297173b8ed1e54a010",
+      "text_sha256": "53f20d8b89a69574445adedb611bfe494334fc7b41e38e754a642518e56851b2",
+      "evidence_id": "e_d6b1791f80c89e51"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+      "resolved_url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+      "title": "Mushroom murderer Erin Patterson likely to die in jail after failed appeal - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-29T23:13:00+00:00",
+      "retrieved_at": "2026-11-02T22:43:50.781343+00:00",
+      "text": "Mushroom murderer Erin Patterson likely to die in jail after failed appeal By court reporter Kristian Silva and Tim Callanan Topic: Courts Posted Fri 30 Oct 2026 at 10:13am Fri 30 Oct 2026 at 10:13am Fri 30 Oct 2026 at 10:13am , updated Fri 30 Oct 2026 at 3:53pm Fri 30 Oct 2026 at 3:53pm Fri 30 Oct 2026 at 3:53pm Erin Patterson was resentenced to life in prison without parole. ( NewsWire: Jason Edwards ) In short: Victoria's highest court has removed the possibility of parole for jailed triple murderer Erin Patterson. The court also rejected Patterson's appeal against her convictions for killing her relatives with a beef Wellington meal laced with death cap mushrooms. What's next? It is unclear whether Patterson's legal team will mount a challenge in the High Court. abc.net.au/news/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714 Link copied Share Share article Erin Patterson will die in prison, after Victoria's highest court stripped the mushroom killer of a chance of parole and labelled her crimes \"extraordinarily cold and calculated\". In its judgment, published in full this afternoon, Victoria's Court of Appeal increased Patterson's sentence for poisoning her relatives and dismissed all grounds of her appeal. Patterson was last year sentenced to life in prison with a non-parole period of 33 years for the murders of Don and Gail Patterson and Heather Wilkinson, along with the attempted murder of Heather's husband Ian. The group were poisoned with death cap mushrooms that Patterson had baked into beef Wellingtons, which she served at a lunch in 2023. Today, appeal judges Stephen McLeish, Lesley Taylor and Peter Kidd decided to remove the non-parole period altogether, meaning Patterson's sentence will expire upon death. Loading... “This offending was extraordinarily cold and calculated and stands to be denounced in the strongest terms,\" the judges wrote. \" On any view, these were heinous crimes. \" They described Patterson's crime as a case \"of such shocking criminality that it is inappropriate to fix a non-parole period\". Few killers in Australia are serving life sentences with no parole. Some include Martin Bryant, who carried out the Port Arthur massacre, Snowtown killers John Bunting and Robert Wagner, and serial murderer Peter Dupas. It is unclear whether Patterson's legal team will mount a challenge in the High Court. ( ABC News: Anita Lester ) Justice McLeish described Patterson's actions as \"carefully planned and deliberate\". \"The applicant's intent to murder all four victims was sustained for nearly three weeks from when she invited them to lunch, through to preparing and serving the poisoned meal and then throughout the protracted suffering and ultimate deaths that resulted,\" he said. Patterson, who watched the proceedings on a video link, sat back in her seat and appeared to stare blankly when the decision was announced. She is being held in the maximum security wing of the Dame Phyllis Frost women's prison. Erin Patterson's appeal rejected : Look back on how today's hearing unfolded in our blog. Outside the court, prosecutors, police investigators and supporters of Patterson's ex-husband Simon Patterson grinned broadly. It is unclear whether her legal team will mount a challenge in the High Court of Australia. In August, the prosecution argued Patterson's offending was in the \"worst category\" of murders, and called for the non-parole period to be scrapped. They also submitted the sentencing judge Christopher Beale erred by finding Patterson was likely to be held in solitary confinement \"for years to come\" because of her notoriety. Patterson left with few legal avenues The three judges of the appeal court also dismissed the 52-year-old's appeal against her convictions. In Patterson's conviction appeal, her lawyers argued her trial last year was compromised by what they described as a \"catastrophic\" arrangement, where members of the jury were in the same hotel as police and prosecutors . The appeal judges said the jury setup \"offered fertile grounds for speculation\" but there was no reason to believe a miscarriage of justice occurred. Patterson's other six appeal grounds were also unsuccessful. More on Erin Patterson 'She's no dope': Who is the host of Australia's most infamous lunch? Topic: Courts 'She's no dope': Who is the host of Australia's most infamous lunch? Topic: Courts Patterson's failed appeal leaves few legal avenues for the mushroom killer Topic: Explainer How a recipe of 'ultimate indulgence' became central to a murder plot Topic: Courts Mushroom murderer Erin Patterson barred from selling Leongatha home Topic: Courts Patterson's lawyers argued mobile cell towers and iNaturalist website evidence should not have been put to the jury, however the judges found the evidence was relevant to the prosecution's circumstantial case. They also dismissed claims the trial judge incorrectly ruled that an old SD card with mushroom photos and videos was inadmissible during the prosecution case; and that critical Facebook messages Patterson had written about her extended family should have been excluded. The defence had accused senior prosecutor Nanette Rogers SC of conducting an \"unfair and oppressive\" cross-examination of Patterson in the witness box. The appeal judges said Dr Rogers was \"ably and fairly discharging her obligations\" under the legal rule of Browne v Dunn, which require allegations to be put directly to a person under cross-examination. While the court found Dr Rogers's closing address had \"some blemishes\", it was not unfair. Finally, the court rejected claims the prosecution changed its case by telling the jury there was no motive, but then implied one existed by the end of the trial. The decision to reject Patterson's appeal leaves her with few legal options , including appealing to the High Court. Loading... Top Stories Republicans worried voters will stay home in strongholds amid close midterms races Topic: US Elections Structural deficits across governments to blame for inflation, not spending I Analysis by Ian Verrender Reserve Bank tipped to hike interest rates to 18-year high LIVE Airbnb host accused of using AI image of blocked toilet to claim damages Topic: AI Parts of jet appear to have broken off before fatal Florida crash Topic: Air Incidents Popular now Nine die as business jet crashes on Florida roadside Topic: Air Incidents Trump could try to overturn midterm election results, former security chiefs warn Topic: US Elections Melbourne Cup 2026: Field, barrier draw, form guide and betting Topic: Horse Racing Related topics Courts Crime VIC Republicans worried voters will stay home in strongholds amid close midterms races Topic: US Elections Structural deficits across governments to blame for inflation, not spending I Analysis by Ian Verrender Reserve Bank tipped to hike interest rates to 18-year high LIVE Airbnb host accused of using AI image of blocked toilet to claim damages Topic: AI Parts of jet appear to have broken off before fatal Florida crash Topic: Air Incidents Just In Latest national scam more sophisticated and 'just the tip of the iceberg' Topic: Scams and Fraud Tue 3 Nov 2026 at 9:30am Tue 3 Nov 2026 at 9:30am Tue 3 Nov 2026 at 9:30am With leaders in jail, a tobacco empire is falling 'like a house of cards' Topic: Organised Crime Tue 3 Nov 2026 at 9:15am Tue 3 Nov 2026 at 9:15am Tue 3 Nov 2026 at 9:15am NAPLAN returns to pen and paper after digital backlash Topic: Primary Education Tue 3 Nov 2026 at 9:19am Tue 3 Nov 2026 at 9:19am Tue 3 Nov 2026 at 9:19am Supercells forecast for Queensland and NSW after overnight hail dump Topic: Weather Tue 3 Nov 2026 at 8:43am Tue 3 Nov 2026 at 8:43am Tue 3 Nov 2026 at 8:43am More Just In Back to top",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Skip to main content",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714#content"
+        },
+        {
+          "text": "Skip to news navigation, settings and search",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714#newsLogoAnchor"
+        },
+        {
+          "text": "ABC",
+          "url": "https://www.abc.net.au"
+        },
+        {
+          "text": "Read our editorial guiding principles",
+          "url": "https://www.abc.net.au/edpols"
+        },
+        {
+          "text": "news",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "iview",
+          "url": "https://iview.abc.net.au/"
+        },
+        {
+          "text": "listen",
+          "url": "https://www.abc.net.au/listen"
+        },
+        {
+          "text": "ABC News",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "For You",
+          "url": "https://www.abc.net.au/news/for-you"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.abc.net.au/news/politics"
+        },
+        {
+          "text": "World",
+          "url": "https://www.abc.net.au/news/world"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.abc.net.au/news/business"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://www.abc.net.au/news/analysis-and-opinion"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.abc.net.au/news/sport"
+        },
+        {
+          "text": "Lifestyle",
+          "url": "https://www.abc.net.au/news/lifestyle"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://www.abc.net.au/news/entertainment"
+        },
+        {
+          "text": "Quizzes",
+          "url": "https://www.abc.net.au/news/quizzes"
+        },
+        {
+          "text": "News Home",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "For You",
+          "url": "https://www.abc.net.au/news/for-you"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://www.abc.net.au/news/analysis-and-opinion"
+        },
+        {
+          "text": "Rural",
+          "url": "https://www.abc.net.au/news/rural"
+        },
+        {
+          "text": "Watch Live",
+          "url": "https://www.abc.net.au/news/newschannel"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.abc.net.au/news/health"
+        },
+        {
+          "text": "Indigenous",
+          "url": "https://www.abc.net.au/news/indigenous"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.abc.net.au/news/politics"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.abc.net.au/news/science"
+        },
+        {
+          "text": "Deep Time",
+          "url": "https://www.abc.net.au/news/deeptime/"
+        },
+        {
+          "text": "Elections",
+          "url": "https://www.abc.net.au/news/elections"
+        },
+        {
+          "text": "World",
+          "url": "https://www.abc.net.au/news/world"
+        },
+        {
+          "text": "Environment",
+          "url": "https://www.abc.net.au/news/environment"
+        },
+        {
+          "text": "Investigations",
+          "url": "https://www.abc.net.au/news/story-streams/investigations"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.abc.net.au/news/business"
+        },
+        {
+          "text": "Local news",
+          "url": "https://www.abc.net.au/local"
+        },
+        {
+          "text": "Quizzes",
+          "url": "https://www.abc.net.au/news/quizzes"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.abc.net.au/news/sport"
+        },
+        {
+          "text": "AFL",
+          "url": "https://www.abc.net.au/news/sport/afl"
+        },
+        {
+          "text": "NRL",
+          "url": "https://www.abc.net.au/news/sport/rugbyleague"
+        },
+        {
+          "text": "Football",
+          "url": "https://www.abc.net.au/news/sport/football"
+        },
+        {
+          "text": "Tennis",
+          "url": "https://www.abc.net.au/news/sport/tennis"
+        },
+        {
+          "text": "Cricket",
+          "url": "https://www.abc.net.au/news/sport/cricket"
+        },
+        {
+          "text": "Netball",
+          "url": "https://www.abc.net.au/news/sport/netball"
+        },
+        {
+          "text": "Lifestyle",
+          "url": "https://www.abc.net.au/news/lifestyle"
+        },
+        {
+          "text": "Wellbeing",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961868"
+        },
+        {
+          "text": "Relationships & Family",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961870"
+        },
+        {
+          "text": "Food & Recipes",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961866"
+        },
+        {
+          "text": "Personal Finance",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961872"
+        },
+        {
+          "text": "Home & Garden",
+          "url": "https://www.abc.net.au/news/lifestyle#anchor-102961862"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://www.abc.net.au/news/entertainment"
+        },
+        {
+          "text": "TV & Movies",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956246"
+        },
+        {
+          "text": "Books",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956258"
+        },
+        {
+          "text": "Music",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956248"
+        },
+        {
+          "text": "Pop Culture",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-103048170"
+        },
+        {
+          "text": "Arts",
+          "url": "https://www.abc.net.au/news/entertainment#anchor-102956242"
+        },
+        {
+          "text": "Facebook",
+          "url": "https://www.facebook.com/abcnews.au"
+        },
+        {
+          "text": "YouTube",
+          "url": "https://www.youtube.com/@abcnewsaustralia"
+        },
+        {
+          "text": "Instagram",
+          "url": "https://www.instagram.com/abcnews_au"
+        },
+        {
+          "text": "Twitter",
+          "url": "https://x.com/abcnews"
+        },
+        {
+          "text": "Emergency",
+          "url": "https://www.abc.net.au/news/emergency"
+        },
+        {
+          "text": "Backstory",
+          "url": "https://www.abc.net.au/news/backstory"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://www.abc.net.au/news/subscribe"
+        },
+        {
+          "text": "中文新闻",
+          "url": "https://www.abc.net.au/news/chinese"
+        },
+        {
+          "text": "BERITA BAHASA INDONESIA",
+          "url": "https://www.abc.net.au/news/indonesian"
+        },
+        {
+          "text": "TOK PISIN",
+          "url": "https://www.abc.net.au/news/tok-pisin"
+        },
+        {
+          "text": "ABC iView",
+          "url": "https://iview.abc.net.au"
+        },
+        {
+          "text": "ABC Listen",
+          "url": "https://www.abc.net.au/listen"
+        },
+        {
+          "text": "ABC News",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "News Home",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Kristian Silva",
+          "url": "https://www.abc.net.au/news/kristian-silva/7115474"
+        },
+        {
+          "text": "Tim Callanan",
+          "url": "https://www.abc.net.au/news/tim-callanan/2832764"
+        },
+        {
+          "text": "Topic: Courts",
+          "url": "https://www.abc.net.au/news/topic/courts"
+        },
+        {
+          "text": "Erin Patterson's appeal rejected",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086"
+        },
+        {
+          "text": "erred by finding Patterson was likely to be held in solitary confinement \"for years to come\"",
+          "url": "https://www.abc.net.au/news/2026-08-20/erin-patterson-appeal-mushroom-murder-court/107059860"
+        },
+        {
+          "text": "what they described as a \"catastrophic\" arrangement, where members of the jury were in the same hotel as police and prosecutors",
+          "url": "https://www.abc.net.au/news/2026-08-19/erin-patterson-appeals-mushroom-murder-conviction-day-1/107054134"
+        },
+        {
+          "text": "'She's no dope': Who is the host of Australia's most infamous lunch?",
+          "url": "https://www.abc.net.au/news/2025-07-08/erin-patterson-mushroom-murder-trial-air-traffic-controller/105464254"
+        },
+        {
+          "text": "Topic: Courts",
+          "url": "https://www.abc.net.au/news/topic/courts"
+        },
+        {
+          "text": "'She's no dope': Who is the host of Australia's most infamous lunch?",
+          "url": "https://www.abc.net.au/news/2025-07-08/erin-patterson-mushroom-murder-trial-air-traffic-controller/105464254"
+        },
+        {
+          "text": "Topic: Courts",
+          "url": "https://www.abc.net.au/news/topic/courts"
+        },
+        {
+          "text": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-mushroom-murder-appeal-what-next/107315286"
+        },
+        {
+          "text": "How a recipe of 'ultimate indulgence' became central to a murder plot",
+          "url": "https://www.abc.net.au/news/2025-07-07/erin-patterson-guilty-murder-verdict-death-cap-mushroom-lunch/105458058"
+        },
+        {
+          "text": "Topic: Courts",
+          "url": "https://www.abc.net.au/news/topic/courts"
+        },
+        {
+          "text": "Mushroom murderer Erin Patterson barred from selling Leongatha home",
+          "url": "https://www.abc.net.au/news/2025-07-30/erin-patterson-leongatha-home-supreme-court/105591532"
+        },
+        {
+          "text": "Topic: Courts",
+          "url": "https://www.abc.net.au/news/topic/courts"
+        },
+        {
+          "text": "leaves her with few legal options",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-mushroom-murder-appeal-what-next/107315286"
+        },
+        {
+          "text": "Copy link",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714"
+        },
+        {
+          "text": "Facebook",
+          "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.abc.net.au%2Fnews%2F2026-10-30%2Ferin-patterson-loses-mushroom-murder-convictions-appeal%2F107326714%3Futm_campaign%3Dabc_news_web%26utm_content%3Dfacebook%26utm_medium%3Dcontent_shared%26utm_source%3Dabc_news_web"
+        },
+        {
+          "text": "X (formerly Twitter)",
+          "url": "https://twitter.com/intent/tweet?text=Mushroom+murderer+Erin+Patterson+likely+to+die+in+jail+after+failed+appeal&url=https%3A%2F%2Fwww.abc.net.au%2Fnews%2F2026-10-30%2Ferin-patterson-loses-mushroom-murder-convictions-appeal%2F107326714%3Futm_campaign%3Dabc_news_web%26utm_content%3Dtwitter%26utm_medium%3Dcontent_shared%26utm_source%3Dabc_news_web"
+        },
+        {
+          "text": "Make ABC a preferred source in Google",
+          "url": "https://www.google.com/preferences/source?q=https://www.abc.net.au"
+        },
+        {
+          "text": "Republicans worried voters will stay home in strongholds amid close midterms races",
+          "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788"
+        },
+        {
+          "text": "Topic: US Elections",
+          "url": "https://www.abc.net.au/news/topic/us-elections"
+        },
+        {
+          "text": "Structural deficits across governments to blame for inflation, not spending",
+          "url": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008"
+        },
+        {
+          "text": "I Analysis by Ian Verrender",
+          "url": "https://www.abc.net.au/news/ian-verrender/5261264"
+        },
+        {
+          "text": "Reserve Bank tipped to hike interest rates to 18-year high",
+          "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+        },
+        {
+          "text": "Airbnb host accused of using AI image of blocked toilet to claim damages",
+          "url": "https://www.abc.net.au/news/2026-11-03/airbnb-host-accused-of-using-ai-doctored-image-to-claim-damages/107264584"
+        },
+        {
+          "text": "Topic: AI",
+          "url": "https://www.abc.net.au/news/topic/ai"
+        },
+        {
+          "text": "Parts of jet appear to have broken off before fatal Florida crash",
+          "url": "https://www.abc.net.au/news/2026-11-03/parts-of-jet-appear-to-have-broken-off-before-florida-crash/107339320"
+        },
+        {
+          "text": "Topic: Air Incidents",
+          "url": "https://www.abc.net.au/news/topic/air-incidents"
+        },
+        {
+          "text": "Nine die as business jet crashes on Florida roadside",
+          "url": "https://www.abc.net.au/news/2026-11-02/business-jet-carrying-9-people-crashes-in-florida-neighbourhood/107335094"
+        },
+        {
+          "text": "Topic: Air Incidents",
+          "url": "https://www.abc.net.au/news/topic/air-incidents"
+        },
+        {
+          "text": "Trump could try to overturn midterm election results, former security chiefs warn",
+          "url": "https://www.abc.net.au/news/2026-11-02/trump-could-interfere-in-us-midterm-elections-warn-ex-spy-chiefs/107283800"
+        },
+        {
+          "text": "Topic: US Elections",
+          "url": "https://www.abc.net.au/news/topic/us-elections"
+        },
+        {
+          "text": "Melbourne Cup 2026: Field, barrier draw, form guide and betting",
+          "url": "https://www.abc.net.au/news/2026-10-31/melbourne-cup-2026-field-horses-form-guide-and-betting/107158416"
+        },
+        {
+          "text": "Topic: Horse Racing",
+          "url": "https://www.abc.net.au/news/topic/horse-racing"
+        },
+        {
+          "text": "Courts",
+          "url": "https://www.abc.net.au/news/topic/courts"
+        },
+        {
+          "text": "Crime",
+          "url": "https://www.abc.net.au/news/topic/crime"
+        },
+        {
+          "text": "VIC",
+          "url": "https://www.abc.net.au/news/topic/vic"
+        },
+        {
+          "text": "Republicans worried voters will stay home in strongholds amid close midterms races",
+          "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788"
+        },
+        {
+          "text": "Topic: US Elections",
+          "url": "https://www.abc.net.au/news/topic/us-elections"
+        },
+        {
+          "text": "Structural deficits across governments to blame for inflation, not spending",
+          "url": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008"
+        },
+        {
+          "text": "I Analysis by Ian Verrender",
+          "url": "https://www.abc.net.au/news/ian-verrender/5261264"
+        },
+        {
+          "text": "Reserve Bank tipped to hike interest rates to 18-year high",
+          "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+        },
+        {
+          "text": "Airbnb host accused of using AI image of blocked toilet to claim damages",
+          "url": "https://www.abc.net.au/news/2026-11-03/airbnb-host-accused-of-using-ai-doctored-image-to-claim-damages/107264584"
+        },
+        {
+          "text": "Topic: AI",
+          "url": "https://www.abc.net.au/news/topic/ai"
+        },
+        {
+          "text": "Parts of jet appear to have broken off before fatal Florida crash",
+          "url": "https://www.abc.net.au/news/2026-11-03/parts-of-jet-appear-to-have-broken-off-before-florida-crash/107339320"
+        },
+        {
+          "text": "Topic: Air Incidents",
+          "url": "https://www.abc.net.au/news/topic/air-incidents"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "Latest national scam more sophisticated and 'just the tip of the iceberg'",
+          "url": "https://www.abc.net.au/news/2026-11-03/rms-data-breach-kimberley-accommodation-bookings/107328710"
+        },
+        {
+          "text": "Topic: Scams and Fraud",
+          "url": "https://www.abc.net.au/news/topic/scams-and-fraud"
+        },
+        {
+          "text": "With leaders in jail, a tobacco empire is falling 'like a house of cards'",
+          "url": "https://www.abc.net.au/news/2026-11-03/kazem-hamad-civil-war-within-international-crime-empire/107335854"
+        },
+        {
+          "text": "Topic: Organised Crime",
+          "url": "https://www.abc.net.au/news/topic/organised-crime"
+        },
+        {
+          "text": "NAPLAN returns to pen and paper after digital backlash",
+          "url": "https://www.abc.net.au/news/2026-11-03/naplan-test-returns-to-pen-and-paper-/107339724"
+        },
+        {
+          "text": "Topic: Primary Education",
+          "url": "https://www.abc.net.au/news/topic/primary-education"
+        },
+        {
+          "text": "Supercells forecast for Queensland and NSW after overnight hail dump",
+          "url": "https://www.abc.net.au/news/2026-11-03/qld-storm-supercells-after-overnight-hail-dump/107339454"
+        },
+        {
+          "text": "Topic: Weather",
+          "url": "https://www.abc.net.au/news/topic/weather"
+        },
+        {
+          "text": "More Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "Back to top",
+          "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714#Top"
+        },
+        {
+          "text": "ABC News",
+          "url": "https://www.abc.net.au/news"
+        },
+        {
+          "text": "Contact ABC News",
+          "url": "https://www.abc.net.au/news/contact"
+        },
+        {
+          "text": "ABC News Home",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Just In",
+          "url": "https://www.abc.net.au/news/justin"
+        },
+        {
+          "text": "For You",
+          "url": "https://www.abc.net.au/news/for-you"
+        },
+        {
+          "text": "Watch Live News",
+          "url": "https://www.abc.net.au/news/newschannel"
+        },
+        {
+          "text": "Live ABC NewsRadio",
+          "url": "https://www.abc.net.au/listen/news"
+        },
+        {
+          "text": "Politics",
+          "url": "https://www.abc.net.au/news/politics"
+        },
+        {
+          "text": "Elections",
+          "url": "https://www.abc.net.au/news/elections"
+        },
+        {
+          "text": "Australia",
+          "url": "https://www.abc.net.au/news/australia"
+        },
+        {
+          "text": "World",
+          "url": "https://www.abc.net.au/news/world"
+        },
+        {
+          "text": "Sport",
+          "url": "https://www.abc.net.au/news/sport"
+        },
+        {
+          "text": "Rural",
+          "url": "https://www.abc.net.au/news/rural"
+        },
+        {
+          "text": "Business",
+          "url": "https://www.abc.net.au/news/business"
+        },
+        {
+          "text": "Analysis",
+          "url": "https://www.abc.net.au/news/analysis-and-opinion"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.abc.net.au/news/science"
+        },
+        {
+          "text": "Health",
+          "url": "https://www.abc.net.au/news/health"
+        },
+        {
+          "text": "Lifestyle",
+          "url": "https://www.abc.net.au/news/lifestyle"
+        },
+        {
+          "text": "Entertainment",
+          "url": "https://www.abc.net.au/news/entertainment"
+        },
+        {
+          "text": "Quizzes",
+          "url": "https://www.abc.net.au/news/quizzes"
+        },
+        {
+          "text": "More Topics",
+          "url": "https://www.abc.net.au/news/topics"
+        },
+        {
+          "text": "Chinese 中文",
+          "url": "https://www.abc.net.au/news/chinese"
+        },
+        {
+          "text": "Tok Pisin",
+          "url": "https://www.abc.net.au/news/tok-pisin"
+        },
+        {
+          "text": "Berita Bahasa Indonesia",
+          "url": "https://www.abc.net.au/news/indonesian"
+        },
+        {
+          "text": "ABC News app",
+          "url": "https://www.abc.net.au/news/app"
+        },
+        {
+          "text": "Local News",
+          "url": "https://www.abc.net.au/local"
+        },
+        {
+          "text": "ABC Emergency",
+          "url": "https://www.abc.net.au/emergency"
+        },
+        {
+          "text": "ABC Indigenous",
+          "url": "https://www.abc.net.au/indigenous"
+        },
+        {
+          "text": "ABC Religion & Ethics",
+          "url": "https://www.abc.net.au/religion"
+        },
+        {
+          "text": "ABC Asia",
+          "url": "https://www.abc.net.au/asia"
+        },
+        {
+          "text": "ABC Pacific",
+          "url": "https://www.abc.net.au/pacific"
+        },
+        {
+          "text": "ABC Listen Home",
+          "url": "https://www.abc.net.au/listen"
+        },
+        {
+          "text": "triple j",
+          "url": "https://www.abc.net.au/triplej"
+        },
+        {
+          "text": "Live Radio",
+          "url": "https://www.abc.net.au/listen/radio"
+        },
+        {
+          "text": "ABC iview Home",
+          "url": "https://iview.abc.net.au"
+        },
+        {
+          "text": "List of ABC Shows",
+          "url": "https://iview.abc.net.au/shows"
+        },
+        {
+          "text": "Live TV",
+          "url": "https://iview.abc.net.au/category/watch-live"
+        },
+        {
+          "text": "TV Guide",
+          "url": "https://www.abc.net.au/tv/"
+        },
+        {
+          "text": "BTN",
+          "url": "https://www.abc.net.au/btn"
+        },
+        {
+          "text": "Education",
+          "url": "https://www.abc.net.au/education"
+        },
+        {
+          "text": "Heywire",
+          "url": "https://www.abc.net.au/heywire"
+        },
+        {
+          "text": "ABC Kids",
+          "url": "https://www.abc.net.au/abckids"
+        },
+        {
+          "text": "ABC Privacy Collection Statement",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001511015"
+        },
+        {
+          "text": "Browse all ABC newsletters",
+          "url": "https://www.abc.net.au/newsletters"
+        },
+        {
+          "text": "ABC home",
+          "url": "https://www.abc.net.au/"
+        },
+        {
+          "text": "Editorial Policies",
+          "url": "https://www.abc.net.au/edpols/"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://www.abc.net.au/about/accessibility-statement/103700726"
+        },
+        {
+          "text": "Help",
+          "url": "https://help.abc.net.au/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001150496-Contact-the-ABC"
+        },
+        {
+          "text": "Commercial",
+          "url": "https://www.abc.net.au/commercial/"
+        },
+        {
+          "text": "Careers",
+          "url": "https://www.abc.net.au/careers/"
+        },
+        {
+          "text": "About the ABC",
+          "url": "https://www.abc.net.au/about/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001154976-ABC-Privacy-Policy"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use"
+        },
+        {
+          "text": "© 2026 ABC",
+          "url": "https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use#Use_of_ABC_Content"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "ad07cab35c76dd27222d607e1dc862bf8329f589351344c29388094b9f11ed93",
+      "text_sha256": "8b436cfaea172fc1ad883dea19134d2a9fe04349cf1da47f624a824e22a5059e",
+      "evidence_id": "e_e6beb6e2ad20269c"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_8408423b52bb0a02",
+      "source_id": "e_d6b1791f80c89e51",
+      "url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment",
+      "title": "Erin Patterson appeals - judgment | The Supreme Court of Victoria",
+      "publisher": "www.supremecourt.vic.gov.au",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:43:51.631488+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Judgment in relation to the appeals was handed down on Friday 30 October at 10am. The two appeals were an appeal by Erin Patterson for the Court of Appeal to review and overturn the findings of guilt from the trial (an appeal against conviction), and an appeal by the DPP against the sentence imposed. The Court of Appeal livestreamed the appeal decisions. Following a jury trial which ran from April to July last year, Ms Patterson was found guilty of murdering her parents-in-law Don and Gail Patterson and her aunt-in-law Heather Wilkinson. She was also found guilty of the attempted murder of her uncle-in-law Ian Wilkinson. Justice Christopher Beale sentenced Erin Patterson on Monday 8 September to life imprisonment with a non-parole period of 33 years. The full Court of Appeal judgment is av",
+      "source_text_sha256": "53f20d8b89a69574445adedb611bfe494334fc7b41e38e754a642518e56851b2",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_875ce018a5ea0501",
+      "source_id": "e_d6b1791f80c89e51",
+      "url": "https://www.supremecourt.vic.gov.au/news/erin-patterson-appeals-judgment",
+      "title": "Erin Patterson appeals - judgment | The Supreme Court of Victoria",
+      "publisher": "www.supremecourt.vic.gov.au",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:43:51.631488+00:00",
+      "start": 550,
+      "end": 883,
+      "text": "s also found guilty of the attempted murder of her uncle-in-law Ian Wilkinson. Justice Christopher Beale sentenced Erin Patterson on Monday 8 September to life imprisonment with a non-parole period of 33 years. The full Court of Appeal judgment is available online . Published on 29 October 2026 READ MORE NEWS FROM THE SUPREME COURT",
+      "source_text_sha256": "53f20d8b89a69574445adedb611bfe494334fc7b41e38e754a642518e56851b2",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_24709dcc1f1228d6",
+      "source_id": "e_e6beb6e2ad20269c",
+      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+      "title": "Mushroom murderer Erin Patterson likely to die in jail after failed appeal - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-29T23:13:00+00:00",
+      "retrieved_at": "2026-11-02T22:43:50.781343+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "tterson's appeal against her convictions for killing her relatives with a beef Wellington meal laced with death cap mushrooms. What's next? It is unclear whether Patterson's legal team will mount a challenge in the High Court. abc.net.au/news/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714 Link copied Share Share article Erin Patterson will die in prison, after Victoria's highest court stripped the mushroom killer of a chance of parole and labelled her crimes \"extraordinarily cold and calculated\". In its judgment, published in full this afternoon, Victoria's Court of Appeal increased Patterson's sentence for poisoning her relatives and dismissed all grounds of her appeal. Patterson was last year sentenced to life in prison with a non-parole period of 33 years for the murd",
+      "source_text_sha256": "8b436cfaea172fc1ad883dea19134d2a9fe04349cf1da47f624a824e22a5059e",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_ebbf22ce52d51481",
+      "source_id": "e_e6beb6e2ad20269c",
+      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+      "title": "Mushroom murderer Erin Patterson likely to die in jail after failed appeal - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-29T23:13:00+00:00",
+      "retrieved_at": "2026-11-02T22:43:50.781343+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": " full this afternoon, Victoria's Court of Appeal increased Patterson's sentence for poisoning her relatives and dismissed all grounds of her appeal. Patterson was last year sentenced to life in prison with a non-parole period of 33 years for the murders of Don and Gail Patterson and Heather Wilkinson, along with the attempted murder of Heather's husband Ian. The group were poisoned with death cap mushrooms that Patterson had baked into beef Wellingtons, which she served at a lunch in 2023. Today, appeal judges Stephen McLeish, Lesley Taylor and Peter Kidd decided to remove the non-parole period altogether, meaning Patterson's sentence will expire upon death. Loading... “This offending was extraordinarily cold and calculated and stands to be denounced in the strongest terms,\" the judges wro",
+      "source_text_sha256": "8b436cfaea172fc1ad883dea19134d2a9fe04349cf1da47f624a824e22a5059e",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_f77e3e9842b247a3",
+      "source_id": "e_e6beb6e2ad20269c",
+      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-loses-mushroom-murder-convictions-appeal/107326714",
+      "title": "Mushroom murderer Erin Patterson likely to die in jail after failed appeal - ABC News",
+      "publisher": "www.abc.net.au",
+      "published_at": "2026-10-29T23:13:00+00:00",
+      "retrieved_at": "2026-11-02T22:43:50.781343+00:00",
+      "start": 3300,
+      "end": 4100,
+      "text": " August, the prosecution argued Patterson's offending was in the \"worst category\" of murders, and called for the non-parole period to be scrapped. They also submitted the sentencing judge Christopher Beale erred by finding Patterson was likely to be held in solitary confinement \"for years to come\" because of her notoriety. Patterson left with few legal avenues The three judges of the appeal court also dismissed the 52-year-old's appeal against her convictions. In Patterson's conviction appeal, her lawyers argued her trial last year was compromised by what they described as a \"catastrophic\" arrangement, where members of the jury were in the same hotel as police and prosecutors . The appeal judges said the jury setup \"offered fertile grounds for speculation\" but there was no reason to believ",
+      "source_text_sha256": "8b436cfaea172fc1ad883dea19134d2a9fe04349cf1da47f624a824e22a5059e",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "courts",
+  "retrieved_at": "2026-11-02T22:44:52.029511+00:00",
+  "label": null,
+  "human_verified": false
+}

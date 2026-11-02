@@ -1,0 +1,35 @@
+{
+  "case_id": "news10_apple",
+  "claim_text": "Apple’s newly announced 14-inch MacBook Pro with M6 has a 12-core CPU and a 12-core GPU.",
+  "verdict": "supported",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_7400976f4da9fd0e"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_7400976f4da9fd0e",
+      "quote": "a powerful 12-core CPU, advanced 12-core GPU"
+    }
+  ],
+  "reason": "The official October 27 Apple release specifies both core counts for the new 14-inch MacBook Pro with M6, matching the spoken claim in the CNET clip.",
+  "explanation": "The official October 27 Apple release specifies both core counts for the new 14-inch MacBook Pro with M6, matching the spoken claim in the CNET clip.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "ASR states 12 CPU cores and 12 GPU cores; inspected a sampled frame consistent with the CNET technology report.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "Primary manufacturer specification is directly authoritative for core counts. No performance claims or future touchscreen announcement are assessed.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.690209+00:00",
+  "reviewed_packet_sha256": "306fa5f75c77b5602a986c5ced15a70dc5652dee07f8f5343ef22c540ab00143",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

@@ -1,0 +1,1053 @@
+{
+  "case": {
+    "case_id": "news10_azov",
+    "group_id": "twitter_2116459892357689692",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "Russian forces suffered 5,017 irrecoverable personnel losses in the 1st Azov Corps area of responsibility in October 2026.",
+    "evidence": [
+      {
+        "id": "p_27fdae778ac312d8",
+        "source_id": "e_8b0ede7e58a864c5",
+        "url": "https://censor.net/en/news/4031340/the-1st-corps-of-the-national-guard-of-ukraine-s-azov-unit-neutralised-over-6-800-occupiers",
+        "retrieved_date": "2026-11-02",
+        "text": "This was reported by Censor.NET, citing the unit’s press office.\n5,017 killed, 1,820 wounded and 6 captured.",
+        "sha256": "d3056ba210f3e5968ae2c65ca5430ae8e7b1a7245bdfaee8270c09983bca34c7"
+      },
+      {
+        "id": "p_2c6c06fca8fece5b",
+        "source_id": "e_68b92172a0eb04c9",
+        "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+        "retrieved_date": "2026-11-02",
+        "text": "ed record losses on the enemy and recaptured more territory than the Russian occupiers were able to seize. \"We thank all our defenders, all our soldiers, every brigade and every unit for this result, which is so important for our country. Russia is losing,\" Zelensky said. The General Staff said the high rate matters because it \"exceeds the enemy's ability to replenish its units. Every month of the war is costing the Russian army more and more.\" The National Guard's 1st Azov Corps said a significant share of Moscow's losses stemmed from Russia's offensive in the direction of the city of Dobropillia , in Donetsk Oblast. A Month of Record Losses for Russian Occupiers In October, Russian forces suffered their highest personnel losses since 2022. A significant portion of these losses occurred w",
+        "sha256": "e02581559c4751dd9af7ffc488a9c23ff8a5608c12ad5ee4f5cf9c2440ae02e2"
+      },
+      {
+        "id": "p_908138860bf96054",
+        "source_id": "e_68b92172a0eb04c9",
+        "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+        "retrieved_date": "2026-11-02",
+        "text": " offensive in the direction of the city of Dobropillia , in Donetsk Oblast. A Month of Record Losses for Russian Occupiers In October, Russian forces suffered their highest personnel losses since 2022. A significant portion of these losses occurred within the area of responsibility of the 1st Corps of the National Guard of Ukraine “Azov”, one of the key… pic.twitter.com/6bvn4NqUEU — First Corps Azov of the National Guard of Ukraine (@azov_media) October 31, 2026 The Corps estimates it has killed, wounded, and captured over 6,800 Russian troops in \"one of the key axes of the Russian offensive.\" October was also a record month for Ukraine's Unmanned Systems Forces, its commander Robert \"Magyar\" Brovdi wrote on social media. Brovdi said that his forces hit a Russian soldier every 159 seconds ",
+        "sha256": "49a65ff2a9d242b966316c0f5cc662b44176e32ad49fabef39cd87106f09e347"
+      },
+      {
+        "id": "p_a2468af4207da30e",
+        "source_id": "e_68b92172a0eb04c9",
+        "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+        "retrieved_date": "2026-11-02",
+        "text": "ee that the Russian casualties significantly surpass Ukraine's losses, with the Center for Strategic and International Studies (CSIS) estimating the ratio to be \"roughly 2.5:1 or 2:1.\" A January 2026 CSIS report said Ukraine has likely suffered between 500,000 and 600,000 casualties from February 2022 to December 2025, of which between 100,000 and 140,000 are thought to have been killed in action. read also ‘I don’t know if negotiated peace is achievable,’ Rubio says as uncertainty hangs over Russia-Ukraine talks Russia Ukraine Ukrainian armed forces Azov Russian armed forces Russian losses",
+        "sha256": "1ae52af54afc3d1d22207f1544a06f3d69ba36b6744c4d5f972836bcbcabc546"
+      },
+      {
+        "id": "p_7b764d0e29bca040",
+        "source_id": "e_0ab7b0134e96ef2b",
+        "url": "https://freeradio.com.ua/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/",
+        "retrieved_date": "2026-11-02",
+        "text": "Ми в соціальних мережах 31 Жов, 2026 - 16:34 Євген Вакуленко Читати російською Зробити резюме статті: (ChatGPT) Підтримайте Вільне Радіо Щомісячно Одноразово Протягом жовтня 2026 року українські захисники з 1-го корпусу НГУ “АЗОВ” знищили 5017 росіян, ще 1820 дістали поранень, а 6 взяли в полон. Розповідаємо, скільки техніки російської армії знищили за цей місяць на Добропільському напрямку. Про втрати росіян розповіли в пресслужбу першого корпусу національної гвардії України “АЗОВ”. Крім російських військових, українські захисники у жовтні атакували й техніку армії загарбників. За цей місяць вдалося знищити: 5 бойових броньованих машин; 47 артилерійських систем; 2 РСЗВ; 469 одиниць автомобільної техніки; 2967 ударних і 183 розвідувальних БПЛА літакового типу; 2109 ударних та 268 розвідува",
+        "sha256": "92e8cd2317ee721eccdd3d294c12b36510ed04689859d33710d41ea2630e9820"
+      },
+      {
+        "id": "p_254771b01d400448",
+        "source_id": "e_0ab7b0134e96ef2b",
+        "url": "https://freeradio.com.ua/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/",
+        "retrieved_date": "2026-11-02",
+        "text": "кували й техніку армії загарбників. За цей місяць вдалося знищити: 5 бойових броньованих машин; 47 артилерійських систем; 2 РСЗВ; 469 одиниць автомобільної техніки; 2967 ударних і 183 розвідувальних БПЛА літакового типу; 2109 ударних та 268 розвідувальних БПЛА коптерного типу; 558 інженерно-фортифікаційних споруд і командних пунктів. Зазначимо, комунікаційники не уточнили, про який напрямок фронту йдеться. Водночас у 2026 році представники “АЗОВУ” неодноразово повідомляли , що виконують бойові завдання на Покровському напрямку. Зокрема , в районі Добропілля та Дружківки. Нагадаємо, захоплення Добропілля залишається головною стратегічною метою російської армії на Покровському напрямку фронту . Загарбники намагаються досягти цієї мети, аби посилити свої удари по українській логістиці. Предст",
+        "sha256": "900fe56c6c113b97a49f4bc8f803ee47a67c2a8383c03542dbad500655118a77"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "2116459892357689692",
+    "platform": "twitter",
+    "url": "https://x.com/azov_media/status/2116459892357689692",
+    "source_name": "First Corps Azov of the National Guard of Ukraine",
+    "source_handle": "azov_media",
+    "source_kind": "military_claimant",
+    "sampling_category": "news",
+    "discovery_route": "factcheck_original_link",
+    "key": "twitter_2116459892357689692",
+    "collected_at": "2026-11-02T22:44:06.860448+00:00",
+    "status": "downloaded",
+    "path": "data/videos/twitter_2116459892357689692.mp4",
+    "sha256": "3e704e947454eeee53474eae0021ecef6de1bdc7044f64379b1ca45363b702c5",
+    "bytes": 6332500,
+    "duration": 83.348,
+    "upload_date": "20261031",
+    "title": "First Corps Azov of the National Guard of Ukraine - A Month of Record Losses for Russian Occupiers  In October, Russian f...",
+    "license": null,
+    "language": null,
+    "language_reviewed": false,
+    "returncode": 0,
+    "channel_id": "2752052868"
+  },
+  "media": {
+    "video_sha256": "3e704e947454eeee53474eae0021ecef6de1bdc7044f64379b1ca45363b702c5",
+    "frames": [
+      {
+        "seconds": 6.95,
+        "path": "data/bulk/media/twitter_2116459892357689692/01.jpg"
+      },
+      {
+        "seconds": 20.84,
+        "path": "data/bulk/media/twitter_2116459892357689692/02.jpg"
+      },
+      {
+        "seconds": 34.73,
+        "path": "data/bulk/media/twitter_2116459892357689692/03.jpg"
+      },
+      {
+        "seconds": 48.62,
+        "path": "data/bulk/media/twitter_2116459892357689692/04.jpg"
+      },
+      {
+        "seconds": 62.51,
+        "path": "data/bulk/media/twitter_2116459892357689692/05.jpg"
+      },
+      {
+        "seconds": 76.4,
+        "path": "data/bulk/media/twitter_2116459892357689692/06.jpg"
+      },
+      {
+        "seconds": 69.0,
+        "path": "data/latest_news10/research_astra/azov_69.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " The I'm out. The End",
+      "language": "en",
+      "automatic": true,
+      "human_verified": false,
+      "model": "mlx-community/whisper-large-v3-turbo"
+    },
+    "at": "2026-11-02T22:44:34.991413+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://censor.net/en/news/4031340/the-1st-corps-of-the-national-guard-of-ukraine-s-azov-unit-neutralised-over-6-800-occupiers",
+      "resolved_url": "https://censor.net/en/news/4031340/the-1st-corps-of-the-national-guard-of-ukraine-s-azov-unit-neutralised-over-6-800-occupiers",
+      "title": "Record losses for Russian Federation: over 5,000 occupiers were eliminated in October",
+      "publisher": "censor.net",
+      "published_at": "2026-10-31",
+      "retrieved_at": "2026-11-02T22:45:25.255302+00:00",
+      "text": "This was reported by Censor.NET, citing the unit’s press office.\n5,017 killed, 1,820 wounded and 6 captured.",
+      "text_sha256": "c2aa64146182c324b88abb104d7a340b2bef4fcdfc7e0c1302f1fe0c21bb3f16",
+      "truncated": true,
+      "text_is_excerpt": true,
+      "links": [],
+      "retrieval_method": "web.run_verified_exact_excerpt",
+      "evidence_id": "e_8b0ede7e58a864c5"
+    },
+    {
+      "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+      "resolved_url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+      "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
+      "publisher": "kyivindependent.com",
+      "published_at": "2026-11-01T09:30:23.000Z",
+      "retrieved_at": "2026-11-02T22:45:01.990759+00:00",
+      "text": "War Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says November 1, 2026 11:30 am • 3 min read Prefer on Google by Chris Powers Photo for illustrative purposes: A fallen Russian soldier's belongings in Donetsk Oblast, Ukraine on Feb. 24, 2024.(Jose Colon/Anadolu via Getty Images) Russia's combat losses were greater in October 2026 than in any other month since Moscow launched its full-scale invasion of Ukraine in 2022, the General Staff of Ukraine's Armed Forces reported. According to the data from the General Staff, Russia's estimated losses reached 54,400 soldiers in October. That's 8,170 more than in the previous month. The figure includes those killed, wounded, and missing in action. \"This is a record for any month of the full-scale war,\" said President Volodymyr Zelensky on social media. Zelensky also mentioned that in October, Ukraine liberated more territory than it lost, 96.2 square kilometers (37.1 square miles) vs 85.8 square kilometers (33.1 square miles) occupied by Russia. In October, our Ukrainian Defence Forces inflicted record losses on the enemy and recaptured more territory than the Russian occupiers were able to seize. \"We thank all our defenders, all our soldiers, every brigade and every unit for this result, which is so important for our country. Russia is losing,\" Zelensky said. The General Staff said the high rate matters because it \"exceeds the enemy's ability to replenish its units. Every month of the war is costing the Russian army more and more.\" The National Guard's 1st Azov Corps said a significant share of Moscow's losses stemmed from Russia's offensive in the direction of the city of Dobropillia , in Donetsk Oblast. A Month of Record Losses for Russian Occupiers In October, Russian forces suffered their highest personnel losses since 2022. A significant portion of these losses occurred within the area of responsibility of the 1st Corps of the National Guard of Ukraine “Azov”, one of the key… pic.twitter.com/6bvn4NqUEU — First Corps Azov of the National Guard of Ukraine (@azov_media) October 31, 2026 The Corps estimates it has killed, wounded, and captured over 6,800 Russian troops in \"one of the key axes of the Russian offensive.\" October was also a record month for Ukraine's Unmanned Systems Forces, its commander Robert \"Magyar\" Brovdi wrote on social media. Brovdi said that his forces hit a Russian soldier every 159 seconds in October, averaging 542 casualties daily. The more Russia racks up combat losses, the greater the need for Moscow to increase its own mobilization efforts. President Volodymyr Zelensky warned in August that Russia plans to mobilize around 300,000 people after its September election is out of the way. So far, Moscow announced plans to conscript an additional 120,000 people on Oct. 2. \"Ukrainian Defense Forces will continue to inflict losses on the occupiers until the complete cessation of Russia's armed aggression against Ukraine,\" said the General Staff. According to the General Staff, Russia has lost 1,590,270 troops in Ukraine since the beginning of its full-scale invasion of Ukraine. The General Staff has not revealed its own losses during the full-scale invasion, citing operational secrecy. Independent Western think-tank reports agree that the Russian casualties significantly surpass Ukraine's losses, with the Center for Strategic and International Studies (CSIS) estimating the ratio to be \"roughly 2.5:1 or 2:1.\" A January 2026 CSIS report said Ukraine has likely suffered between 500,000 and 600,000 casualties from February 2022 to December 2025, of which between 100,000 and 140,000 are thought to have been killed in action. read also ‘I don’t know if negotiated peace is achievable,’ Rubio says as uncertainty hangs over Russia-Ukraine talks Russia Ukraine Ukrainian armed forces Azov Russian armed forces Russian losses",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Sign up for our Newsletters →",
+          "url": "https://kyivindependent.com/newsletters/"
+        },
+        {
+          "text": "About",
+          "url": "https://kyivindependent.com/about/"
+        },
+        {
+          "text": "Team",
+          "url": "https://kyivindependent.com/team/"
+        },
+        {
+          "text": "Jobs",
+          "url": "https://kyivindependent.com/jobs/"
+        },
+        {
+          "text": "Advertising",
+          "url": "https://kyivindependent.com/commercial-services/"
+        },
+        {
+          "text": "Store",
+          "url": "https://store.kyivindependent.com/?utm_source=header-button&utm_medium=main-site&utm_campaign=homepage"
+        },
+        {
+          "text": "War",
+          "url": "https://kyivindependent.com/tag/war/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://kyivindependent.com/tag/politics/"
+        },
+        {
+          "text": "Business",
+          "url": "https://kyivindependent.com/tag/business/"
+        },
+        {
+          "text": "Russia",
+          "url": "https://kyivindependent.com/tag/russia/"
+        },
+        {
+          "text": "Europe",
+          "url": "https://kyivindependent.com/tag/europe/"
+        },
+        {
+          "text": "Opinion",
+          "url": "https://kyivindependent.com/tag/opinion/"
+        },
+        {
+          "text": "Video",
+          "url": "https://kyivindependent.com/video/"
+        },
+        {
+          "text": "Culture",
+          "url": "https://kyivindependent.com/tag/culture/"
+        },
+        {
+          "text": "Investigations",
+          "url": "https://kyivindependent.com/tag/investigations/"
+        },
+        {
+          "text": "War Crimes",
+          "url": "https://kyivindependent.com/war-crimes/"
+        },
+        {
+          "text": "Explaining Ukraine",
+          "url": "https://kyivindependent.com/tag/explaining-ukraine/"
+        },
+        {
+          "text": "War",
+          "url": "https://kyivindependent.com/tag/war/"
+        },
+        {
+          "text": "Prefer on Google",
+          "url": "https://www.google.com/preferences/source?q=kyivindependent.com"
+        },
+        {
+          "text": "Chris Powers",
+          "url": "https://kyivindependent.com/author/chris-powers/"
+        },
+        {
+          "text": "said",
+          "url": "https://t.me/V_Zelenskiy_official/21596"
+        },
+        {
+          "text": "said",
+          "url": "https://x.com/azov_media/status/2116459892357689692?s=20"
+        },
+        {
+          "text": "Dobropillia",
+          "url": "https://kyivindependent.com/analysis-ukraine-russia-set-stage-for-climax-of-battle-of-donbas/"
+        },
+        {
+          "text": "pic.twitter.com/6bvn4NqUEU",
+          "url": "https://t.co/6bvn4NqUEU"
+        },
+        {
+          "text": "October 31, 2026",
+          "url": "https://x.com/azov_media/status/2116459892357689692?ref_src=twsrc%5Etfw"
+        },
+        {
+          "text": "wrote",
+          "url": "https://t.me/robert_magyar/2947"
+        },
+        {
+          "text": "warned",
+          "url": "https://kyivindependent.com/russia-planning-peripheral-mobilization-of-300-000-men-after-elections-zelensky-says/"
+        },
+        {
+          "text": "announced",
+          "url": "https://kyivindependent.com/russia-to-conscript-120-000-men-again-promises-they-wont-be-sent-to-fight-in-ukraine/"
+        },
+        {
+          "text": "1,590,270 troops",
+          "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-590-270-troops-in-ukraine-since-feb-24-2022/"
+        },
+        {
+          "text": "report",
+          "url": "https://www.csis.org/analysis/russias-grinding-war-ukraine"
+        },
+        {
+          "text": "‘I don’t know if negotiated peace is achievable,’ Rubio says as uncertainty hangs over Russia-Ukraine talks",
+          "url": "https://kyivindependent.com/i-dont-know-if-negotiated-peace-is-achievable-rubio-says-as-uncertainty-hangs-over-russia-ukraine-talks/"
+        },
+        {
+          "text": "Russia",
+          "url": "https://kyivindependent.com/tag/russia/"
+        },
+        {
+          "text": "Ukraine",
+          "url": "https://kyivindependent.com/tag/ukraine/"
+        },
+        {
+          "text": "Ukrainian armed forces",
+          "url": "https://kyivindependent.com/tag/ukrainian-armed-forces/"
+        },
+        {
+          "text": "Azov",
+          "url": "https://kyivindependent.com/tag/azov/"
+        },
+        {
+          "text": "Russian armed forces",
+          "url": "https://kyivindependent.com/tag/russian-armed-forces/"
+        },
+        {
+          "text": "Russian losses",
+          "url": "https://kyivindependent.com/tag/russian-losses/"
+        },
+        {
+          "text": "Facebook",
+          "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkyivindependent.com%2Frussia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says%2F"
+        },
+        {
+          "text": "Linkedin",
+          "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fkyivindependent.com%2Frussia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says%2F"
+        },
+        {
+          "text": "X",
+          "url": "https://twitter.com/share?text=Russia%20suffers%20record%20troop%20losses%20in%20October%2C%20its%20worst%20month%20since%20full-scale%20invasion%2C%20Ukraine%20says&url=https%3A%2F%2Fkyivindependent.com%2Frussia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says%2F"
+        },
+        {
+          "text": "Email",
+          "url": "mailto:?subject=Russia%20suffers%20record%20troop%20losses%20in%20October%2C%20its%20worst%20month%20since%20full-scale%20invasion%2C%20Ukraine%20says&body=https%3A%2F%2Fkyivindependent.com%2Frussia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says%2F"
+        },
+        {
+          "text": "Chris Powers",
+          "url": "https://kyivindependent.com/author/chris-powers/"
+        },
+        {
+          "text": "'I don't know if negotiated peace is achievable,' Rubio says as uncertainty hangs over Russia-Ukraine talks",
+          "url": "https://kyivindependent.com/i-dont-know-if-negotiated-peace-is-achievable-rubio-says-as-uncertainty-hangs-over-russia-ukraine-talks/"
+        },
+        {
+          "text": "Seven Russian tankers shipping diesel to US identified, located",
+          "url": "https://kyivindependent.com/seven-russian-tankers-shipping-diesel-to-us-identified-located-media-reports/"
+        },
+        {
+          "text": "Slovakia reopens criminal case over donation of fighter jets, air defense systems to Ukraine",
+          "url": "https://kyivindependent.com/slovakia-reopens-criminal-case-over-fighter-jet-air-defense-systems-donation-to-ukraine/"
+        },
+        {
+          "text": "US approves $2.1 billion Patriot missile sale to Ukraine as Zelensky warns of years-long wait for deliveries",
+          "url": "https://kyivindependent.com/us-approves-2-1-billion-patriot-missile-sale-to-ukraine-as-nato-commander-dismisses-delivery-concerns/"
+        },
+        {
+          "text": "Lavrov denies Kyiv Independent reporting on Russian push for Putin-Zelensky phone call",
+          "url": "https://kyivindependent.com/lavrov-denies-kyiv-independent-reporting-on-russian-push-for-putin-zelensky-phone-call/"
+        },
+        {
+          "text": "News Feed",
+          "url": "https://kyivindependent.com/news-archive/"
+        },
+        {
+          "text": "Some Oleshky residents remain seeking evacuation, others still on the road to Ukraine, Lubinets says.",
+          "url": "https://kyivindependent.com/some-oleshky-residents-remain-seeking-evacuation-others-still-on-the-road-to-ukraine-lubinets-says/"
+        },
+        {
+          "text": "Ukraine war latest: Russian bomb strikes kill 24 at humanitarian aid center in Zaporizhzhia Oblast",
+          "url": "https://kyivindependent.com/ukraine-war-latest-russian-bomb-strikes-kill-24-at-humanitarian-aid-center-in-zaporizhzhia-oblast/"
+        },
+        {
+          "text": "Protesters, National Guard hold tense standoff over detainment of service members, draftees.",
+          "url": "https://kyivindependent.com/confrontation-involving-national-guard-soldiers-unfolds-near-kyiv-police-deny-hostage-reports/"
+        },
+        {
+          "text": "'Exceptionally horrific strike' — Russian bombs hit school used as humanitarian aid center in Zaporizhzhia Oblast, killing 26.",
+          "url": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/"
+        },
+        {
+          "text": "Kremlin rules out further humanitarian operations like Oleshky evacuation for now.",
+          "url": "https://kyivindependent.com/kremlin-rules-out-further-humanitarian-operations-like-oleshky-evacuation-for-now/"
+        },
+        {
+          "text": "Russian Defense Ministry to propose delaying troop salary payments, media reports.",
+          "url": "https://kyivindependent.com/russian-defense-ministry-to-delay-troop-salary-payments-verstka-reports/"
+        },
+        {
+          "text": "Ukrainian journalists urge global media not to look away from Russian aggression.",
+          "url": "https://kyivindependent.com/ukrainian-journalists-urge-global-media-not-to-look-away-from-russian-aggression/"
+        },
+        {
+          "text": "Air raid alerts shut Ukrainian malls for record one-third of opening hours in October.",
+          "url": "https://kyivindependent.com/air-raid-alerts-shut-ukrainian-malls-for-record-one-third-of-opening-hours-in-october/"
+        },
+        {
+          "text": "Opinion",
+          "url": "https://kyivindependent.com/tag/opinion"
+        },
+        {
+          "text": "How did Vienna become safe haven for oligarchs and fugitives?",
+          "url": "https://kyivindependent.com/how-did-vienna-become-safe-haven-for-oligarchs-and-fugitives/"
+        },
+        {
+          "text": "Russia adapts decoy drone for one-way attacks at ranges of up to 1,200 kilometers, HUR says.",
+          "url": "https://kyivindependent.com/russia-adapts-decoy-drone-for-one-way-attacks-at-ranges-of-up-to-1-200-kilometers-hur-says/"
+        },
+        {
+          "text": "Russian attacks kill 2, injure over 30 across Ukraine over past day as 10 regions face power outages.",
+          "url": "https://kyivindependent.com/russian-attacks-kill-2-injure-over-30-across-ukraine-over-past-day-as-10-regions-face-power-outages/"
+        },
+        {
+          "text": "UK intercepts Russian spy ship monitoring NATO military exercises.",
+          "url": "https://kyivindependent.com/uk-intercepts-russian-spy-ship-monitoring-nato-military-exercises/"
+        },
+        {
+          "text": "Russia exploits ceasefire to mask military movements, General Staff says.",
+          "url": "https://kyivindependent.com/russia-exploits-ceasefire-to-mask-military-movements-general-staff-says/"
+        },
+        {
+          "text": "Ukraine's air raid alert system hacked, Russian system targeted hours later.",
+          "url": "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/"
+        },
+        {
+          "text": "Russian gas",
+          "url": "https://kyivindependent.com/tag/russian-gas"
+        },
+        {
+          "text": "Ukraine, EU split over US-backed plan to bring Russian gas back to Europe",
+          "url": "https://kyivindependent.com/ukraine-eu-split-over-us-backed-plan-to-bring-russian-gas-back-to-europe/"
+        },
+        {
+          "text": "Show More",
+          "url": "https://kyivindependent.com/news-archive/#ukraine-eu-split-over-us-backed-plan-to-bring-russian-gas-back-to-europe"
+        },
+        {
+          "text": "Some Oleshky residents remain seeking evacuation, others still on the road to Ukraine, Lubinets says",
+          "url": "https://kyivindependent.com/some-oleshky-residents-remain-seeking-evacuation-others-still-on-the-road-to-ukraine-lubinets-says/"
+        },
+        {
+          "text": "Ukraine war latest: Russian bomb strikes kill 24 at humanitarian aid center in Zaporizhzhia Oblast",
+          "url": "https://kyivindependent.com/ukraine-war-latest-russian-bomb-strikes-kill-24-at-humanitarian-aid-center-in-zaporizhzhia-oblast/"
+        },
+        {
+          "text": "Protesters, National Guard hold tense standoff over detainment of service members, draftees",
+          "url": "https://kyivindependent.com/confrontation-involving-national-guard-soldiers-unfolds-near-kyiv-police-deny-hostage-reports/"
+        },
+        {
+          "text": "'Exceptionally horrific strike' — Russian bombs hit school used as humanitarian aid center in Zaporizhzhia Oblast, killing 26",
+          "url": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/"
+        },
+        {
+          "text": "What the US midterms could mean for Ukraine",
+          "url": "https://kyivindependent.com/what-the-us-midterms-could-mean-for-ukraine/"
+        },
+        {
+          "text": "'It's a miracle' — Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+          "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/"
+        },
+        {
+          "text": "Why did Russia agree to the Oleshky ceasefire?",
+          "url": "https://kyivindependent.com/they-know-exactly-what-theyre-doing-what-russia-gains-from-a-ceasefire-in-oleshky/"
+        },
+        {
+          "text": "Reporter's notebook: Visiting a POW camp is the strongest antidote to sympathy for Russian soldiers",
+          "url": "https://kyivindependent.com/reporters-notebook-visiting-a-pow-camp-is-the-best-possible-antidote-to-sympathy-for-russian-soldiers/"
+        },
+        {
+          "text": "Support us on Gofund.me",
+          "url": "https://www.gofundme.com/f/kyivindependent-launch"
+        },
+        {
+          "text": "Support us on Patreon",
+          "url": "https://www.patreon.com/kyivindependent"
+        },
+        {
+          "text": "Buy Our Merch",
+          "url": "https://store.kyivindependent.com/?utm_source=store-homepage&utm_medium=homepage&utm_content=footer_cta_1"
+        },
+        {
+          "text": "News Feed",
+          "url": "https://kyivindependent.com/news-archive/"
+        },
+        {
+          "text": "Newsletters",
+          "url": "https://kyivindependent.com/newsletters/"
+        },
+        {
+          "text": "War",
+          "url": "https://kyivindependent.com/tag/war/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://kyivindependent.com/tag/politics/"
+        },
+        {
+          "text": "Business",
+          "url": "https://kyivindependent.com/tag/business/"
+        },
+        {
+          "text": "Russia",
+          "url": "https://kyivindependent.com/tag/russia/"
+        },
+        {
+          "text": "Europe",
+          "url": "https://kyivindependent.com/tag/europe/"
+        },
+        {
+          "text": "Opinion",
+          "url": "https://kyivindependent.com/tag/opinion/"
+        },
+        {
+          "text": "Video",
+          "url": "https://kyivindependent.com/video/"
+        },
+        {
+          "text": "Culture",
+          "url": "https://kyivindependent.com/tag/culture/"
+        },
+        {
+          "text": "Investigations",
+          "url": "https://kyivindependent.com/tag/investigations/"
+        },
+        {
+          "text": "War Crimes",
+          "url": "https://kyivindependent.com/war-crimes/"
+        },
+        {
+          "text": "Explaining Ukraine",
+          "url": "https://kyivindependent.com/tag/explaining-ukraine/"
+        },
+        {
+          "text": "War Analysis",
+          "url": "https://kyivindependent.com/tag/war-analysis/"
+        },
+        {
+          "text": "Photos",
+          "url": "https://kyivindependent.com/tag/photos/"
+        },
+        {
+          "text": "Field Report",
+          "url": "https://kyivindependent.com/tag/field-report/"
+        },
+        {
+          "text": "Interview",
+          "url": "https://kyivindependent.com/tag/interview/"
+        },
+        {
+          "text": "Human Story",
+          "url": "https://kyivindependent.com/tag/human-story/"
+        },
+        {
+          "text": "Company News",
+          "url": "https://kyivindependent.com/tag/company-news/"
+        },
+        {
+          "text": "About",
+          "url": "https://kyivindependent.com/about/"
+        },
+        {
+          "text": "Contacts",
+          "url": "https://kyivindependent.com/contacts/"
+        },
+        {
+          "text": "Team",
+          "url": "https://kyivindependent.com/team/"
+        },
+        {
+          "text": "Jobs",
+          "url": "https://kyivindependent.com/jobs/"
+        },
+        {
+          "text": "Join the team",
+          "url": "https://kyivindependent.com/join-the-team/"
+        },
+        {
+          "text": "Advertising",
+          "url": "https://kyivindependent.com/commercial-services/"
+        },
+        {
+          "text": "Submit an Opinion",
+          "url": "https://kyivindependent.com/writing-op-ed-for-kyiv-independent/"
+        },
+        {
+          "text": "Content Licensing",
+          "url": "https://kyivindependent.com/assets/files/Syndication_and_Content_Licensing_from_The_Kyiv_Independent.pdf"
+        },
+        {
+          "text": "J-School",
+          "url": "https://kyivindependent.com/j-school-2-0/"
+        },
+        {
+          "text": "Store",
+          "url": "https://store.kyivindependent.com/?utm_source=store-homepage&utm_medium=homepage&utm_content=footer_cta_2"
+        },
+        {
+          "text": "Help Center",
+          "url": "https://kyivindependent.com/help-center/"
+        },
+        {
+          "text": "Cookie Policy",
+          "url": "https://kyivindependent.com/cookie-policy/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://kyivindependent.com/privacy-policy/"
+        },
+        {
+          "text": "Comments policy",
+          "url": "https://kyivindependent.com/the-kyiv-independents-commenting-guidelines/"
+        },
+        {
+          "text": "Community Policy",
+          "url": "https://kyivindependent.com/community-policy/"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "960462739713a2d404501f4f050e46216e0c4fd020857c83340595ffabf48c1b",
+      "text_sha256": "81c1c1a0e40f5660511b868f575240620c0b75789f21d1f5c698ed79912c7b74",
+      "evidence_id": "e_68b92172a0eb04c9"
+    },
+    {
+      "url": "https://freeradio.com.ua/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/",
+      "resolved_url": "https://freeradio.com.ua/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/",
+      "title": "Бійці “АЗОВУ” за жовтень 2026 року вбили на Добропільському напрямку понад 5 тисяч росіян, ще майже 2 тисячі дістали поранень",
+      "publisher": "freeradio.com.ua",
+      "published_at": "2026-10-31T14:34:54+00:00",
+      "retrieved_at": "2026-11-02T22:45:02.484747+00:00",
+      "text": "Ми в соціальних мережах 31 Жов, 2026 - 16:34 Євген Вакуленко Читати російською Зробити резюме статті: (ChatGPT) Підтримайте Вільне Радіо Щомісячно Одноразово Протягом жовтня 2026 року українські захисники з 1-го корпусу НГУ “АЗОВ” знищили 5017 росіян, ще 1820 дістали поранень, а 6 взяли в полон. Розповідаємо, скільки техніки російської армії знищили за цей місяць на Добропільському напрямку. Про втрати росіян розповіли в пресслужбу першого корпусу національної гвардії України “АЗОВ”. Крім російських військових, українські захисники у жовтні атакували й техніку армії загарбників. За цей місяць вдалося знищити: 5 бойових броньованих машин; 47 артилерійських систем; 2 РСЗВ; 469 одиниць автомобільної техніки; 2967 ударних і 183 розвідувальних БПЛА літакового типу; 2109 ударних та 268 розвідувальних БПЛА коптерного типу; 558 інженерно-фортифікаційних споруд і командних пунктів. Зазначимо, комунікаційники не уточнили, про який напрямок фронту йдеться. Водночас у 2026 році представники “АЗОВУ” неодноразово повідомляли , що виконують бойові завдання на Покровському напрямку. Зокрема , в районі Добропілля та Дружківки. Нагадаємо, захоплення Добропілля залишається головною стратегічною метою російської армії на Покровському напрямку фронту . Загарбники намагаються досягти цієї мети, аби посилити свої удари по українській логістиці. Представники ЗСУ запевняють, що в адміністративних межах Добропілля немає сталих або замаскованих позицій росіян. Додати Вільне Радіо як бажане джерело в Google Поділитися у соцмережах Теги: Новини Добропільської громади Завантажити ще...",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Підтримати",
+          "url": "https://freeradio.com.ua/community/"
+        },
+        {
+          "text": "Головна",
+          "url": "https://freeradio.com.ua/"
+        },
+        {
+          "text": "Новини",
+          "url": "https://freeradio.com.ua/category/news/"
+        },
+        {
+          "text": "Статті",
+          "url": "https://freeradio.com.ua/category/statti/"
+        },
+        {
+          "text": "Окупація",
+          "url": "https://freeradio.com.ua/okupatsiia/"
+        },
+        {
+          "text": "Про нас",
+          "url": "https://freeradio.com.ua/about_us/"
+        },
+        {
+          "text": "Війна",
+          "url": "https://freeradio.com.ua/war/"
+        },
+        {
+          "text": "Гроші",
+          "url": "https://freeradio.com.ua/ekonomika/"
+        },
+        {
+          "text": "Освіта",
+          "url": "https://freeradio.com.ua/osvita/"
+        },
+        {
+          "text": "Інструкції",
+          "url": "https://freeradio.com.ua/category/programs/instruktsii/"
+        },
+        {
+          "text": "Медицина",
+          "url": "https://freeradio.com.ua/medytsyna/"
+        },
+        {
+          "text": "ЖКГ",
+          "url": "https://freeradio.com.ua/zhkg/"
+        },
+        {
+          "text": "Історія",
+          "url": "https://freeradio.com.ua/istoriia/"
+        },
+        {
+          "text": "Культура",
+          "url": "https://freeradio.com.ua/kultura/"
+        },
+        {
+          "text": "Інтерв’ю",
+          "url": "https://freeradio.com.ua/category/programs/intervju/"
+        },
+        {
+          "text": "Досьє",
+          "url": "https://freeradio.com.ua/category/dosie/"
+        },
+        {
+          "text": "Репортажі",
+          "url": "https://freeradio.com.ua/category/programs/reportazh/"
+        },
+        {
+          "text": "Блог",
+          "url": "https://freeradio.com.ua/category/blog/"
+        },
+        {
+          "text": "Проєкти",
+          "url": "https://freeradio.com.ua/proekti/"
+        },
+        {
+          "text": "Команда",
+          "url": "https://freeradio.com.ua/team/"
+        },
+        {
+          "text": "Реклама",
+          "url": "https://freeradio.com.ua/mediakit/"
+        },
+        {
+          "text": "Редакційна політика",
+          "url": "https://freeradio.com.ua/editor-policy/"
+        },
+        {
+          "text": "Новини",
+          "url": "https://freeradio.com.ua/category/news/"
+        },
+        {
+          "text": "Статті",
+          "url": "https://freeradio.com.ua/category/statti/"
+        },
+        {
+          "text": "Інструкції",
+          "url": "https://freeradio.com.ua/category/programs/instruktsii/"
+        },
+        {
+          "text": "Інтерв’ю",
+          "url": "https://freeradio.com.ua/category/programs/intervju/"
+        },
+        {
+          "text": "Репортажі",
+          "url": "https://freeradio.com.ua/category/programs/reportazh/"
+        },
+        {
+          "text": "Спецпроекти",
+          "url": "https://freeradio.com.ua/category/programs/specproject/"
+        },
+        {
+          "text": "Блог",
+          "url": "https://freeradio.com.ua/category/blog/"
+        },
+        {
+          "text": "Архів проєктів",
+          "url": "https://freeradio.com.ua/arkhiv-proiektiv/"
+        },
+        {
+          "text": "Про нас",
+          "url": "https://freeradio.com.ua/about_us/"
+        },
+        {
+          "text": "Команда",
+          "url": "https://freeradio.com.ua/team/"
+        },
+        {
+          "text": "Підтримати Вільне",
+          "url": "https://freeradio.com.ua/community-old/"
+        },
+        {
+          "text": "Редакційна політика",
+          "url": "https://freeradio.com.ua/editor-policy/"
+        },
+        {
+          "text": "Автори",
+          "url": "https://freeradio.com.ua/authors/"
+        },
+        {
+          "text": "Реклама",
+          "url": "https://freeradio.com.ua/mediakit/"
+        },
+        {
+          "text": "Контакти",
+          "url": "https://freeradio.com.ua/kontakty/"
+        },
+        {
+          "text": "RU",
+          "url": "https://freeradio.com.ua/ru/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/"
+        },
+        {
+          "text": "Крамничка",
+          "url": "https://ya-donechchyna.wayforpay.shop/"
+        },
+        {
+          "text": "Підтримати",
+          "url": "https://freeradio.com.ua/community/"
+        },
+        {
+          "text": "Війна",
+          "url": "https://freeradio.com.ua/war/"
+        },
+        {
+          "text": "Окупація",
+          "url": "https://freeradio.com.ua/okupatsiia/"
+        },
+        {
+          "text": "Гроші",
+          "url": "https://freeradio.com.ua/ekonomika/"
+        },
+        {
+          "text": "Освіта",
+          "url": "https://freeradio.com.ua/osvita/"
+        },
+        {
+          "text": "Медицина",
+          "url": "https://freeradio.com.ua/medytsyna/"
+        },
+        {
+          "text": "ЖКГ",
+          "url": "https://freeradio.com.ua/zhkg/"
+        },
+        {
+          "text": "Історія",
+          "url": "https://freeradio.com.ua/istoriia/"
+        },
+        {
+          "text": "Культура",
+          "url": "https://freeradio.com.ua/kultura/"
+        },
+        {
+          "text": "Досьє",
+          "url": "https://freeradio.com.ua/category/dosie/"
+        },
+        {
+          "text": "Новини",
+          "url": "https://freeradio.com.ua/category/news/"
+        },
+        {
+          "text": "Статті",
+          "url": "https://freeradio.com.ua/category/statti/"
+        },
+        {
+          "text": "Крамничка",
+          "url": "https://ya-donechchyna.wayforpay.shop/"
+        },
+        {
+          "text": "Про нас",
+          "url": "https://freeradio.com.ua/about_us/"
+        },
+        {
+          "text": "Головна",
+          "url": "https://freeradio.com.ua/"
+        },
+        {
+          "text": "Новини",
+          "url": "https://freeradio.com.ua/category/news/"
+        },
+        {
+          "text": "Євген Вакуленко",
+          "url": "https://freeradio.com.ua/author/yevgen/"
+        },
+        {
+          "text": "Читати російською",
+          "url": "https://freeradio.com.ua/ru/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/"
+        },
+        {
+          "text": "(ChatGPT)",
+          "url": "https://chatgpt.com/?q=%D0%97%D1%80%D0%BE%D0%B1%D0%B8%20%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B5%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%86%D1%96%D1%94%D1%97%20%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96%20%282-3%20%D0%B0%D0%B1%D0%B7%D0%B0%D1%86%D0%B8%29.%20%D0%92%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D1%83%D0%B9%20%D0%BB%D0%B8%D1%88%D0%B5%20%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%8E%20%D0%B7%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%20%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96.%20%D0%91%D0%B5%D0%B7%20%D0%BE%D1%86%D1%96%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D1%85%20%D1%81%D1%83%D0%B4%D0%B6%D0%B5%D0%BD%D1%8C%20%D1%96%20%D0%B1%D0%B5%D0%B7%20%D0%B4%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%B2%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D1%85%20%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BA%D1%96%D0%B2.%20%D0%9E%D1%81%D1%8C%20URL%3A%20https%3A%2F%2Ffreeradio.com.ua%2Fbiitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen%2F"
+        },
+        {
+          "text": "Щомісячно",
+          "url": "https://freeradio.com.ua/32i3"
+        },
+        {
+          "text": "Одноразово",
+          "url": "https://freeradio.com.ua/75sk"
+        },
+        {
+          "text": "розповіли",
+          "url": "https://www.facebook.com/reel/1629047945375081/"
+        },
+        {
+          "text": "повідомляли",
+          "url": "https://www.facebook.com/azov.media4308/posts/pfbid0TtV7VV3XpJackiufAX99FLSvD1Tc4uyjGckvaZpQp6M49K3mb9Hub5aoMXjFD56bl"
+        },
+        {
+          "text": "Зокрема",
+          "url": "https://www.youtube.com/watch?v=SdC5--uR-8M"
+        },
+        {
+          "text": "головною стратегічною метою російської армії на Покровському напрямку фронту",
+          "url": "https://freeradio.com.ua/rosiiski-viiskovi-prodovzhuiut-shturmy-dobropillia-odnak-dosi-ne-maiut-pozytsii-u-misti-ofitser-bryhady-liubart/"
+        },
+        {
+          "text": "Додати Вільне Радіо як бажане джерело в Google",
+          "url": "https://google.com/preferences/source?q=freeradio.com.ua"
+        },
+        {
+          "text": "Новини Добропільської громади",
+          "url": "https://freeradio.com.ua/tag/dobropilska-hromada/"
+        },
+        {
+          "text": "Новини",
+          "url": "https://freeradio.com.ua/category/news/"
+        },
+        {
+          "text": "Статті",
+          "url": "https://freeradio.com.ua/category/statti/"
+        },
+        {
+          "text": "Інструкції",
+          "url": "https://freeradio.com.ua/category/programs/instruktsii/"
+        },
+        {
+          "text": "Інтерв’ю",
+          "url": "https://freeradio.com.ua/category/programs/intervju/"
+        },
+        {
+          "text": "Репортажі",
+          "url": "https://freeradio.com.ua/category/programs/reportazh/"
+        },
+        {
+          "text": "Спецпроекти",
+          "url": "https://freeradio.com.ua/category/programs/specproject/"
+        },
+        {
+          "text": "Блог",
+          "url": "https://freeradio.com.ua/category/blog/"
+        },
+        {
+          "text": "Про нас",
+          "url": "https://freeradio.com.ua/about_us/"
+        },
+        {
+          "text": "Команда",
+          "url": "https://freeradio.com.ua/team/"
+        },
+        {
+          "text": "Підтримати Вільне",
+          "url": "https://freeradio.com.ua/community-old/"
+        },
+        {
+          "text": "Редакційна політика",
+          "url": "https://freeradio.com.ua/editor-policy/"
+        },
+        {
+          "text": "Вхід до кабінету",
+          "url": "https://freeradio.com.ua/donor-login/"
+        },
+        {
+          "text": "Підтримати",
+          "url": "https://freeradio.com.ua/community/"
+        },
+        {
+          "text": "Публічний договір",
+          "url": "https://freeradio.com.ua/publichnyi-dohovir/"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "ece3e382b0f02ab794c80d26a6e7e165f94b91bc0797882135375a46bb5ccddc",
+      "text_sha256": "3ae9a75d4edbd70d3ae2e5aa920dad66fe011ebbdbad52e643ba04bf41cf8774",
+      "evidence_id": "e_0ab7b0134e96ef2b"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_27fdae778ac312d8",
+      "source_id": "e_8b0ede7e58a864c5",
+      "url": "https://censor.net/en/news/4031340/the-1st-corps-of-the-national-guard-of-ukraine-s-azov-unit-neutralised-over-6-800-occupiers",
+      "title": "Record losses for Russian Federation: over 5,000 occupiers were eliminated in October",
+      "publisher": "censor.net",
+      "published_at": "2026-10-31",
+      "retrieved_at": "2026-11-02T22:45:25.255302+00:00",
+      "start": 0,
+      "end": 108,
+      "text": "This was reported by Censor.NET, citing the unit’s press office.\n5,017 killed, 1,820 wounded and 6 captured.",
+      "source_text_sha256": "c2aa64146182c324b88abb104d7a340b2bef4fcdfc7e0c1302f1fe0c21bb3f16",
+      "retrieval_method": "web.run_verified_exact_excerpt"
+    },
+    {
+      "passage_id": "p_2c6c06fca8fece5b",
+      "source_id": "e_68b92172a0eb04c9",
+      "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+      "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
+      "publisher": "kyivindependent.com",
+      "published_at": "2026-11-01T09:30:23.000Z",
+      "retrieved_at": "2026-11-02T22:45:01.990759+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": "ed record losses on the enemy and recaptured more territory than the Russian occupiers were able to seize. \"We thank all our defenders, all our soldiers, every brigade and every unit for this result, which is so important for our country. Russia is losing,\" Zelensky said. The General Staff said the high rate matters because it \"exceeds the enemy's ability to replenish its units. Every month of the war is costing the Russian army more and more.\" The National Guard's 1st Azov Corps said a significant share of Moscow's losses stemmed from Russia's offensive in the direction of the city of Dobropillia , in Donetsk Oblast. A Month of Record Losses for Russian Occupiers In October, Russian forces suffered their highest personnel losses since 2022. A significant portion of these losses occurred w",
+      "source_text_sha256": "81c1c1a0e40f5660511b868f575240620c0b75789f21d1f5c698ed79912c7b74",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_908138860bf96054",
+      "source_id": "e_68b92172a0eb04c9",
+      "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+      "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
+      "publisher": "kyivindependent.com",
+      "published_at": "2026-11-01T09:30:23.000Z",
+      "retrieved_at": "2026-11-02T22:45:01.990759+00:00",
+      "start": 1650,
+      "end": 2450,
+      "text": " offensive in the direction of the city of Dobropillia , in Donetsk Oblast. A Month of Record Losses for Russian Occupiers In October, Russian forces suffered their highest personnel losses since 2022. A significant portion of these losses occurred within the area of responsibility of the 1st Corps of the National Guard of Ukraine “Azov”, one of the key… pic.twitter.com/6bvn4NqUEU — First Corps Azov of the National Guard of Ukraine (@azov_media) October 31, 2026 The Corps estimates it has killed, wounded, and captured over 6,800 Russian troops in \"one of the key axes of the Russian offensive.\" October was also a record month for Ukraine's Unmanned Systems Forces, its commander Robert \"Magyar\" Brovdi wrote on social media. Brovdi said that his forces hit a Russian soldier every 159 seconds ",
+      "source_text_sha256": "81c1c1a0e40f5660511b868f575240620c0b75789f21d1f5c698ed79912c7b74",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_a2468af4207da30e",
+      "source_id": "e_68b92172a0eb04c9",
+      "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says/",
+      "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
+      "publisher": "kyivindependent.com",
+      "published_at": "2026-11-01T09:30:23.000Z",
+      "retrieved_at": "2026-11-02T22:45:01.990759+00:00",
+      "start": 3300,
+      "end": 3897,
+      "text": "ee that the Russian casualties significantly surpass Ukraine's losses, with the Center for Strategic and International Studies (CSIS) estimating the ratio to be \"roughly 2.5:1 or 2:1.\" A January 2026 CSIS report said Ukraine has likely suffered between 500,000 and 600,000 casualties from February 2022 to December 2025, of which between 100,000 and 140,000 are thought to have been killed in action. read also ‘I don’t know if negotiated peace is achievable,’ Rubio says as uncertainty hangs over Russia-Ukraine talks Russia Ukraine Ukrainian armed forces Azov Russian armed forces Russian losses",
+      "source_text_sha256": "81c1c1a0e40f5660511b868f575240620c0b75789f21d1f5c698ed79912c7b74",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_7b764d0e29bca040",
+      "source_id": "e_0ab7b0134e96ef2b",
+      "url": "https://freeradio.com.ua/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/",
+      "title": "Бійці “АЗОВУ” за жовтень 2026 року вбили на Добропільському напрямку понад 5 тисяч росіян, ще майже 2 тисячі дістали поранень",
+      "publisher": "freeradio.com.ua",
+      "published_at": "2026-10-31T14:34:54+00:00",
+      "retrieved_at": "2026-11-02T22:45:02.484747+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Ми в соціальних мережах 31 Жов, 2026 - 16:34 Євген Вакуленко Читати російською Зробити резюме статті: (ChatGPT) Підтримайте Вільне Радіо Щомісячно Одноразово Протягом жовтня 2026 року українські захисники з 1-го корпусу НГУ “АЗОВ” знищили 5017 росіян, ще 1820 дістали поранень, а 6 взяли в полон. Розповідаємо, скільки техніки російської армії знищили за цей місяць на Добропільському напрямку. Про втрати росіян розповіли в пресслужбу першого корпусу національної гвардії України “АЗОВ”. Крім російських військових, українські захисники у жовтні атакували й техніку армії загарбників. За цей місяць вдалося знищити: 5 бойових броньованих машин; 47 артилерійських систем; 2 РСЗВ; 469 одиниць автомобільної техніки; 2967 ударних і 183 розвідувальних БПЛА літакового типу; 2109 ударних та 268 розвідува",
+      "source_text_sha256": "3ae9a75d4edbd70d3ae2e5aa920dad66fe011ebbdbad52e643ba04bf41cf8774",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_254771b01d400448",
+      "source_id": "e_0ab7b0134e96ef2b",
+      "url": "https://freeradio.com.ua/biitsi-azovu-za-zhovten-vbyly-na-dobropilskomu-napriamku-ponad-5-tysiach-rosiian-shche-maizhe-2-tysiachi-distaly-poranen/",
+      "title": "Бійці “АЗОВУ” за жовтень 2026 року вбили на Добропільському напрямку понад 5 тисяч росіян, ще майже 2 тисячі дістали поранень",
+      "publisher": "freeradio.com.ua",
+      "published_at": "2026-10-31T14:34:54+00:00",
+      "retrieved_at": "2026-11-02T22:45:02.484747+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "кували й техніку армії загарбників. За цей місяць вдалося знищити: 5 бойових броньованих машин; 47 артилерійських систем; 2 РСЗВ; 469 одиниць автомобільної техніки; 2967 ударних і 183 розвідувальних БПЛА літакового типу; 2109 ударних та 268 розвідувальних БПЛА коптерного типу; 558 інженерно-фортифікаційних споруд і командних пунктів. Зазначимо, комунікаційники не уточнили, про який напрямок фронту йдеться. Водночас у 2026 році представники “АЗОВУ” неодноразово повідомляли , що виконують бойові завдання на Покровському напрямку. Зокрема , в районі Добропілля та Дружківки. Нагадаємо, захоплення Добропілля залишається головною стратегічною метою російської армії на Покровському напрямку фронту . Загарбники намагаються досягти цієї мети, аби посилити свої удари по українській логістиці. Предст",
+      "source_text_sha256": "3ae9a75d4edbd70d3ae2e5aa920dad66fe011ebbdbad52e643ba04bf41cf8774",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "conflict_unverified_statistic",
+  "claim_provenance": {
+    "original_url": "https://x.com/azov_media/status/2116459892357689692",
+    "original_post_caption": "A Month of Record Losses for Russian Occupiers  In October, Russian forces suffered their highest personnel losses since 2022. A significant portion of these losses occurred within the area of responsibility of the 1st Corps of the National Guard of Ukraine “Azov”, one of the key https://t.co/6bvn4NqUEU",
+    "caption_source": "yt-dlp public original post metadata",
+    "metadata_path": "/Users/zhuoweiz/Documents/ChatGPT/Firework Hackathon 2/data/videos/twitter_2116459892357689692.info.json",
+    "metadata_sha256": "2db00cc0907f8a446405726cdef3dacd24d0926825077f1971d72e141b593c1e",
+    "claim_scope": "Evaluate the underlying exact irrecoverable-personnel-loss count in the unit video, not merely whether the unit published it. Secondary articles interpret this as killed; that narrower translation is not assumed.",
+    "on_screen_text_review": {
+      "timestamp_seconds": 69,
+      "transcription": "ЗАГАЛЬНІ ВТРАТИ ВОРОГА в зоні відповідальності 1-го корпусу НГУ «Азов» ЗА ЖОВТЕНЬ. БЕЗПОВОРОТНІ 5 017; САНІТАРНІ 1 820; ВЗЯТО В ПОЛОН 6.",
+      "translation": "Total enemy losses in the area of responsibility of the 1st NGU Azov Corps for October. Irrecoverable: 5,017; medical: 1,820; captured: 6.",
+      "method": "in-session visual model review",
+      "human_verified": false
+    }
+  },
+  "retrieved_at": "2026-11-02T22:45:25.493285+00:00",
+  "label": null,
+  "human_verified": false,
+  "claim_revisions": [
+    {
+      "previous_claim_text": "Russian forces suffered 5,017 personnel killed in the 1st Azov Corps area of responsibility in October 2026.",
+      "new_claim_text": "Russian forces suffered 5,017 irrecoverable personnel losses in the 1st Azov Corps area of responsibility in October 2026.",
+      "reason": "Visual inspection at 69 seconds shows the Ukrainian category безповоротні (irrecoverable), while secondary reporting paraphrases it as killed. Preserve the video wording rather than silently narrow its meaning.",
+      "reviewer": "gpt-6-astra",
+      "at": "2026-11-02T22:47:36.689500+00:00"
+    }
+  ]
+}

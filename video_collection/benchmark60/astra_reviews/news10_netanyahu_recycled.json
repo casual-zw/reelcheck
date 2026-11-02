@@ -1,0 +1,40 @@
+{
+  "case_id": "news10_netanyahu_recycled",
+  "claim_text": "This video shows an attack on Benjamin Netanyahu in Tel Aviv on October 28, 2026.",
+  "verdict": "contradicted",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_cf7921c5a3005646",
+    "p_4afabcb0144545fb"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_cf7921c5a3005646",
+      "quote": "It was Ahmed Dogan attacked in Bulgaria."
+    },
+    {
+      "passage_id": "p_4afabcb0144545fb",
+      "quote": "The incident happened on Saturday at a party congress in the capital Sofia."
+    }
+  ],
+  "reason": "The investigation links this exact October28 X clip to the 2013 attack on Ahmed Dogan. Contemporary BBC reporting identifies the Bulgarian event, contradicting the caption’s Netanyahu/Tel Aviv/2026 identification.",
+  "explanation": "The investigation links this exact October28 X clip to the 2013 attack on Ahmed Dogan. Contemporary BBC reporting identifies the Bulgarian event, contradicting the caption’s Netanyahu/Tel Aviv/2026 identification.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Inspected opening podium frame with Cyrillic party initials; original X caption supplies the Netanyahu claim. The claim is video-plus-caption, not spoken audio.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "Lead Stories supplies the exact-video match; retrieved contemporary BBC reporting provides independent event provenance. The sampled frame shows the Bulgarian party podium, consistent with that identification. Lack of other news reports is not the basis for contradiction.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.695219+00:00",
+  "reviewed_packet_sha256": "dfb048170665e48845e2fa2959382850a3aa0ce94f6f1d0b0750187010f981f6",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

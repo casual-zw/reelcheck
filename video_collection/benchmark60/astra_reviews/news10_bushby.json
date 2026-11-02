@@ -1,0 +1,39 @@
+{
+  "case_id": "news10_bushby",
+  "claim_text": "Karl Bushby returned home to Hull on 2 November 2026 after a 28-year journey around the world.",
+  "verdict": "supported",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_6377b5f019ba9824"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_6377b5f019ba9824",
+      "quote": "Mon, 02 Nov, 2026"
+    },
+    {
+      "passage_id": "p_6377b5f019ba9824",
+      "quote": "as he arrived in his home town of Hull in England on the last day of his 28-year walk"
+    }
+  ],
+  "reason": "The dated PA report describes Bushby actually arriving in Hull on November 2 after the 28-year journey; this is an arrival report, not an earlier plan. Video title and speech refer to the same homecoming.",
+  "explanation": "The dated PA report describes Bushby actually arriving in Hull on November 2 after the 28-year journey; this is an arrival report, not an earlier plan. Video title and speech refer to the same homecoming.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "Original Reuters title says return home after 28 years; ASR says back now and 28 years later; inspected arrival crowd frame.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "Irish Examiner carries PA reporting with a named reporter and arrival photographs. It provides external corroboration of the Reuters clip. Around the world is the broad journey description, not a claim of every leg being walked.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.691045+00:00",
+  "reviewed_packet_sha256": "cf58a1b7832f2806feaaee1c61c9278f28b34893dce9ae24d70d3ad0f804faff",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

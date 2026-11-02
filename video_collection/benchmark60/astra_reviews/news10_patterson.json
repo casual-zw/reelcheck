@@ -1,0 +1,40 @@
+{
+  "case_id": "news10_patterson",
+  "claim_text": "Victoria’s Court of Appeal dismissed Erin Patterson’s conviction appeal and removed her 33-year non-parole period in October 2026.",
+  "verdict": "supported",
+  "uncertainty_reason": null,
+  "passage_ids": [
+    "p_24709dcc1f1228d6",
+    "p_ebbf22ce52d51481"
+  ],
+  "citations": [
+    {
+      "passage_id": "p_24709dcc1f1228d6",
+      "quote": "dismissed all grounds of her appeal"
+    },
+    {
+      "passage_id": "p_ebbf22ce52d51481",
+      "quote": "decided to remove the non-parole period altogether"
+    }
+  ],
+  "reason": "ABC’s October 30 judgment report explicitly states both dismissal of the conviction appeal and removal of the non-parole period, matching the BBC explainer. The court page confirms the judgment date and separate conviction and prosecution sentence appeals.",
+  "explanation": "ABC’s October 30 judgment report explicitly states both dismissal of the conviction appeal and removal of the non-parole period, matching the BBC explainer. The court page confirms the judgment date and separate conviction and prosecution sentence appeals.",
+  "claim_grounded_in_video": true,
+  "claim_grounding_notes": "ASR states the conviction stands and judges rejected parole after 33 years; inspected relevant captioned explainer frame.",
+  "date_scope_valid": true,
+  "date_scope_notes": "Original post uploaded within October26–November2, 2026; claim evaluated as of November2. Older evidence is used only to establish prior footage provenance or background, not to assert a current event.",
+  "source_quality_notes": "Official court announcement supplies procedural context; ABC supplies the actual outcomes. No prediction that all future legal challenges must fail is evaluated.",
+  "status": "AI_draft_pending_human_review",
+  "human_verified": false,
+  "model": "gpt-6-astra",
+  "reviewed_at": "2026-11-02T22:47:36.693458+00:00",
+  "reviewed_packet_sha256": "59fe55cb47ff6dbc5e1fb15be7d8192bc9f2cfd437c6b07eac1605809aa53199",
+  "review_provenance": {
+    "method": "in_session_agent_review",
+    "agent_task": "/root/astra_news_review",
+    "external_inference_api_called": false,
+    "api_receipt": null,
+    "inputs": "Downloaded original metadata, local ASR, sampled frames (plus Azov69s), retrieved external evidence fulltext and exact passages.",
+    "label_basis": "Fixed retrieved evidence evaluated by this agent; desired class balance was not used as evidence."
+  }
+}

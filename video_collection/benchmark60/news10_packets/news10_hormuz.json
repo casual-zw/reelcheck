@@ -1,0 +1,1339 @@
+{
+  "case": {
+    "case_id": "news10_hormuz",
+    "group_id": "twitter_2115734022051541108",
+    "split": "development_recent_news",
+    "as_of": "2026-11-02",
+    "claim_text": "Three oil tankers struck sea mines and caught fire on the southern Strait of Hormuz route in the 24 hours before October 29, 2026.",
+    "evidence": [
+      {
+        "id": "p_fd696e16881d1143",
+        "source_id": "e_203e9ae68bc9ee2c",
+        "url": "https://www.ukmto.org/-/media/ukmto/products/20261029-ukmto_warning-185-26.pdf",
+        "retrieved_date": "2026-11-02",
+        "text": "UKMTO WARNING 185-26 - SUSPICIOUS ACTIVITY. Incident Date: 29 OCT 2026. Incident Time: 0300UTC. Source: Third Party. UKMTO has received a report of an incident occurring in the Strait of Hormuz, 9NM north of Khasab, Oman. The Master of a third-party vessel has reported sighting another vessel on fire. Status of crew is unknown. There is no damage assessment or environmental impact report at present. Vessels are advised to transit with caution and report any suspicious activity to UKMTO, whilst authorities investigate.",
+        "sha256": "1bf3dcd795ab034d1fc1ece9ac1dbbddad9799450366385a257e322a402ff882"
+      },
+      {
+        "id": "p_6ae172667ae89591",
+        "source_id": "e_5897d435253e58a5",
+        "url": "https://safety4sea.com/ukmto-reports-vessel-fire-in-strait-of-hormuz-as-us-enforces-blockade-of-iranian-ports/",
+        "retrieved_date": "2026-11-02",
+        "text": "The claims have not been independently verified.",
+        "sha256": "dca8c163fef79bf0c6665d85555d3240aa634b8c0b4b911082b4df126e90e13c"
+      },
+      {
+        "id": "p_fed0f0698bd9762d",
+        "source_id": "e_96c76a04f35b26f1",
+        "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+        "retrieved_date": "2026-11-02",
+        "text": "Nov 1, 2026 7 min read Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz What’s inside? At a Glance Since October 29, Iran has attacked at least four tankers in and around the Strait of Hormuz . One attack used explosive devices fixed to a tanker’s hull by a small boat, the first use of limpet mines in the Gulf region since at least 2019. Three of the four tankers had been operating dark, and at least two are assessed as part of the “STS shuttle” moving Gulf cargoes through the Strait. Iranian sources claimed four tankers hit mines in the Strait and caught fire, though it is unclear whether that refers to vessels beyond the four confirmed. Transits have not slowed, with about 24 AIS -visible transits between October 30 and the morning of November 1, com",
+        "sha256": "0412e20a33d2e30dea52ece30959f57a81ee6e68d9b6e311d840dd9a99b25416"
+      },
+      {
+        "id": "p_a038125a397873dd",
+        "source_id": "e_96c76a04f35b26f1",
+        "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+        "retrieved_date": "2026-11-02",
+        "text": "ls, Qatari- and UAE-owned tonnage, and tankers that had spent weeks operating dark. Iranian sources separately claimed that four tankers hit mines in the Strait and caught fire, but it is unclear whether they were referring to additional vessels beyond the four confirmed. Projectiles Strike a Laden LNG Carrier Inside the Gulf On October 30, AL MAYEDA (IMO 9397298) , a Marshall Islands-flagged, Qatari-owned LNG carrier, laden with an unknown quantity of LNG according to Vortexa , was struck by three projectiles around 18:00 UTC, approximately 40 nautical miles south of Lavan Island. Windward data show AL MAYEDA turning around at 18:33 UTC before going dark at 22:17 UTC. AL MAYEDA had previously been dark between September 27 and October 30, and crossed inbound through the Strait of Hormuz d",
+        "sha256": "7a42703a10bebb9ee5db0c571fc65f06841b3804c4ef85d8695234e4be201882"
+      },
+      {
+        "id": "p_7d76fba07533ac24",
+        "source_id": "e_96c76a04f35b26f1",
+        "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+        "retrieved_date": "2026-11-02",
+        "text": " nautical miles south of Lavan Island. Windward data show AL MAYEDA turning around at 18:33 UTC before going dark at 22:17 UTC. AL MAYEDA had previously been dark between September 27 and October 30, and crossed inbound through the Strait of Hormuz during that period. AL MAYEDA’s track south of Lavan Island on October 30, 2026, showing the turnaround at 18:33 UTC after it was struck, before the vessel went dark. Source: Windward Maritime AI™ Platform. Limpet Mines Return to the Gulf The same day, a small boat approached LOUISE 1 (IMO 9290323) , a Panama-flagged, Panama-owned crude oil tanker, approximately 25 nautical miles northeast of Khasab, Oman, and emplaced two explosive devices on its hull. The explosion caused a fire in the engine room and briefly disabled the vessel. LOUISE 1 was ",
+        "sha256": "7dffa24e6dad380c87fce69af1343bc0fa90e2d54ee96e08eeadc99666b21d13"
+      },
+      {
+        "id": "p_b5aa37d3a8527593",
+        "source_id": "e_4c7bc58240109cd8",
+        "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+        "retrieved_date": "2026-11-02",
+        "text": "rial patrol over the Strait of Hormuz revealed no trace of IRGC forces. According to the IRGC Navy’s Friday statement, the burning supertanker marks the third vessel to suffer explosions and fires on Friday after transiting what the Islamic Republic deems “unauthorized” maritime routes. The announcement further noted that the supertanker was abandoned following the mine impact at the mouth of the Strait. However, details regarding the ship’s name, flag state, cargo owner, and crew condition were omitted. Previously, on Thursday, October 29, the IRGC reported that three tankers struck sea mines and caught fire while navigating the southern routes of the Strait of Hormuz. In a report on Thursday’s events, Agence France-Presse (AFP) noted that while the Iranian Armed Forces put the number of ",
+        "sha256": "3a1c18136a4fa2f739a475cc326fb0f567d62bcb80f82f95e0b22c23af8893b1"
+      },
+      {
+        "id": "p_37f05078dbf7ff3f",
+        "source_id": "e_4c7bc58240109cd8",
+        "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+        "retrieved_date": "2026-11-02",
+        "text": " IRGC reported that three tankers struck sea mines and caught fire while navigating the southern routes of the Strait of Hormuz. In a report on Thursday’s events, Agence France-Presse (AFP) noted that while the Iranian Armed Forces put the number of damaged tankers at four, these claims could not be independently verified. Conversely, the United Kingdom Maritime Trade Operations (UKMTO) reported several maritime security incidents off the coast of Oman. According to UKMTO, one incident involved a small boat attaching two explosive devices to the hull of a tanker, triggering an explosion and an engine room fire, which was subsequently contained, with all crew members safe. UKMTO also reported an unidentified projectile hitting another tanker. It remains unconfirmed whether the maritime secu",
+        "sha256": "fed1e86469b7ea5a4e81fbe069e4eb4144b9b8d828553eb76f2763afa7dd3af0"
+      },
+      {
+        "id": "p_1071ba096ca5552a",
+        "source_id": "e_4c7bc58240109cd8",
+        "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+        "retrieved_date": "2026-11-02",
+        "text": "ping operations. Rejecting CENTCOM’s claims, the IRGC continues to warn of hazards associated with traveling outside designated Iranian transit zones. Simultaneously, CENTCOM Commander Admiral Brad Cooper stated that during a flight over the Strait of Hormuz earlier in the week, he observed dozens of commercial ships, including oil and liquefied natural gas (LNG) tankers, navigating the waterway without any sign of IRGC forces. Cooper reiterated on Friday afternoon, October 30, that minesweeping operations had rendered the primary transit routes clear. As of the time of reporting, the alleged sea-mine strike on the supertanker carrying over two million barrels of crude oil, the cause of the explosion, and the current status of the vessel have not been independently verified. comments Log i",
+        "sha256": "1eb0d65c972c76185fe2b6138d341b501921a5c1842c7d10b6ee6440bcf23b0c"
+      }
+    ]
+  },
+  "video": {
+    "video_id": "2115734022051541108",
+    "platform": "twitter",
+    "url": "https://x.com/AryJeayBackup/status/2115734022051541108",
+    "source_name": "Arya Yadegaar",
+    "source_handle": "AryJeayBackup",
+    "source_kind": "social_claimant",
+    "sampling_category": "news",
+    "discovery_route": "factcheck_original_link",
+    "key": "twitter_2115734022051541108",
+    "collected_at": "2026-11-02T22:43:40.655209+00:00",
+    "status": "downloaded",
+    "path": "data/videos/twitter_2115734022051541108.mp4",
+    "sha256": "790e187d00b8da39149d8dc4b72a30bf19fe47ea02f0a26da9211d55d63893ae",
+    "bytes": 231385,
+    "duration": 12.658,
+    "upload_date": "20261029",
+    "title": "Arya Yadegaar - The IRGC-Navy announced in the last 24 hours, 3 violating tankers wer...",
+    "license": null,
+    "language": null,
+    "language_reviewed": false,
+    "returncode": 0,
+    "channel_id": "1393718626746781700"
+  },
+  "media": {
+    "video_sha256": "790e187d00b8da39149d8dc4b72a30bf19fe47ea02f0a26da9211d55d63893ae",
+    "frames": [
+      {
+        "seconds": 1.05,
+        "path": "data/bulk/media/twitter_2115734022051541108/01.jpg"
+      },
+      {
+        "seconds": 3.16,
+        "path": "data/bulk/media/twitter_2115734022051541108/02.jpg"
+      },
+      {
+        "seconds": 5.27,
+        "path": "data/bulk/media/twitter_2115734022051541108/03.jpg"
+      },
+      {
+        "seconds": 7.38,
+        "path": "data/bulk/media/twitter_2115734022051541108/04.jpg"
+      },
+      {
+        "seconds": 9.49,
+        "path": "data/bulk/media/twitter_2115734022051541108/05.jpg"
+      },
+      {
+        "seconds": 11.6,
+        "path": "data/bulk/media/twitter_2115734022051541108/06.jpg"
+      }
+    ],
+    "transcript": {
+      "text": " Music",
+      "language": "en",
+      "automatic": true,
+      "human_verified": false,
+      "model": "mlx-community/whisper-large-v3-turbo"
+    },
+    "at": "2026-11-02T22:44:33.935218+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.ukmto.org/-/media/ukmto/products/20261029-ukmto_warning-185-26.pdf",
+      "resolved_url": "https://www.ukmto.org/-/media/ukmto/products/20261029-ukmto_warning-185-26.pdf",
+      "title": "UKMTO Warning 185-26",
+      "publisher": "www.ukmto.org",
+      "published_at": "2026-10-29",
+      "retrieved_at": "2026-11-02T22:45:00.521312+00:00",
+      "text": "UKMTO WARNING 185-26 - SUSPICIOUS ACTIVITY. Incident Date: 29 OCT 2026. Incident Time: 0300UTC. Source: Third Party. UKMTO has received a report of an incident occurring in the Strait of Hormuz, 9NM north of Khasab, Oman. The Master of a third-party vessel has reported sighting another vessel on fire. Status of crew is unknown. There is no damage assessment or environmental impact report at present. Vessels are advised to transit with caution and report any suspicious activity to UKMTO, whilst authorities investigate.",
+      "text_sha256": "488c4d4b5bddfddab4d4012fbf384956eb7bb5f1f66972a6ef362ba3df99caec",
+      "truncated": false,
+      "links": [],
+      "retrieval_method": "web.run_pdf_text",
+      "evidence_id": "e_203e9ae68bc9ee2c"
+    },
+    {
+      "url": "https://safety4sea.com/ukmto-reports-vessel-fire-in-strait-of-hormuz-as-us-enforces-blockade-of-iranian-ports/",
+      "resolved_url": "https://safety4sea.com/ukmto-reports-vessel-fire-in-strait-of-hormuz-as-us-enforces-blockade-of-iranian-ports/",
+      "title": "UKMTO reports vessel fire in Strait of Hormuz as US enforces blockade of Iranian ports",
+      "publisher": "safety4sea.com",
+      "published_at": "2026-10-29",
+      "retrieved_at": "2026-11-02T22:45:25.254898+00:00",
+      "text": "The claims have not been independently verified.",
+      "text_sha256": "b0adec7396d34265cfc3d4b362f6fdf9426d3a3b078387c99345f210da0dbfcf",
+      "truncated": true,
+      "text_is_excerpt": true,
+      "links": [],
+      "retrieval_method": "web.run_verified_exact_excerpt",
+      "evidence_id": "e_5897d435253e58a5"
+    },
+    {
+      "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+      "resolved_url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+      "title": "Limpet Mines Return as Iran Hits Tankers Near Hormuz",
+      "publisher": "windward.ai",
+      "published_at": "2026-11-01T10:57:22+00:00",
+      "retrieved_at": "2026-11-02T22:45:01.002503+00:00",
+      "text": "Nov 1, 2026 7 min read Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz What’s inside? At a Glance Since October 29, Iran has attacked at least four tankers in and around the Strait of Hormuz . One attack used explosive devices fixed to a tanker’s hull by a small boat, the first use of limpet mines in the Gulf region since at least 2019. Three of the four tankers had been operating dark, and at least two are assessed as part of the “STS shuttle” moving Gulf cargoes through the Strait. Iranian sources claimed four tankers hit mines in the Strait and caught fire, though it is unclear whether that refers to vessels beyond the four confirmed. Transits have not slowed, with about 24 AIS -visible transits between October 30 and the morning of November 1, compared with 18 in the same window two days earlier. Four Tankers Hit in Three Days Between October 29 and 30, Iran attacked at least four tankers across the Strait of Hormuz and the waters around it. The attacks ranged from projectiles to hull-mounted explosives, and they struck laden and empty vessels, Qatari- and UAE-owned tonnage, and tankers that had spent weeks operating dark. Iranian sources separately claimed that four tankers hit mines in the Strait and caught fire, but it is unclear whether they were referring to additional vessels beyond the four confirmed. Projectiles Strike a Laden LNG Carrier Inside the Gulf On October 30, AL MAYEDA (IMO 9397298) , a Marshall Islands-flagged, Qatari-owned LNG carrier, laden with an unknown quantity of LNG according to Vortexa , was struck by three projectiles around 18:00 UTC, approximately 40 nautical miles south of Lavan Island. Windward data show AL MAYEDA turning around at 18:33 UTC before going dark at 22:17 UTC. AL MAYEDA had previously been dark between September 27 and October 30, and crossed inbound through the Strait of Hormuz during that period. AL MAYEDA’s track south of Lavan Island on October 30, 2026, showing the turnaround at 18:33 UTC after it was struck, before the vessel went dark. Source: Windward Maritime AI™ Platform. Limpet Mines Return to the Gulf The same day, a small boat approached LOUISE 1 (IMO 9290323) , a Panama-flagged, Panama-owned crude oil tanker, approximately 25 nautical miles northeast of Khasab, Oman, and emplaced two explosive devices on its hull. The explosion caused a fire in the engine room and briefly disabled the vessel. LOUISE 1 was last reported laden with 1.02 million barrels of crude on September 28, according to Vortexa, at its last AIS-reported position 12 nautical miles east of Khor Fakkan. It has not reported a position since. Dark Shuttle Tankers Come Under Fire Two more tankers were hit while likely transiting the Strait dark . RITI (IMO 9249075) , a Panama-flagged, Marshall Islands-owned crude oil tanker in ballast, according to Vortexa, was attacked in the Strait on October 30, likely during a dark inbound transit, and caught fire. Oman evacuated 25 crew members from the vessel 1.6 nautical miles off the Musandam Peninsula. RITI’s last known AIS position was on October 29, approximately 36 nautical miles east of Khor Fakkan. NASA FIRMS imagery did not detect a thermal anomaly off Musandam during this period, likely indicating the fire was extinguished. On October 29, ARZANAH (IMO 9928023) , a Liberia-flagged, UAE-owned crude oil tanker, was targeted while transiting an undisclosed part of the Strait. Vortexa last reported it laden with 2.14 million barrels of crude on October 17, and it has been dark since that date. Why the Return of Limpet Mines Matters This latest round of attacks continues the trend established this month while expanding the methods Iran is using. Limpet mines are a cost-effective weapon against tankers. They were last successfully used in the region in 2019, when multiple tankers were targeted at anchorages in the Gulf of Oman. The shift matters because it widens the threat beyond projectiles. A small boat that can approach a tanker and place explosives on its hull turns any slow-moving or anchored vessel into a potential target, including the dark shuttle tankers that rely on staying off AIS to avoid detection. This threat is particularly acute inside the Strait, where the ability to maneuver is already limited and small boats are regularly moving inside the waterway. Transits Are Still Rising The attacks, along with ongoing rhetoric about a possible resumption of combat operations in the Middle East, have not reduced Strait of Hormuz transits. Between October 30 and the morning of November 1, there were approximately 24 AIS-visible transits, compared with 18 AIS-visible transits in the same window between October 28 and 30. Shipowners continue to show a willingness to transit the Strait despite almost daily attacks from Iran. This very likely reflects the attraction of high freight rates for operators willing to take on the risk, and the continued push by Gulf States to move oil through the STS shuttle. Outlook That willingness has a limit. Should combat operations resume at a level of intensity similar to the first week of March, transits, already modest, would be expected to fall to near zero within the first 72 hours of the conflict as shipowners reassess the risk of exposure in the Strait. Analysis by Matthew Mueller, MIOC Team Leader. Strait of Hormuz Live Tracker Monitor live HORMUZ INTELLIGENCE October 8, 2026 Tanker Attacks Spread Beyond the Strait of Hormuz as Gulf Freight Costs Soar At a Glance A Tanker Is Struck Off Qatar as Gulf Attacks Surge An unnamed tanker was struck by multiple projectiles 51 nautical miles off Madinat ash Shamal, Qatar, according to an October 7 report from UK Maritime Trade Operations. UKMTO has reported 16 attacks on ships in the Middle East Gulf in the past... Read more HORMUZ INTELLIGENCE September 29, 2026 Is Iran Losing Its Grip on Strait of Hormuz Traffic? Iran has demanded that all Strait of Hormuz transits use the northern corridor through its territorial waters. Rising volumes of Saudi, Iraqi, and Kuwaiti crude, along with UAE volumes that cannot reach Fujairah by pipeline, are instead moving through the southern corridor, which remains under USCENTCOM air defense and naval support. Windward MIOC assesses that... Read more HORMUZ INTELLIGENCE September 17, 2026 77 Ships Blacklisted, None Deterred: Inside Iran’s Failing Hormuz Toll Regime At a Glance Operational Overview Iran’s Persian Gulf Strait Authority opened in mid-May to oversee transits and toll payments through the Strait of Hormuz. It has since released three tranches of blacklisted vessel names, on August 24, September 2, and September 14. Windward analysis of all 77 vessels finds that every one used the “unauthorized”... Read more HORMUZ INTELLIGENCE September 17, 2026 The Houthis Take Perim and Petroline Is Hit as Freight Rates Cross $1 Million a Day At a Glance Operational Overview Saudi Arabia’s workaround to the partial closure of the Strait of Hormuz came under direct attack last week. Saudi Arabia diverted crude to the Red Sea port of Yanbu via the East-West pipeline. On September 10, a pumping station on the pipeline was attacked and preemptively shut down. On the... Read more",
+      "truncated": false,
+      "links": [
+        {
+          "text": "MONITOR LIVE",
+          "url": "https://insights.windward.ai/"
+        },
+        {
+          "text": "Defense & Public Sector",
+          "url": "https://windward.ai/industries/gov/"
+        },
+        {
+          "text": "Defense & Intelligence",
+          "url": "https://windward.ai/industries/defense/"
+        },
+        {
+          "text": "Law Enforcement & Border Protection",
+          "url": "https://windward.ai/industries/border-protection-customs/"
+        },
+        {
+          "text": "Customs",
+          "url": "https://windward.ai/industries/customs/"
+        },
+        {
+          "text": "Unmanned Technology & Integrators",
+          "url": "https://windward.ai/industries/unmanned-technology/"
+        },
+        {
+          "text": "Federal",
+          "url": "https://windward.ai/federal/"
+        },
+        {
+          "text": "Commercial",
+          "url": "https://windward.ai/industries/trading-and-shipping/"
+        },
+        {
+          "text": "Oil & Energy",
+          "url": "https://windward.ai/industries/energy/"
+        },
+        {
+          "text": "Commodity Trade",
+          "url": "https://windward.ai/industries/commodity-trading/"
+        },
+        {
+          "text": "Transmission System Operators",
+          "url": "https://windward.ai/industries/transmission-system-operators/"
+        },
+        {
+          "text": "Offshore & Undersea Infrastructure",
+          "url": "https://windward.ai/industries/offshore-and-undersea-assets/"
+        },
+        {
+          "text": "Marine Insurance",
+          "url": "https://windward.ai/industries/marine-insurance/"
+        },
+        {
+          "text": "Maritime Law",
+          "url": "https://windward.ai/industries/maritime-law/"
+        },
+        {
+          "text": "Shipping, Bunkering & Marine Services",
+          "url": "https://windward.ai/industries/shipping-bunkering-and-marine-services/"
+        },
+        {
+          "text": "Financial Institutions",
+          "url": "https://windward.ai/industries/financial-institutions/"
+        },
+        {
+          "text": "Solutions",
+          "url": "https://windward.ai/solutions/portfolio/"
+        },
+        {
+          "text": "Defense & Intelligence",
+          "url": "https://windward.ai/solutions/advanced-intelligence/"
+        },
+        {
+          "text": "Border & Asset Security",
+          "url": "https://windward.ai/solutions/mda/"
+        },
+        {
+          "text": "Mission Area Monitoring",
+          "url": "https://windward.ai/solutions/mission-area-monitoring/"
+        },
+        {
+          "text": "Risk & Compliance",
+          "url": "https://windward.ai/solutions/risk-and-compliance/"
+        },
+        {
+          "text": "Container Tracking",
+          "url": "https://windward.ai/solutions/container-tracking/"
+        },
+        {
+          "text": "Business Intelligence",
+          "url": "https://windward.ai/solutions/business-intelligence/"
+        },
+        {
+          "text": "Remote Sensing Intelligence",
+          "url": "https://windward.ai/solutions/remote-sensing-intelligence/"
+        },
+        {
+          "text": "GPS Jamming Resilience",
+          "url": "https://windward.ai/solutions/gps-jamming-resilience/"
+        },
+        {
+          "text": "Organization Defined Risk",
+          "url": "https://windward.ai/solutions/organization-defined-risk/"
+        },
+        {
+          "text": "Search & Analytics",
+          "url": "https://windward.ai/solutions/search-and-analytics/"
+        },
+        {
+          "text": "Critical Maritime Infrastructure Protection",
+          "url": "https://windward.ai/solutions/maritime-infrastructure/"
+        },
+        {
+          "text": "Vessel Screening",
+          "url": "https://windward.ai/solutions/vessel-screening/"
+        },
+        {
+          "text": "Smuggling Detection",
+          "url": "https://windward.ai/solutions/smuggling-detection/"
+        },
+        {
+          "text": "IUU Fishing",
+          "url": "https://windward.ai/solutions/iuu-fishing/"
+        },
+        {
+          "text": "Document Validation",
+          "url": "https://windward.ai/solutions/document-validation/"
+        },
+        {
+          "text": "Early Detection",
+          "url": "https://windward.ai/solutions/early-detection/"
+        },
+        {
+          "text": "Entity Management",
+          "url": "https://windward.ai/solutions/entity-management/"
+        },
+        {
+          "text": "Data and Tech",
+          "url": "https://windward.ai/api-hub/windward-api-insights-lab/"
+        },
+        {
+          "text": "All-Source Operational Intelligence",
+          "url": "https://windward.ai/multi-source/"
+        },
+        {
+          "text": "Data Quality",
+          "url": "https://windward.ai/data-and-technology/"
+        },
+        {
+          "text": "API Insights",
+          "url": "https://windward.ai/api/"
+        },
+        {
+          "text": "API Documentation",
+          "url": "https://developer.windward.ai/reference/what-is-graphql"
+        },
+        {
+          "text": "MAI Expert™",
+          "url": "https://windward.ai/solutions/mai-expert/"
+        },
+        {
+          "text": "Maritime AI™ Anomaly Detection",
+          "url": "https://windward.ai/maritime-anomaly-detector/"
+        },
+        {
+          "text": "Intellectual Property",
+          "url": "https://windward.ai/company/intellectual-property/"
+        },
+        {
+          "text": "MIOC",
+          "url": "https://windward.ai/maritime-intelligence-operations-center/"
+        },
+        {
+          "text": "Strait of Hormuz Updates",
+          "url": "https://windward.ai/blog/iran-war-situation-room/"
+        },
+        {
+          "text": "Blog",
+          "url": "https://windward.ai/blog/"
+        },
+        {
+          "text": "Knowledge Base",
+          "url": "https://windward.ai/knowledge-base/"
+        },
+        {
+          "text": "Glossary",
+          "url": "https://windward.ai/glossary/"
+        },
+        {
+          "text": "Case Studies",
+          "url": "https://windward.ai/knowledge-base/case-studies/"
+        },
+        {
+          "text": "Webinars & Events",
+          "url": "https://windward.ai/events/"
+        },
+        {
+          "text": "Strait of Hormuz Daily Dashboard",
+          "url": "https://insights.windward.ai/"
+        },
+        {
+          "text": "New Counter-Narcotics Dashboard",
+          "url": "https://windward.ai/maritime-intelligence-operations-center/insights-counter-narcotics/"
+        },
+        {
+          "text": "GPS Jamming in Contested Waters Demands an All-Source Operational Maritime Picture",
+          "url": "https://windward.ai/blog/gps-jamming-in-contested-waters-demands-an-all-source-operational-picture/"
+        },
+        {
+          "text": "Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz",
+          "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/"
+        },
+        {
+          "text": "Our Story",
+          "url": "https://windward.ai/company/about-us/"
+        },
+        {
+          "text": "Careers",
+          "url": "https://windward.ai/company/careers/"
+        },
+        {
+          "text": "In the News",
+          "url": "https://windward.ai/news/"
+        },
+        {
+          "text": "Press Releases",
+          "url": "https://windward.ai/news/press-releases/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://windward.ai/contact-us/"
+        },
+        {
+          "text": "Request a Demo",
+          "url": "https://windward.ai/request-demo/"
+        },
+        {
+          "text": "Request a Demo",
+          "url": "https://windward.ai/request-demo/"
+        },
+        {
+          "text": "the Strait of Hormuz",
+          "url": "https://insights.windward.ai/"
+        },
+        {
+          "text": "the first use of limpet mines in the Gulf",
+          "url": "https://gcaptain.com/tanker-hit-by-limpet-mines-in-strait-of-hormuz-as-new-threat-to-shipping-emerges/"
+        },
+        {
+          "text": "Iranian sources claimed four tankers hit mines",
+          "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0"
+        },
+        {
+          "text": "AIS",
+          "url": "https://windward.ai/glossary/what-is-automatic-identification-systems-ais/"
+        },
+        {
+          "text": "the Strait of Hormuz",
+          "url": "https://windward.ai/glossary/the-strait-of-hormuz/"
+        },
+        {
+          "text": "Iranian sources separately claimed",
+          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html"
+        },
+        {
+          "text": "AL MAYEDA (IMO 9397298)",
+          "url": "https://www.firstpost.com/world/qatari-lng-tanker-hit-by-unidentified-objects-in-gulf-crew-unharmed-14056939.html"
+        },
+        {
+          "text": "Vortexa",
+          "url": "https://www.vortexa.com/"
+        },
+        {
+          "text": "Windward",
+          "url": "https://windward.ai/"
+        },
+        {
+          "text": "LOUISE 1 (IMO 9290323)",
+          "url": "https://www.ndtv.com/world-news/tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz-12261284"
+        },
+        {
+          "text": "dark",
+          "url": "https://windward.ai/glossary/dark-activity/"
+        },
+        {
+          "text": "RITI (IMO 9249075)",
+          "url": "https://www.rivieramm.com/news-content-hub/explosive-devices-attached-to-tanker-in-one-of-at-least-two-attacks-in-hormuz-90428"
+        },
+        {
+          "text": "ARZANAH (IMO 9928023)",
+          "url": "https://www.indiatoday.in/india/story/strait-of-hormuz-tanker-attacks-29-indian-seafarers-safe-3028916-2026-10-30"
+        },
+        {
+          "text": "Monitor live",
+          "url": "https://windward.ai/knowledge-base/strait-of-hormuz-live-report/"
+        },
+        {
+          "text": "HORMUZ INTELLIGENCE",
+          "url": "https://windward.ai/blog/iran-war-situation-room/"
+        },
+        {
+          "text": "Read more",
+          "url": "https://windward.ai/blog/tanker-attacks-spread-beyond-the-strait-of-hormuz-as-gulf-freight-costs-soar/"
+        },
+        {
+          "text": "HORMUZ INTELLIGENCE",
+          "url": "https://windward.ai/blog/iran-war-situation-room/"
+        },
+        {
+          "text": "Read more",
+          "url": "https://windward.ai/blog/is-iran-losing-its-grip-on-strait-of-hormuz-traffic/"
+        },
+        {
+          "text": "HORMUZ INTELLIGENCE",
+          "url": "https://windward.ai/blog/iran-war-situation-room/"
+        },
+        {
+          "text": "Read more",
+          "url": "https://windward.ai/blog/77-ships-blacklisted-irans-failing-hormuz-toll-regime/"
+        },
+        {
+          "text": "HORMUZ INTELLIGENCE",
+          "url": "https://windward.ai/blog/iran-war-situation-room/"
+        },
+        {
+          "text": "Read more",
+          "url": "https://windward.ai/blog/houthis-take-perim-and-petroline-is-hit-as-freight-rates-soar/"
+        },
+        {
+          "text": "vessel feedback page.",
+          "url": "https://windward.ai/vessel-feedback/"
+        },
+        {
+          "text": "Industries",
+          "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/"
+        },
+        {
+          "text": "Commercial",
+          "url": "https://windward.ai/industries/trading-and-shipping/"
+        },
+        {
+          "text": "Defense & Public Sector",
+          "url": "https://windward.ai/industries/gov/"
+        },
+        {
+          "text": "Data and Tech",
+          "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/"
+        },
+        {
+          "text": "All-Source Operational Intelligence",
+          "url": "https://windward.ai/multi-source/"
+        },
+        {
+          "text": "Data Quality",
+          "url": "https://windward.ai/data-and-technology/"
+        },
+        {
+          "text": "API Insights",
+          "url": "https://windward.ai/api/"
+        },
+        {
+          "text": "API Documentation",
+          "url": "https://developer.windward.ai/reference/what-is-graphql"
+        },
+        {
+          "text": "MAI Expert™",
+          "url": "https://windward.ai/solutions/mai-expert/"
+        },
+        {
+          "text": "Maritime AI™ Anomaly Detection",
+          "url": "https://windward.ai/maritime-anomaly-detector/"
+        },
+        {
+          "text": "Intellectual Property",
+          "url": "https://windward.ai/company/intellectual-property/"
+        },
+        {
+          "text": "Solutions",
+          "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/"
+        },
+        {
+          "text": "Defense & Intelligence",
+          "url": "https://windward.ai/solutions/advanced-intelligence/"
+        },
+        {
+          "text": "Border & Asset Security",
+          "url": "https://windward.ai/solutions/maritime-domain-awareness/"
+        },
+        {
+          "text": "Mission Area Monitoring",
+          "url": "https://windward.ai/solutions/mission-area-monitoring/"
+        },
+        {
+          "text": "Risk & Compliance",
+          "url": "https://windward.ai/solutions/risk-and-compliance/"
+        },
+        {
+          "text": "Container Tracking",
+          "url": "https://windward.ai/solutions/container-tracking/"
+        },
+        {
+          "text": "Business Intelligence",
+          "url": "https://windward.ai/solutions/business-intelligence/"
+        },
+        {
+          "text": "Company",
+          "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/"
+        },
+        {
+          "text": "Our Story",
+          "url": "https://windward.ai/company/about-us/"
+        },
+        {
+          "text": "Careers",
+          "url": "https://windward.ai/company/careers/"
+        },
+        {
+          "text": "In the News",
+          "url": "https://windward.ai/news/news/"
+        },
+        {
+          "text": "Press Releases",
+          "url": "https://windward.ai/news/press-releases/"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://windward.ai/terms/"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://windward.ai/privacy/"
+        },
+        {
+          "text": "Cookies Policy",
+          "url": "https://windward.ai/cookie-policy/"
+        },
+        {
+          "text": "Windward’s AI Guide",
+          "url": "https://windward.ai/use-generative-ai-gen-ai-tools-in-windward/"
+        },
+        {
+          "text": "Trust Center",
+          "url": "https://trust.windward.ai/"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "c03c39c47acb535d7d07109797fc94b5fb90782d3ba7513d4b1d4bdb911bcb11",
+      "text_sha256": "fc7e233bebc2e8d1ed455ca3fab355c0adb740e2103474186f29ecd24f4603d4",
+      "evidence_id": "e_96c76a04f35b26f1"
+    },
+    {
+      "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+      "resolved_url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+      "title": "IRGC Claims Third Tanker Exploded by Sea Mine in Strait of Hormuz",
+      "publisher": "iranwire.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.062550+00:00",
+      "text": "News IRGC Claims Third Tanker Exploded by Sea Mine in Strait of Hormuz October 30, 2026 IranWire 2 min read The Public Relations Office of the Islamic Revolutionary Guard Corps (IRGC) Navy claimed on Friday afternoon, October 30, 2026, that a supertanker carrying over two million barrels of crude oil struck a sea mine at the mouth of the Strait of Hormuz, causing an explosion and setting the vessel ablaze. This assertion coincides with statements from the Commander of U.S. Central Command (CENTCOM), who released video footage showing that an aerial patrol over the Strait of Hormuz revealed no trace of IRGC forces. According to the IRGC Navy’s Friday statement, the burning supertanker marks the third vessel to suffer explosions and fires on Friday after transiting what the Islamic Republic deems “unauthorized” maritime routes. The announcement further noted that the supertanker was abandoned following the mine impact at the mouth of the Strait. However, details regarding the ship’s name, flag state, cargo owner, and crew condition were omitted. Previously, on Thursday, October 29, the IRGC reported that three tankers struck sea mines and caught fire while navigating the southern routes of the Strait of Hormuz. In a report on Thursday’s events, Agence France-Presse (AFP) noted that while the Iranian Armed Forces put the number of damaged tankers at four, these claims could not be independently verified. Conversely, the United Kingdom Maritime Trade Operations (UKMTO) reported several maritime security incidents off the coast of Oman. According to UKMTO, one incident involved a small boat attaching two explosive devices to the hull of a tanker, triggering an explosion and an engine room fire, which was subsequently contained, with all crew members safe. UKMTO also reported an unidentified projectile hitting another tanker. It remains unconfirmed whether the maritime security incidents logged by the British agency correspond to the specific vessels referenced in the IRGC announcements. The IRGC’s claims regarding mine strikes emerge despite CENTCOM’s prior declarations that primary commercial shipping lanes through the Strait of Hormuz have been cleared via minesweeping operations. Rejecting CENTCOM’s claims, the IRGC continues to warn of hazards associated with traveling outside designated Iranian transit zones. Simultaneously, CENTCOM Commander Admiral Brad Cooper stated that during a flight over the Strait of Hormuz earlier in the week, he observed dozens of commercial ships, including oil and liquefied natural gas (LNG) tankers, navigating the waterway without any sign of IRGC forces. Cooper reiterated on Friday afternoon, October 30, that minesweeping operations had rendered the primary transit routes clear. As of the time of reporting, the alleged sea-mine strike on the supertanker carrying over two million barrels of crude oil, the cause of the explosion, and the current status of the vessel have not been independently verified. comments Log in or Sign Up to join the discussion. latest news News Two January Protesters Sentenced to Combined 35 Years in Prison News Pezeshkian: Mojtaba Khamenei Authorized Government to Negotiate With U.S. News Supreme Court Upholds Death Sentence for Protester in One Week News IRGC Forces 60 Former Political Prisoners to Attend State Rally in Mahabad Interested in writing for IranWire? Share your stories. learn more Editor's Picks One Faces Execution, Two Face Years in Prison: The Case of Esfahan’s Bouyeri Brothers RELATED ARTICLES News Today in the Iranian Cybersphere: November 2, 2026 News Abbas Araghchi Arrives in Turkmenistan for High-Level Talks News Iranian MPs Threaten Expanded War and Surprise Attacks News Chinese Special Envoy to Visit Iran, Saudi Arabia, and Oman News Two Baluch Teenagers Arrested Without Warrant in Chabahar News Foreign Ministry Warns Iranian Nuclear Policy Could Change News Media Ban Extended for Former MP After New Judicial Action News Iranian Judiciary Reports Arrest of Female Protest Organizer News Tehran: U.S. Actions Matter More Than Tone of Vance’s Letter load more you may also like News Two January Protesters Sentenced to Combined 35 Years in Prison News Pezeshkian: Mojtaba Khamenei Authorized Government to Negotiate With U.S. News Supreme Court Upholds Death Sentence for Protester in One Week News IRGC Forces 60 Former Political Prisoners to Attend State Rally in Mahabad News Today in the Iranian Cybersphere: November 2, 2026 News Abbas Araghchi Arrives in Turkmenistan for High-Level Talks News Iranian MPs Threaten Expanded War and Surprise Attacks News Chinese Special Envoy to Visit Iran, Saudi Arabia, and Oman News Two Baluch Teenagers Arrested Without Warrant in Chabahar load more News Trump Predicts Near End to Iran War Without Offering Details October 30, 2026 IranWire 2 min read Continue to next article Sign up for our newsletter Get the day's biggest stories from IranWire sent directly to your inbox.",
+      "truncated": false,
+      "links": [
+        {
+          "text": "Politics",
+          "url": "https://iranwire.com/en/category/politics"
+        },
+        {
+          "text": "Economy",
+          "url": "https://iranwire.com/en/category/economy"
+        },
+        {
+          "text": "Society & Culture",
+          "url": "https://iranwire.com/en/category/society"
+        },
+        {
+          "text": "Technology",
+          "url": "https://iranwire.com/en/category/technology"
+        },
+        {
+          "text": "Women",
+          "url": "https://iranwire.com/en/category/women"
+        },
+        {
+          "text": "Influential Women",
+          "url": "https://iranwire.com/en/category/women/influential-women"
+        },
+        {
+          "text": "Prisoners",
+          "url": "https://iranwire.com/en/category/prisoners"
+        },
+        {
+          "text": "Middle East",
+          "url": "https://iranwire.com/en/category/middle-east"
+        },
+        {
+          "text": "Sports",
+          "url": "https://iranwire.com/en/category/sports"
+        },
+        {
+          "text": "Login",
+          "url": "https://iranwire.com/login/"
+        },
+        {
+          "text": "Politics",
+          "url": "https://iranwire.com/en/category/politics"
+        },
+        {
+          "text": "Economy",
+          "url": "https://iranwire.com/en/category/economy"
+        },
+        {
+          "text": "Society & Culture",
+          "url": "https://iranwire.com/en/category/society"
+        },
+        {
+          "text": "Technology",
+          "url": "https://iranwire.com/en/category/technology"
+        },
+        {
+          "text": "Women",
+          "url": "https://iranwire.com/en/category/women"
+        },
+        {
+          "text": "Influential Women",
+          "url": "https://iranwire.com/en/category/women/influential-women"
+        },
+        {
+          "text": "Prisoners",
+          "url": "https://iranwire.com/en/category/prisoners"
+        },
+        {
+          "text": "Middle East",
+          "url": "https://iranwire.com/en/category/middle-east"
+        },
+        {
+          "text": "Sports",
+          "url": "https://iranwire.com/en/category/sports"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Iran",
+          "url": "https://iranwire.com/en/category/news/iran"
+        },
+        {
+          "text": "Middle East",
+          "url": "https://iranwire.com/en/category/news/news-middle-east"
+        },
+        {
+          "text": "World",
+          "url": "https://iranwire.com/en/category/news/world"
+        },
+        {
+          "text": "Features",
+          "url": "https://iranwire.com/en/category/features"
+        },
+        {
+          "text": "Fact Checking",
+          "url": "https://iranwire.com/en/category/fact-checking"
+        },
+        {
+          "text": "Opinions",
+          "url": "https://iranwire.com/en/category/blogs"
+        },
+        {
+          "text": "IranWire Blogger",
+          "url": "https://iranwire.com/en/category/blogs/iranwire-blogger"
+        },
+        {
+          "text": "Speaking of Iran",
+          "url": "https://iranwire.com/en/category/blogs/speaking-of-iran-2"
+        },
+        {
+          "text": "Guest Blogger",
+          "url": "https://iranwire.com/en/category/blogs/guest-blogger"
+        },
+        {
+          "text": "Iranwire videos",
+          "url": "https://iranwire.com/en/category/blogs/iranwire-videos"
+        },
+        {
+          "text": "Shaya Goldoust",
+          "url": "https://iranwire.com/en/category/blogs/shaya-goldoust"
+        },
+        {
+          "text": "Saleem Vaillancourt",
+          "url": "https://iranwire.com/en/category/blogs/saleem-vaillancourt"
+        },
+        {
+          "text": "Video",
+          "url": "https://iranwire.com/en/category/video"
+        },
+        {
+          "text": "Images",
+          "url": "https://iranwire.com/en/category/images"
+        },
+        {
+          "text": "Cartoons",
+          "url": "https://iranwire.com/en/category/images/cartoons"
+        },
+        {
+          "text": "Images of Iran",
+          "url": "https://iranwire.com/en/category/images/images-of-iran"
+        },
+        {
+          "text": "Special Features",
+          "url": "https://iranwire.com/en/category/special-features"
+        },
+        {
+          "text": "Baha’is of Iran",
+          "url": "https://iranwire.com/en/category/special-features/bahais-of-iran"
+        },
+        {
+          "text": "Sardari Project",
+          "url": "https://iranwire.com/en/category/special-features/sardari-project"
+        },
+        {
+          "text": "Blinding as a Weapon",
+          "url": "https://iranwire.com/en/category/special-features/blinding-as-a-weapon"
+        },
+        {
+          "text": "Voices of Survival",
+          "url": "https://iranwire.com/en/category/special-features/voices-of-survival"
+        },
+        {
+          "text": "Documentaries",
+          "url": "https://iranwire.com/en/category/special-features/films"
+        },
+        {
+          "text": "Workers' Rights",
+          "url": "https://iranwire.com/en/category/special-features/workers-rights"
+        },
+        {
+          "text": "About Iranwire",
+          "url": "https://iranwire.com/en/about"
+        },
+        {
+          "text": "Current initiatives",
+          "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/"
+        },
+        {
+          "text": "Journalism is Not a Crime",
+          "url": "https://journalismisnotacrime.com/en"
+        },
+        {
+          "text": "Khamenei.com",
+          "url": "https://khamenei.com"
+        },
+        {
+          "text": "Religious Minorities",
+          "url": "https://adyan-iran.com"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Iran",
+          "url": "https://iranwire.com/en/category/news/iran"
+        },
+        {
+          "text": "Middle East",
+          "url": "https://iranwire.com/en/category/news/news-middle-east"
+        },
+        {
+          "text": "World",
+          "url": "https://iranwire.com/en/category/news/world"
+        },
+        {
+          "text": "Features",
+          "url": "https://iranwire.com/en/category/features"
+        },
+        {
+          "text": "Fact Checking",
+          "url": "https://iranwire.com/en/category/fact-checking"
+        },
+        {
+          "text": "Opinions",
+          "url": "https://iranwire.com/en/category/blogs"
+        },
+        {
+          "text": "IranWire Blogger",
+          "url": "https://iranwire.com/en/category/blogs/iranwire-blogger"
+        },
+        {
+          "text": "Speaking of Iran",
+          "url": "https://iranwire.com/en/category/blogs/speaking-of-iran-2"
+        },
+        {
+          "text": "Guest Blogger",
+          "url": "https://iranwire.com/en/category/blogs/guest-blogger"
+        },
+        {
+          "text": "Iranwire videos",
+          "url": "https://iranwire.com/en/category/blogs/iranwire-videos"
+        },
+        {
+          "text": "Shaya Goldoust",
+          "url": "https://iranwire.com/en/category/blogs/shaya-goldoust"
+        },
+        {
+          "text": "Saleem Vaillancourt",
+          "url": "https://iranwire.com/en/category/blogs/saleem-vaillancourt"
+        },
+        {
+          "text": "Video",
+          "url": "https://iranwire.com/en/category/video"
+        },
+        {
+          "text": "Images",
+          "url": "https://iranwire.com/en/category/images"
+        },
+        {
+          "text": "Cartoons",
+          "url": "https://iranwire.com/en/category/images/cartoons"
+        },
+        {
+          "text": "Images of Iran",
+          "url": "https://iranwire.com/en/category/images/images-of-iran"
+        },
+        {
+          "text": "Special Features",
+          "url": "https://iranwire.com/en/category/special-features"
+        },
+        {
+          "text": "Baha’is of Iran",
+          "url": "https://iranwire.com/en/category/special-features/bahais-of-iran"
+        },
+        {
+          "text": "Sardari Project",
+          "url": "https://iranwire.com/en/category/special-features/sardari-project"
+        },
+        {
+          "text": "Blinding as a Weapon",
+          "url": "https://iranwire.com/en/category/special-features/blinding-as-a-weapon"
+        },
+        {
+          "text": "Voices of Survival",
+          "url": "https://iranwire.com/en/category/special-features/voices-of-survival"
+        },
+        {
+          "text": "Documentaries",
+          "url": "https://iranwire.com/en/category/special-features/films"
+        },
+        {
+          "text": "Workers' Rights",
+          "url": "https://iranwire.com/en/category/special-features/workers-rights"
+        },
+        {
+          "text": "Login",
+          "url": "https://iranwire.com/login/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "IranWire",
+          "url": "https://iranwire.com/author/29/"
+        },
+        {
+          "text": "Log in",
+          "url": "https://iranwire.com/login/?next=/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/"
+        },
+        {
+          "text": "Sign Up",
+          "url": "https://iranwire.com/register/?next=/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Two January Protesters Sentenced to Combined 35 Years in Prison",
+          "url": "https://iranwire.com/en/news/159706-two-january-protesters-sentenced-to-combined-35-years-in-prison/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Pezeshkian: Mojtaba Khamenei Authorized Government to Negotiate With U.S.",
+          "url": "https://iranwire.com/en/news/159705-pezeshkian-mojtaba-khamenei-authorized-government-to-negotiate-with-us/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Supreme Court Upholds Death Sentence for Protester in One Week",
+          "url": "https://iranwire.com/en/news/159704-supreme-court-upholds-death-sentence-for-protester-in-one-week/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "IRGC Forces 60 Former Political Prisoners to Attend State Rally in Mahabad",
+          "url": "https://iranwire.com/en/news/159703-irgc-forces-60-former-political-prisoners-to-attend-state-rally-in-mahabad/"
+        },
+        {
+          "text": "learn more",
+          "url": "https://iranwire.com/en/submission-guideline/"
+        },
+        {
+          "text": "One Faces Execution, Two Face Years in Prison: The Case of Esfahan’s Bouyeri Brothers",
+          "url": "https://iranwire.com/en/features/158334-one-faces-execution-two-face-years-in-prison-the-case-of-esfahans-bouyeri-brothers/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Today in the Iranian Cybersphere: November 2, 2026",
+          "url": "https://iranwire.com/en/news/159699-today-in-the-iranian-cybersphere-november-2-2026/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Abbas Araghchi Arrives in Turkmenistan for High-Level Talks",
+          "url": "https://iranwire.com/en/news/159698-abbas-araghchi-arrives-in-turkmenistan-for-high-level-talks/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Iranian MPs Threaten Expanded War and Surprise Attacks",
+          "url": "https://iranwire.com/en/news/159697-iranian-mps-threaten-expanded-war-and-surprise-attacks/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Chinese Special Envoy to Visit Iran, Saudi Arabia, and Oman",
+          "url": "https://iranwire.com/en/news/159696-chinese-special-envoy-to-visit-iran-saudi-arabia-and-oman/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Two Baluch Teenagers Arrested Without Warrant in Chabahar",
+          "url": "https://iranwire.com/en/news/159695-two-baluch-teenagers-arrested-without-warrant-in-chabahar/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Foreign Ministry Warns Iranian Nuclear Policy Could Change",
+          "url": "https://iranwire.com/en/news/159689-foreign-ministry-warns-iranian-nuclear-policy-could-change/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Media Ban Extended for Former MP After New Judicial Action",
+          "url": "https://iranwire.com/en/news/159688-media-ban-extended-for-former-mp-after-new-judicial-action/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Iranian Judiciary Reports Arrest of Female Protest Organizer",
+          "url": "https://iranwire.com/en/news/159687-iranian-judiciary-reports-arrest-of-female-protest-organizer/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Tehran: U.S. Actions Matter More Than Tone of Vance’s Letter",
+          "url": "https://iranwire.com/en/news/159680-tehran-us-actions-matter-more-than-tone-of-vances-letter/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Two January Protesters Sentenced to Combined 35 Years in Prison",
+          "url": "https://iranwire.com/en/news/159706-two-january-protesters-sentenced-to-combined-35-years-in-prison/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Pezeshkian: Mojtaba Khamenei Authorized Government to Negotiate With U.S.",
+          "url": "https://iranwire.com/en/news/159705-pezeshkian-mojtaba-khamenei-authorized-government-to-negotiate-with-us/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Supreme Court Upholds Death Sentence for Protester in One Week",
+          "url": "https://iranwire.com/en/news/159704-supreme-court-upholds-death-sentence-for-protester-in-one-week/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "IRGC Forces 60 Former Political Prisoners to Attend State Rally in Mahabad",
+          "url": "https://iranwire.com/en/news/159703-irgc-forces-60-former-political-prisoners-to-attend-state-rally-in-mahabad/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Today in the Iranian Cybersphere: November 2, 2026",
+          "url": "https://iranwire.com/en/news/159699-today-in-the-iranian-cybersphere-november-2-2026/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Abbas Araghchi Arrives in Turkmenistan for High-Level Talks",
+          "url": "https://iranwire.com/en/news/159698-abbas-araghchi-arrives-in-turkmenistan-for-high-level-talks/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Iranian MPs Threaten Expanded War and Surprise Attacks",
+          "url": "https://iranwire.com/en/news/159697-iranian-mps-threaten-expanded-war-and-surprise-attacks/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Chinese Special Envoy to Visit Iran, Saudi Arabia, and Oman",
+          "url": "https://iranwire.com/en/news/159696-chinese-special-envoy-to-visit-iran-saudi-arabia-and-oman/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Two Baluch Teenagers Arrested Without Warrant in Chabahar",
+          "url": "https://iranwire.com/en/news/159695-two-baluch-teenagers-arrested-without-warrant-in-chabahar/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "IranWire",
+          "url": "https://iranwire.com/author/29/"
+        },
+        {
+          "text": "Continue to next article",
+          "url": "https://iranwire.com/en/news/159597-trump-predicts-near-end-to-iran-war-without-offering-details/"
+        },
+        {
+          "text": "News",
+          "url": "https://iranwire.com/en/category/news"
+        },
+        {
+          "text": "Features",
+          "url": "https://iranwire.com/en/category/features"
+        },
+        {
+          "text": "Fact Checking",
+          "url": "https://iranwire.com/en/category/fact-checking"
+        },
+        {
+          "text": "Opinions",
+          "url": "https://iranwire.com/en/category/blogs"
+        },
+        {
+          "text": "Video",
+          "url": "https://iranwire.com/en/category/video"
+        },
+        {
+          "text": "Images",
+          "url": "https://iranwire.com/en/category/images"
+        },
+        {
+          "text": "Special Features",
+          "url": "https://iranwire.com/en/category/special-features"
+        },
+        {
+          "text": "About Iranwire",
+          "url": "https://iranwire.com/about"
+        },
+        {
+          "text": "Not a crime",
+          "url": "https://journalismisnotacrime.com/"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://iranwire.com/about#contact-us-form"
+        },
+        {
+          "text": "Donate",
+          "url": "https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=CDPFVT7E9S7NA&source=url"
+        },
+        {
+          "text": "RSS FEED",
+          "url": "https://iranwire.com/feed/"
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://iranwire.com/pages/terms"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://iranwire.com/en/pages/privacy"
+        },
+        {
+          "text": "COOKIES",
+          "url": "https://iranwire.com/pages/cookies"
+        },
+        {
+          "text": "Fact-checking policy",
+          "url": "https://iranwire.com/pages/fact-checking-policy"
+        }
+      ],
+      "retrieval_method": "direct_https",
+      "http_status": 200,
+      "body_sha256": "1f4e352755a2b8995c245e0e53808f67f2c81b0afcfda8491bd9dafe6330865e",
+      "text_sha256": "f7d9986c1350bf011aa6c5fdce56b73626a4f9c56b1b2688e0ad1e6c3eef32ee",
+      "evidence_id": "e_4c7bc58240109cd8"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "p_fd696e16881d1143",
+      "source_id": "e_203e9ae68bc9ee2c",
+      "url": "https://www.ukmto.org/-/media/ukmto/products/20261029-ukmto_warning-185-26.pdf",
+      "title": "UKMTO Warning 185-26",
+      "publisher": "www.ukmto.org",
+      "published_at": "2026-10-29",
+      "retrieved_at": "2026-11-02T22:45:00.521312+00:00",
+      "start": 0,
+      "end": 523,
+      "text": "UKMTO WARNING 185-26 - SUSPICIOUS ACTIVITY. Incident Date: 29 OCT 2026. Incident Time: 0300UTC. Source: Third Party. UKMTO has received a report of an incident occurring in the Strait of Hormuz, 9NM north of Khasab, Oman. The Master of a third-party vessel has reported sighting another vessel on fire. Status of crew is unknown. There is no damage assessment or environmental impact report at present. Vessels are advised to transit with caution and report any suspicious activity to UKMTO, whilst authorities investigate.",
+      "source_text_sha256": "488c4d4b5bddfddab4d4012fbf384956eb7bb5f1f66972a6ef362ba3df99caec",
+      "retrieval_method": "web.run_pdf_text"
+    },
+    {
+      "passage_id": "p_6ae172667ae89591",
+      "source_id": "e_5897d435253e58a5",
+      "url": "https://safety4sea.com/ukmto-reports-vessel-fire-in-strait-of-hormuz-as-us-enforces-blockade-of-iranian-ports/",
+      "title": "UKMTO reports vessel fire in Strait of Hormuz as US enforces blockade of Iranian ports",
+      "publisher": "safety4sea.com",
+      "published_at": "2026-10-29",
+      "retrieved_at": "2026-11-02T22:45:25.254898+00:00",
+      "start": 0,
+      "end": 48,
+      "text": "The claims have not been independently verified.",
+      "source_text_sha256": "b0adec7396d34265cfc3d4b362f6fdf9426d3a3b078387c99345f210da0dbfcf",
+      "retrieval_method": "web.run_verified_exact_excerpt"
+    },
+    {
+      "passage_id": "p_fed0f0698bd9762d",
+      "source_id": "e_96c76a04f35b26f1",
+      "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+      "title": "Limpet Mines Return as Iran Hits Tankers Near Hormuz",
+      "publisher": "windward.ai",
+      "published_at": "2026-11-01T10:57:22+00:00",
+      "retrieved_at": "2026-11-02T22:45:01.002503+00:00",
+      "start": 0,
+      "end": 800,
+      "text": "Nov 1, 2026 7 min read Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz What’s inside? At a Glance Since October 29, Iran has attacked at least four tankers in and around the Strait of Hormuz . One attack used explosive devices fixed to a tanker’s hull by a small boat, the first use of limpet mines in the Gulf region since at least 2019. Three of the four tankers had been operating dark, and at least two are assessed as part of the “STS shuttle” moving Gulf cargoes through the Strait. Iranian sources claimed four tankers hit mines in the Strait and caught fire, though it is unclear whether that refers to vessels beyond the four confirmed. Transits have not slowed, with about 24 AIS -visible transits between October 30 and the morning of November 1, com",
+      "source_text_sha256": "fc7e233bebc2e8d1ed455ca3fab355c0adb740e2103474186f29ecd24f4603d4",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_a038125a397873dd",
+      "source_id": "e_96c76a04f35b26f1",
+      "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+      "title": "Limpet Mines Return as Iran Hits Tankers Near Hormuz",
+      "publisher": "windward.ai",
+      "published_at": "2026-11-01T10:57:22+00:00",
+      "retrieved_at": "2026-11-02T22:45:01.002503+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": "ls, Qatari- and UAE-owned tonnage, and tankers that had spent weeks operating dark. Iranian sources separately claimed that four tankers hit mines in the Strait and caught fire, but it is unclear whether they were referring to additional vessels beyond the four confirmed. Projectiles Strike a Laden LNG Carrier Inside the Gulf On October 30, AL MAYEDA (IMO 9397298) , a Marshall Islands-flagged, Qatari-owned LNG carrier, laden with an unknown quantity of LNG according to Vortexa , was struck by three projectiles around 18:00 UTC, approximately 40 nautical miles south of Lavan Island. Windward data show AL MAYEDA turning around at 18:33 UTC before going dark at 22:17 UTC. AL MAYEDA had previously been dark between September 27 and October 30, and crossed inbound through the Strait of Hormuz d",
+      "source_text_sha256": "fc7e233bebc2e8d1ed455ca3fab355c0adb740e2103474186f29ecd24f4603d4",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_7d76fba07533ac24",
+      "source_id": "e_96c76a04f35b26f1",
+      "url": "https://windward.ai/blog/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers/",
+      "title": "Limpet Mines Return as Iran Hits Tankers Near Hormuz",
+      "publisher": "windward.ai",
+      "published_at": "2026-11-01T10:57:22+00:00",
+      "retrieved_at": "2026-11-02T22:45:01.002503+00:00",
+      "start": 1650,
+      "end": 2450,
+      "text": " nautical miles south of Lavan Island. Windward data show AL MAYEDA turning around at 18:33 UTC before going dark at 22:17 UTC. AL MAYEDA had previously been dark between September 27 and October 30, and crossed inbound through the Strait of Hormuz during that period. AL MAYEDA’s track south of Lavan Island on October 30, 2026, showing the turnaround at 18:33 UTC after it was struck, before the vessel went dark. Source: Windward Maritime AI™ Platform. Limpet Mines Return to the Gulf The same day, a small boat approached LOUISE 1 (IMO 9290323) , a Panama-flagged, Panama-owned crude oil tanker, approximately 25 nautical miles northeast of Khasab, Oman, and emplaced two explosive devices on its hull. The explosion caused a fire in the engine room and briefly disabled the vessel. LOUISE 1 was ",
+      "source_text_sha256": "fc7e233bebc2e8d1ed455ca3fab355c0adb740e2103474186f29ecd24f4603d4",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_b5aa37d3a8527593",
+      "source_id": "e_4c7bc58240109cd8",
+      "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+      "title": "IRGC Claims Third Tanker Exploded by Sea Mine in Strait of Hormuz",
+      "publisher": "iranwire.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.062550+00:00",
+      "start": 550,
+      "end": 1350,
+      "text": "rial patrol over the Strait of Hormuz revealed no trace of IRGC forces. According to the IRGC Navy’s Friday statement, the burning supertanker marks the third vessel to suffer explosions and fires on Friday after transiting what the Islamic Republic deems “unauthorized” maritime routes. The announcement further noted that the supertanker was abandoned following the mine impact at the mouth of the Strait. However, details regarding the ship’s name, flag state, cargo owner, and crew condition were omitted. Previously, on Thursday, October 29, the IRGC reported that three tankers struck sea mines and caught fire while navigating the southern routes of the Strait of Hormuz. In a report on Thursday’s events, Agence France-Presse (AFP) noted that while the Iranian Armed Forces put the number of ",
+      "source_text_sha256": "f7d9986c1350bf011aa6c5fdce56b73626a4f9c56b1b2688e0ad1e6c3eef32ee",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_37f05078dbf7ff3f",
+      "source_id": "e_4c7bc58240109cd8",
+      "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+      "title": "IRGC Claims Third Tanker Exploded by Sea Mine in Strait of Hormuz",
+      "publisher": "iranwire.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.062550+00:00",
+      "start": 1100,
+      "end": 1900,
+      "text": " IRGC reported that three tankers struck sea mines and caught fire while navigating the southern routes of the Strait of Hormuz. In a report on Thursday’s events, Agence France-Presse (AFP) noted that while the Iranian Armed Forces put the number of damaged tankers at four, these claims could not be independently verified. Conversely, the United Kingdom Maritime Trade Operations (UKMTO) reported several maritime security incidents off the coast of Oman. According to UKMTO, one incident involved a small boat attaching two explosive devices to the hull of a tanker, triggering an explosion and an engine room fire, which was subsequently contained, with all crew members safe. UKMTO also reported an unidentified projectile hitting another tanker. It remains unconfirmed whether the maritime secu",
+      "source_text_sha256": "f7d9986c1350bf011aa6c5fdce56b73626a4f9c56b1b2688e0ad1e6c3eef32ee",
+      "retrieval_method": "direct_https"
+    },
+    {
+      "passage_id": "p_1071ba096ca5552a",
+      "source_id": "e_4c7bc58240109cd8",
+      "url": "https://iranwire.com/en/news/159598-irgc-claims-third-tanker-exploded-by-sea-mine-in-strait-of-hormuz/",
+      "title": "IRGC Claims Third Tanker Exploded by Sea Mine in Strait of Hormuz",
+      "publisher": "iranwire.com",
+      "published_at": null,
+      "retrieved_at": "2026-11-02T22:45:01.062550+00:00",
+      "start": 2200,
+      "end": 3000,
+      "text": "ping operations. Rejecting CENTCOM’s claims, the IRGC continues to warn of hazards associated with traveling outside designated Iranian transit zones. Simultaneously, CENTCOM Commander Admiral Brad Cooper stated that during a flight over the Strait of Hormuz earlier in the week, he observed dozens of commercial ships, including oil and liquefied natural gas (LNG) tankers, navigating the waterway without any sign of IRGC forces. Cooper reiterated on Friday afternoon, October 30, that minesweeping operations had rendered the primary transit routes clear. As of the time of reporting, the alleged sea-mine strike on the supertanker carrying over two million barrels of crude oil, the cause of the explosion, and the current status of the vessel have not been independently verified. comments Log i",
+      "source_text_sha256": "f7d9986c1350bf011aa6c5fdce56b73626a4f9c56b1b2688e0ad1e6c3eef32ee",
+      "retrieval_method": "direct_https"
+    }
+  ],
+  "topic": "conflict_unverified_event",
+  "claim_provenance": {
+    "original_url": "https://x.com/AryJeayBackup/status/2115734022051541108",
+    "original_post_caption": "The IRGC-Navy announced in the last 24 hours, 3 violating tankers were struck with sea mines while attempting to pass through the unauthorized illegal southern route of the Strait of Hormoz.  The ships suffered explosions and caught fire before being abandoned off the strait’s https://t.co/f2jVFzzrnm",
+    "caption_source": "yt-dlp public original post metadata",
+    "metadata_path": "/Users/zhuoweiz/Documents/ChatGPT/Firework Hackathon 2/data/videos/twitter_2115734022051541108.info.json",
+    "metadata_sha256": "a4cfd0316a7d5e6b3cf3497a2838ab4bbe79d22302e2ba0747851353bed3ffe3",
+    "claim_scope": "Evaluate underlying event claim, explicitly attributed to IRGC in original caption; do not conflate with the supported fact that IRGC made the announcement."
+  },
+  "retrieved_at": "2026-11-02T22:45:25.492025+00:00",
+  "label": null,
+  "human_verified": false
+}
