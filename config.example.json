@@ -1,0 +1,19 @@
+{
+  "open": {
+    "provider": "fireworks",
+    "model": "accounts/fireworks/models/glm-5p3-flash",
+    "max_output_tokens": 4096,
+    "timeout_s": 60,
+    "parameters": {},
+    "pricing": null
+  },
+  "frontier": {
+    "provider": "fireworks",
+    "model": "accounts/fireworks/models/kimi-k3",
+    "max_output_tokens": 4096,
+    "timeout_s": 60,
+    "parameters": {},
+    "pricing": null
+  },
+  "model_note": "Fireworks-only comparison per host guidance relayed by Ray. A is Kimi K3, a stronger open-model reference, not a proprietary frontier baseline. Use config.fireworks.json for verified prices."
+}

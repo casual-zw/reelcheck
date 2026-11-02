@@ -1,0 +1,16 @@
+{"case_id": "dev_01", "verdict": "supported", "acceptable_evidence_sets": [["D1"]], "uncertainty_reason": null, "slice": "qualified_support", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_02", "verdict": "supported", "acceptable_evidence_sets": [["D3"]], "uncertainty_reason": null, "slice": "exception", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_03", "verdict": "contradicted", "acceptable_evidence_sets": [["D3"]], "uncertainty_reason": null, "slice": "overbroad_scope", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_04", "verdict": "insufficient", "acceptable_evidence_sets": [[]], "uncertainty_reason": "missing_evidence", "slice": "withheld_decisive_evidence", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_05", "verdict": "supported", "acceptable_evidence_sets": [["E1"]], "uncertainty_reason": null, "slice": "normal", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_06", "verdict": "contradicted", "acceptable_evidence_sets": [["E2"]], "uncertainty_reason": null, "slice": "condition", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_07", "verdict": "contradicted", "acceptable_evidence_sets": [["E3"]], "uncertainty_reason": null, "slice": "direction", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_08", "verdict": "insufficient", "acceptable_evidence_sets": [[]], "uncertainty_reason": "missing_evidence", "slice": "missing_condition_evidence", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_09", "verdict": "supported", "acceptable_evidence_sets": [["M1"]], "uncertainty_reason": null, "slice": "qualified_quantity", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_10", "verdict": "supported", "acceptable_evidence_sets": [["M2"]], "uncertainty_reason": null, "slice": "compound_support", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_11", "verdict": "contradicted", "acceptable_evidence_sets": [["M1"]], "uncertainty_reason": null, "slice": "wrong_unit", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_12", "verdict": "insufficient", "acceptable_evidence_sets": [[]], "uncertainty_reason": "missing_evidence", "slice": "average_vs_specific_date", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_13", "verdict": "supported", "acceptable_evidence_sets": [["H1"]], "uncertainty_reason": null, "slice": "normal_quantity", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_14", "verdict": "contradicted", "acceptable_evidence_sets": [["H1"]], "uncertainty_reason": null, "slice": "wrong_entity_quantity", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_15", "verdict": "contradicted", "acceptable_evidence_sets": [["H1"]], "uncertainty_reason": null, "slice": "wrong_mass_unit", "label_status": "AI_draft_pending_independent_human_review"}
+{"case_id": "dev_16", "verdict": "insufficient", "acceptable_evidence_sets": [[]], "uncertainty_reason": "missing_evidence", "slice": "general_vs_specific", "label_status": "AI_draft_pending_independent_human_review"}

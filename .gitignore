@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ReelCheck local credentials and experiment artifacts
+.env
+.env.*
+!.env.example
+config.local.json
+results/
+data/source_snapshots/
