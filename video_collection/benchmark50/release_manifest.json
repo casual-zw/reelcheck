@@ -1,0 +1,13 @@
+{
+  "protocol": "curated50-v2",
+  "at": "2026-11-02T22:31:43.020145+00:00",
+  "files_sha256": {
+    "inputs.jsonl": "f56cbf23d123cc79a1c4e4cd8cd9e2b04dfdb9ff4ad9524634fd38fa15524e2b",
+    "reference_labels.jsonl": "24b3a16cf4237967655768c484c0a5aad19395aaafc70ed56e77dfb7d784bda9",
+    "provenance.jsonl": "e91b720a13c21e963e69822bff0314e0b96fac0dfaef2263fa222c5416e8f228",
+    "source_snapshots.jsonl": "75d77cfbfc8d17916716f467079bfbadf4eae82d0482199ac60c485707c821e0",
+    "split_groups.json": "2cd204252ab03b6460676cda40be9749c059364f061092f58472e74c235cbfa2"
+  },
+  "human_verified": false,
+  "reference_status": "AI draft, development use only"
+}
